@@ -1,37 +1,37 @@
 [
   {
     "full_name": "flarum/flarum",
-    "stargazers_count": 12851,
+    "stargazers_count": 12871,
     "open_issues_count": 0,
-    "forks_count": 1398
+    "forks_count": 1397
   },
   {
     "full_name": "arlyon/async-stripe",
-    "stargazers_count": 91,
-    "open_issues_count": 16,
+    "stargazers_count": 92,
+    "open_issues_count": 15,
     "forks_count": 39
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 6124,
-    "open_issues_count": 176,
-    "forks_count": 569
+    "stargazers_count": 6390,
+    "open_issues_count": 177,
+    "forks_count": 573
   },
   {
     "full_name": "hashicorp/terraform-provider-aws",
-    "stargazers_count": 7361,
-    "open_issues_count": 3496,
-    "forks_count": 6700
+    "stargazers_count": 7365,
+    "open_issues_count": 3505,
+    "forks_count": 6706
   },
   {
     "full_name": "rectorphp/rector",
     "stargazers_count": 5417,
-    "open_issues_count": 15,
+    "open_issues_count": 14,
     "forks_count": 496
   },
   {
     "full_name": "creativetimofficial/tailwind-starter-kit",
-    "stargazers_count": 4826,
+    "stargazers_count": 4827,
     "open_issues_count": 17,
     "forks_count": 716
   },
@@ -56,14 +56,14 @@
   {
     "full_name": "projectdiscovery/nuclei-templates",
     "stargazers_count": 4498,
-    "open_issues_count": 137,
-    "forks_count": 1360
+    "open_issues_count": 134,
+    "forks_count": 1362
   },
   {
     "full_name": "projectdiscovery/nuclei",
-    "stargazers_count": 8581,
-    "open_issues_count": 86,
-    "forks_count": 1213
+    "stargazers_count": 8592,
+    "open_issues_count": 87,
+    "forks_count": 1215
   },
   {
     "full_name": "robcxyz/terraform-null-label",
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "w3f/polkadot-validator-setup",
-    "stargazers_count": 200,
+    "stargazers_count": 201,
     "open_issues_count": 16,
     "forks_count": 130
   },
@@ -104,7 +104,7 @@
   {
     "full_name": "praizz/anya-fellowship",
     "stargazers_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "Orange-Cyberdefense/arsenal",
-    "stargazers_count": 1287,
+    "stargazers_count": 1288,
     "open_issues_count": 0,
     "forks_count": 201
   },
   {
     "full_name": "magmide/magmide",
-    "stargazers_count": 640,
+    "stargazers_count": 646,
     "open_issues_count": 0,
     "forks_count": 9
   },
@@ -145,21 +145,21 @@
   },
   {
     "full_name": "apache/tinkerpop",
-    "stargazers_count": 1531,
-    "open_issues_count": 32,
+    "stargazers_count": 1533,
+    "open_issues_count": 30,
     "forks_count": 710
   },
   {
     "full_name": "JanusGraph/janusgraph",
-    "stargazers_count": 4469,
-    "open_issues_count": 448,
+    "stargazers_count": 4470,
+    "open_issues_count": 447,
     "forks_count": 1073
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 21526,
-    "open_issues_count": 219,
-    "forks_count": 1965
+    "stargazers_count": 21613,
+    "open_issues_count": 220,
+    "forks_count": 1970
   },
   {
     "full_name": "l7mp/stunner",
@@ -176,7 +176,7 @@
   {
     "full_name": "stackrox/stackrox",
     "stargazers_count": 804,
-    "open_issues_count": 122,
+    "open_issues_count": 124,
     "forks_count": 41
   }
 ]
