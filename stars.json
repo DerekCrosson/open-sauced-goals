@@ -1,37 +1,37 @@
 [
   {
     "full_name": "citusdata/citus",
-    "stargazers_count": 6290,
+    "stargazers_count": 6493,
     "open_issues_count": 858,
-    "forks_count": 464
+    "forks_count": 466
   },
   {
     "full_name": "kubecost/opencost",
-    "stargazers_count": 2330,
-    "open_issues_count": 88,
+    "stargazers_count": 2338,
+    "open_issues_count": 87,
     "forks_count": 222
   },
   {
     "full_name": "wazuh/wazuh",
-    "stargazers_count": 4287,
-    "open_issues_count": 1803,
+    "stargazers_count": 4298,
+    "open_issues_count": 1808,
     "forks_count": 786
   },
   {
     "full_name": "stepchowfun/toast",
-    "stargazers_count": 1189,
+    "stargazers_count": 1192,
     "open_issues_count": 7,
     "forks_count": 34
   },
   {
     "full_name": "alajmo/sake",
-    "stargazers_count": 249,
-    "open_issues_count": 8,
+    "stargazers_count": 262,
+    "open_issues_count": 10,
     "forks_count": 7
   },
   {
     "full_name": "knadh/dns.toys",
-    "stargazers_count": 1573,
+    "stargazers_count": 1603,
     "open_issues_count": 3,
     "forks_count": 52
   },
@@ -45,83 +45,83 @@
     "full_name": "brutaldesign/swipebox",
     "stargazers_count": 1972,
     "open_issues_count": 189,
-    "forks_count": 684
+    "forks_count": 685
   },
   {
     "full_name": "roots/sage",
-    "stargazers_count": 11799,
+    "stargazers_count": 11802,
     "open_issues_count": 16,
-    "forks_count": 2992
+    "forks_count": 2994
   },
   {
     "full_name": "grafana/oncall",
-    "stargazers_count": 1225,
+    "stargazers_count": 1506,
     "open_issues_count": 20,
-    "forks_count": 32
+    "forks_count": 44
   },
   {
     "full_name": "shazow/ssh-chat",
-    "stargazers_count": 4809,
-    "open_issues_count": 53,
-    "forks_count": 395
+    "stargazers_count": 4811,
+    "open_issues_count": 52,
+    "forks_count": 396
   },
   {
     "full_name": "ellie/atuin",
     "stargazers_count": 3321,
-    "open_issues_count": 59,
+    "open_issues_count": 61,
     "forks_count": 103
   },
   {
     "full_name": "ned1313/terraform-tuesdays",
-    "stargazers_count": 216,
+    "stargazers_count": 217,
     "open_issues_count": 3,
-    "forks_count": 245
+    "forks_count": 248
   },
   {
     "full_name": "rileytestut/AltStore",
-    "stargazers_count": 7168,
-    "open_issues_count": 464,
-    "forks_count": 509
+    "stargazers_count": 7180,
+    "open_issues_count": 466,
+    "forks_count": 510
   },
   {
     "full_name": "capnproto/capnproto",
-    "stargazers_count": 9015,
-    "open_issues_count": 173,
+    "stargazers_count": 9018,
+    "open_issues_count": 171,
     "forks_count": 768
   },
   {
     "full_name": "flarum/flarum",
-    "stargazers_count": 12894,
+    "stargazers_count": 12897,
     "open_issues_count": 0,
-    "forks_count": 1402
+    "forks_count": 1403
   },
   {
     "full_name": "arlyon/async-stripe",
     "stargazers_count": 93,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 40
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 6893,
+    "stargazers_count": 6921,
     "open_issues_count": 184,
-    "forks_count": 593
+    "forks_count": 595
   },
   {
     "full_name": "hashicorp/terraform-provider-aws",
-    "stargazers_count": 7413,
-    "open_issues_count": 3546,
-    "forks_count": 6732
+    "stargazers_count": 7425,
+    "open_issues_count": 3550,
+    "forks_count": 6737
   },
   {
     "full_name": "rectorphp/rector",
-    "stargazers_count": 5433,
+    "stargazers_count": 5437,
     "open_issues_count": 19,
     "forks_count": 498
   },
   {
     "full_name": "creativetimofficial/tailwind-starter-kit",
-    "stargazers_count": 4837,
+    "stargazers_count": 4838,
     "open_issues_count": 17,
     "forks_count": 720
   },
@@ -145,14 +145,14 @@
   },
   {
     "full_name": "projectdiscovery/nuclei-templates",
-    "stargazers_count": 4520,
-    "open_issues_count": 142,
-    "forks_count": 1374
+    "stargazers_count": 4524,
+    "open_issues_count": 141,
+    "forks_count": 1378
   },
   {
     "full_name": "projectdiscovery/nuclei",
-    "stargazers_count": 8647,
-    "open_issues_count": 96,
+    "stargazers_count": 8655,
+    "open_issues_count": 95,
     "forks_count": 1225
   },
   {
