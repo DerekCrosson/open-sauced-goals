@@ -1,21 +1,21 @@
 [
   {
     "full_name": "mingrammer/diagrams",
-    "stargazers_count": 22399,
-    "open_issues_count": 287,
-    "forks_count": 1349
+    "stargazers_count": 22778,
+    "open_issues_count": 290,
+    "forks_count": 1372
   },
   {
     "full_name": "scribe-public/gitgat",
-    "stargazers_count": 57,
+    "stargazers_count": 60,
     "open_issues_count": 1,
     "forks_count": 2
   },
   {
     "full_name": "routernetes/routernetes",
-    "stargazers_count": 57,
+    "stargazers_count": 65,
     "open_issues_count": 1,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "iandunn/regolith",
@@ -25,9 +25,9 @@
   },
   {
     "full_name": "1N3/Sn1per",
-    "stargazers_count": 5334,
+    "stargazers_count": 5341,
     "open_issues_count": 3,
-    "forks_count": 1498
+    "forks_count": 1500
   },
   {
     "full_name": "whiterabb17/sifter",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "OWASP/Nettacker",
-    "stargazers_count": 1794,
+    "stargazers_count": 1795,
     "open_issues_count": 21,
     "forks_count": 545
   },
@@ -55,51 +55,51 @@
   },
   {
     "full_name": "dapr/dapr",
-    "stargazers_count": 18344,
-    "open_issues_count": 309,
+    "stargazers_count": 18353,
+    "open_issues_count": 307,
     "forks_count": 1410
   },
   {
     "full_name": "chaos-mesh/chaos-mesh",
-    "stargazers_count": 4890,
-    "open_issues_count": 300,
+    "stargazers_count": 4896,
+    "open_issues_count": 301,
     "forks_count": 615
   },
   {
     "full_name": "citusdata/citus",
-    "stargazers_count": 6735,
-    "open_issues_count": 861,
-    "forks_count": 479
+    "stargazers_count": 6743,
+    "open_issues_count": 867,
+    "forks_count": 480
   },
   {
     "full_name": "kubecost/opencost",
-    "stargazers_count": 2394,
-    "open_issues_count": 92,
-    "forks_count": 223
+    "stargazers_count": 2417,
+    "open_issues_count": 94,
+    "forks_count": 226
   },
   {
     "full_name": "wazuh/wazuh",
-    "stargazers_count": 4332,
-    "open_issues_count": 1817,
-    "forks_count": 790
+    "stargazers_count": 4348,
+    "open_issues_count": 1850,
+    "forks_count": 791
   },
   {
     "full_name": "stepchowfun/toast",
-    "stargazers_count": 1201,
+    "stargazers_count": 1202,
     "open_issues_count": 7,
     "forks_count": 34
   },
   {
     "full_name": "alajmo/sake",
-    "stargazers_count": 369,
+    "stargazers_count": 372,
     "open_issues_count": 8,
     "forks_count": 10
   },
   {
     "full_name": "knadh/dns.toys",
-    "stargazers_count": 1737,
-    "open_issues_count": 5,
-    "forks_count": 59
+    "stargazers_count": 1745,
+    "open_issues_count": 4,
+    "forks_count": 60
   },
   {
     "full_name": "finos/FDC3-conformance-framework",
@@ -115,25 +115,25 @@
   },
   {
     "full_name": "roots/sage",
-    "stargazers_count": 11813,
+    "stargazers_count": 11816,
     "open_issues_count": 16,
-    "forks_count": 2996
+    "forks_count": 2995
   },
   {
     "full_name": "grafana/oncall",
-    "stargazers_count": 1946,
-    "open_issues_count": 27,
+    "stargazers_count": 1970,
+    "open_issues_count": 33,
     "forks_count": 55
   },
   {
     "full_name": "shazow/ssh-chat",
-    "stargazers_count": 4840,
+    "stargazers_count": 4861,
     "open_issues_count": 52,
     "forks_count": 399
   },
   {
     "full_name": "ellie/atuin",
-    "stargazers_count": 3341,
+    "stargazers_count": 3349,
     "open_issues_count": 61,
     "forks_count": 104
   },
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "rileytestut/AltStore",
-    "stargazers_count": 7219,
+    "stargazers_count": 7225,
     "open_issues_count": 464,
-    "forks_count": 513
+    "forks_count": 514
   },
   {
     "full_name": "capnproto/capnproto",
-    "stargazers_count": 9033,
+    "stargazers_count": 9034,
     "open_issues_count": 171,
     "forks_count": 770
   },
   {
     "full_name": "flarum/flarum",
-    "stargazers_count": 12922,
+    "stargazers_count": 12926,
     "open_issues_count": 0,
     "forks_count": 1404
   },
   {
     "full_name": "arlyon/async-stripe",
-    "stargazers_count": 93,
-    "open_issues_count": 20,
+    "stargazers_count": 94,
+    "open_issues_count": 21,
     "forks_count": 41
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 6972,
+    "stargazers_count": 6980,
     "open_issues_count": 179,
     "forks_count": 599
   },
   {
     "full_name": "hashicorp/terraform-provider-aws",
-    "stargazers_count": 7452,
-    "open_issues_count": 3539,
-    "forks_count": 6762
+    "stargazers_count": 7462,
+    "open_issues_count": 3549,
+    "forks_count": 6767
   }
 ]
