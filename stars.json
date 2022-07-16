@@ -1,15 +1,15 @@
 [
   {
     "full_name": "ory/keto",
-    "stargazers_count": 3428,
-    "open_issues_count": 60,
-    "forks_count": 240
+    "stargazers_count": 3432,
+    "open_issues_count": 56,
+    "forks_count": 241
   },
   {
     "full_name": "OriginTrail/origintrail-parachain",
     "stargazers_count": 11,
     "open_issues_count": 2,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "w3f/polkadot-dashboard",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "servian/hashiqube",
-    "stargazers_count": 152,
+    "stargazers_count": 153,
     "open_issues_count": 0,
     "forks_count": 39
   },
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "featureform/featureform",
-    "stargazers_count": 964,
-    "open_issues_count": 28,
+    "stargazers_count": 968,
+    "open_issues_count": 25,
     "forks_count": 29
   },
   {
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "rotki/rotki",
-    "stargazers_count": 1737,
-    "open_issues_count": 321,
-    "forks_count": 322
+    "stargazers_count": 1739,
+    "open_issues_count": 317,
+    "forks_count": 321
   },
   {
     "full_name": "fluffynuts/NExpect",
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "clemensv/messaging",
-    "stargazers_count": 456,
+    "stargazers_count": 463,
     "open_issues_count": 2,
     "forks_count": 38
   },
   {
     "full_name": "freqtrade/freqtrade",
-    "stargazers_count": 18200,
-    "open_issues_count": 56,
-    "forks_count": 3871
+    "stargazers_count": 18217,
+    "open_issues_count": 57,
+    "forks_count": 3872
   },
   {
     "full_name": "JosiahThobejane/annoy-instagram-hackers",
@@ -97,31 +97,31 @@
   },
   {
     "full_name": "OpenShot/openshot-qt",
-    "stargazers_count": 2848,
-    "open_issues_count": 245,
-    "forks_count": 420
+    "stargazers_count": 2850,
+    "open_issues_count": 246,
+    "forks_count": 419
   },
   {
     "full_name": "mlandauer/cuttlefish",
-    "stargazers_count": 1190,
+    "stargazers_count": 1191,
     "open_issues_count": 136,
     "forks_count": 149
   },
   {
     "full_name": "rpgp/rpgp",
-    "stargazers_count": 256,
+    "stargazers_count": 258,
     "open_issues_count": 38,
     "forks_count": 37
   },
   {
     "full_name": "mingrammer/diagrams",
-    "stargazers_count": 24396,
-    "open_issues_count": 293,
-    "forks_count": 1472
+    "stargazers_count": 24434,
+    "open_issues_count": 294,
+    "forks_count": 1473
   },
   {
     "full_name": "scribe-public/gitgat",
-    "stargazers_count": 127,
+    "stargazers_count": 129,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "1N3/Sn1per",
-    "stargazers_count": 5395,
+    "stargazers_count": 5400,
     "open_issues_count": 3,
-    "forks_count": 1506
+    "forks_count": 1507
   },
   {
     "full_name": "whiterabb17/sifter",
@@ -157,8 +157,8 @@
   },
   {
     "full_name": "OWASP/Nettacker",
-    "stargazers_count": 1814,
-    "open_issues_count": 23,
+    "stargazers_count": 1823,
+    "open_issues_count": 22,
     "forks_count": 551
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "dapr/dapr",
-    "stargazers_count": 18544,
+    "stargazers_count": 18557,
     "open_issues_count": 322,
-    "forks_count": 1437
+    "forks_count": 1439
   },
   {
     "full_name": "chaos-mesh/chaos-mesh",
-    "stargazers_count": 4946,
-    "open_issues_count": 300,
-    "forks_count": 624
+    "stargazers_count": 4948,
+    "open_issues_count": 299,
+    "forks_count": 625
   }
 ]
