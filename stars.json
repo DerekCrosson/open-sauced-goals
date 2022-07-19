@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "killbill/killbill",
+    "stargazers_count": 2534,
+    "open_issues_count": 150,
+    "forks_count": 634
+  },
+  {
+    "full_name": "prometheus-community/helm-charts",
+    "stargazers_count": 2784,
+    "open_issues_count": 110,
+    "forks_count": 3117
+  },
+  {
     "full_name": "ory/keto",
-    "stargazers_count": 3432,
-    "open_issues_count": 56,
-    "forks_count": 241
+    "stargazers_count": 3436,
+    "open_issues_count": 57,
+    "forks_count": 242
   },
   {
     "full_name": "OriginTrail/origintrail-parachain",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 2,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "w3f/polkadot-dashboard",
@@ -37,7 +49,7 @@
   },
   {
     "full_name": "lavabit/magma",
-    "stargazers_count": 1757,
+    "stargazers_count": 1758,
     "open_issues_count": 43,
     "forks_count": 165
   },
@@ -49,14 +61,14 @@
   },
   {
     "full_name": "freedomofpress/securedrop",
-    "stargazers_count": 3294,
-    "open_issues_count": 416,
+    "stargazers_count": 3295,
+    "open_issues_count": 420,
     "forks_count": 654
   },
   {
     "full_name": "featureform/featureform",
-    "stargazers_count": 968,
-    "open_issues_count": 25,
+    "stargazers_count": 976,
+    "open_issues_count": 27,
     "forks_count": 29
   },
   {
@@ -67,9 +79,9 @@
   },
   {
     "full_name": "rotki/rotki",
-    "stargazers_count": 1739,
-    "open_issues_count": 317,
-    "forks_count": 321
+    "stargazers_count": 1741,
+    "open_issues_count": 308,
+    "forks_count": 322
   },
   {
     "full_name": "fluffynuts/NExpect",
@@ -79,15 +91,15 @@
   },
   {
     "full_name": "clemensv/messaging",
-    "stargazers_count": 463,
+    "stargazers_count": 507,
     "open_issues_count": 2,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "freqtrade/freqtrade",
-    "stargazers_count": 18217,
-    "open_issues_count": 57,
-    "forks_count": 3872
+    "stargazers_count": 18466,
+    "open_issues_count": 52,
+    "forks_count": 3891
   },
   {
     "full_name": "JosiahThobejane/annoy-instagram-hackers",
@@ -97,31 +109,31 @@
   },
   {
     "full_name": "OpenShot/openshot-qt",
-    "stargazers_count": 2850,
-    "open_issues_count": 246,
+    "stargazers_count": 2856,
+    "open_issues_count": 247,
     "forks_count": 419
   },
   {
     "full_name": "mlandauer/cuttlefish",
-    "stargazers_count": 1191,
+    "stargazers_count": 1192,
     "open_issues_count": 136,
     "forks_count": 149
   },
   {
     "full_name": "rpgp/rpgp",
-    "stargazers_count": 258,
-    "open_issues_count": 38,
-    "forks_count": 37
+    "stargazers_count": 262,
+    "open_issues_count": 39,
+    "forks_count": 38
   },
   {
     "full_name": "mingrammer/diagrams",
-    "stargazers_count": 24434,
+    "stargazers_count": 24543,
     "open_issues_count": 294,
-    "forks_count": 1473
+    "forks_count": 1477
   },
   {
     "full_name": "scribe-public/gitgat",
-    "stargazers_count": 129,
+    "stargazers_count": 132,
     "open_issues_count": 1,
     "forks_count": 4
   },
@@ -139,44 +151,32 @@
   },
   {
     "full_name": "1N3/Sn1per",
-    "stargazers_count": 5400,
+    "stargazers_count": 5410,
     "open_issues_count": 3,
-    "forks_count": 1507
+    "forks_count": 1508
   },
   {
     "full_name": "whiterabb17/sifter",
-    "stargazers_count": 40,
+    "stargazers_count": 41,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "cristianbote/goober",
-    "stargazers_count": 2634,
-    "open_issues_count": 35,
-    "forks_count": 98
+    "stargazers_count": 2636,
+    "open_issues_count": 37,
+    "forks_count": 97
   },
   {
     "full_name": "OWASP/Nettacker",
-    "stargazers_count": 1823,
+    "stargazers_count": 1843,
     "open_issues_count": 22,
-    "forks_count": 551
+    "forks_count": 554
   },
   {
     "full_name": "delta1epsilon/BoxPacking",
     "stargazers_count": 56,
     "open_issues_count": 3,
     "forks_count": 22
-  },
-  {
-    "full_name": "dapr/dapr",
-    "stargazers_count": 18557,
-    "open_issues_count": 322,
-    "forks_count": 1439
-  },
-  {
-    "full_name": "chaos-mesh/chaos-mesh",
-    "stargazers_count": 4948,
-    "open_issues_count": 299,
-    "forks_count": 625
   }
 ]
