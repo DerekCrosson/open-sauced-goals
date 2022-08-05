@@ -1,9 +1,45 @@
 [
   {
+    "full_name": "ankane/awesome-legal",
+    "stargazers_count": 489,
+    "open_issues_count": 0,
+    "forks_count": 33
+  },
+  {
+    "full_name": "resyncgg/dacquiri",
+    "stargazers_count": 176,
+    "open_issues_count": 1,
+    "forks_count": 6
+  },
+  {
+    "full_name": "gravitational/teleport",
+    "stargazers_count": 12324,
+    "open_issues_count": 2237,
+    "forks_count": 1225
+  },
+  {
+    "full_name": "getzola/zola",
+    "stargazers_count": 9113,
+    "open_issues_count": 164,
+    "forks_count": 662
+  },
+  {
+    "full_name": "forseti-security/forseti-security",
+    "stargazers_count": 1250,
+    "open_issues_count": 16,
+    "forks_count": 287
+  },
+  {
+    "full_name": "theonedev/onedev",
+    "stargazers_count": 8941,
+    "open_issues_count": 0,
+    "forks_count": 608
+  },
+  {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 15091,
-    "open_issues_count": 92,
-    "forks_count": 1587
+    "stargazers_count": 15190,
+    "open_issues_count": 94,
+    "forks_count": 1604
   },
   {
     "full_name": "boilerplato/rust-lib-crate-template",
@@ -25,9 +61,9 @@
   },
   {
     "full_name": "rs-ipfs/rust-ipfs",
-    "stargazers_count": 1140,
+    "stargazers_count": 1149,
     "open_issues_count": 64,
-    "forks_count": 144
+    "forks_count": 145
   },
   {
     "full_name": "vrtbl/passerine",
@@ -37,26 +73,26 @@
   },
   {
     "full_name": "kevwan/tproxy",
-    "stargazers_count": 2216,
+    "stargazers_count": 2246,
     "open_issues_count": 1,
-    "forks_count": 147
+    "forks_count": 149
   },
   {
     "full_name": "killbill/killbill",
-    "stargazers_count": 2536,
+    "stargazers_count": 2538,
     "open_issues_count": 154,
-    "forks_count": 637
+    "forks_count": 638
   },
   {
     "full_name": "prometheus-community/helm-charts",
-    "stargazers_count": 2837,
-    "open_issues_count": 125,
-    "forks_count": 3187
+    "stargazers_count": 2855,
+    "open_issues_count": 127,
+    "forks_count": 3206
   },
   {
     "full_name": "ory/keto",
-    "stargazers_count": 3469,
-    "open_issues_count": 51,
+    "stargazers_count": 3474,
+    "open_issues_count": 56,
     "forks_count": 242
   },
   {
@@ -73,7 +109,7 @@
   },
   {
     "full_name": "servian/hashiqube",
-    "stargazers_count": 153,
+    "stargazers_count": 154,
     "open_issues_count": 1,
     "forks_count": 39
   },
@@ -91,7 +127,7 @@
   },
   {
     "full_name": "lavabit/magma",
-    "stargazers_count": 1758,
+    "stargazers_count": 1757,
     "open_issues_count": 43,
     "forks_count": 165
   },
@@ -104,13 +140,13 @@
   {
     "full_name": "freedomofpress/securedrop",
     "stargazers_count": 3300,
-    "open_issues_count": 427,
-    "forks_count": 655
+    "open_issues_count": 429,
+    "forks_count": 654
   },
   {
     "full_name": "featureform/featureform",
-    "stargazers_count": 1002,
-    "open_issues_count": 36,
+    "stargazers_count": 1004,
+    "open_issues_count": 33,
     "forks_count": 30
   },
   {
@@ -121,62 +157,26 @@
   },
   {
     "full_name": "rotki/rotki",
-    "stargazers_count": 1769,
-    "open_issues_count": 319,
-    "forks_count": 325
+    "stargazers_count": 1773,
+    "open_issues_count": 315,
+    "forks_count": 326
   },
   {
     "full_name": "fluffynuts/NExpect",
     "stargazers_count": 22,
-    "open_issues_count": 0,
-    "forks_count": 6
+    "open_issues_count": 1,
+    "forks_count": 7
   },
   {
     "full_name": "clemensv/messaging",
-    "stargazers_count": 575,
+    "stargazers_count": 579,
     "open_issues_count": 2,
-    "forks_count": 43
+    "forks_count": 44
   },
   {
     "full_name": "freqtrade/freqtrade",
-    "stargazers_count": 18740,
-    "open_issues_count": 48,
-    "forks_count": 3928
-  },
-  {
-    "full_name": "JosiahThobejane/annoy-instagram-hackers",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "OpenShot/openshot-qt",
-    "stargazers_count": 2871,
-    "open_issues_count": 247,
-    "forks_count": 421
-  },
-  {
-    "full_name": "mlandauer/cuttlefish",
-    "stargazers_count": 1198,
-    "open_issues_count": 137,
-    "forks_count": 151
-  },
-  {
-    "full_name": "rpgp/rpgp",
-    "stargazers_count": 271,
-    "open_issues_count": 40,
-    "forks_count": 38
-  },
-  {
-    "full_name": "mingrammer/diagrams",
-    "stargazers_count": 25209,
-    "open_issues_count": 296,
-    "forks_count": 1517
-  },
-  {
-    "full_name": "scribe-public/gitgat",
-    "stargazers_count": 141,
-    "open_issues_count": 2,
-    "forks_count": 5
+    "stargazers_count": 18761,
+    "open_issues_count": 57,
+    "forks_count": 3932
   }
 ]
