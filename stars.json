@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "typhoeus/typhoeus",
+    "stargazers_count": 3940,
+    "open_issues_count": 128,
+    "forks_count": 442
+  },
+  {
+    "full_name": "dapperlabs/nft-catalog",
+    "stargazers_count": 16,
+    "open_issues_count": 3,
+    "forks_count": 1
+  },
+  {
     "full_name": "GoogleCloudPlatform/google-cloud-ops-agents-ansible",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 9,
-    "forks_count": 53
+    "forks_count": 52
   },
   {
     "full_name": "cloudposse/terraform-tls-ssh-key-pair",
@@ -13,8 +25,8 @@
   },
   {
     "full_name": "hashicorp/vault-action",
-    "stargazers_count": 255,
-    "open_issues_count": 34,
+    "stargazers_count": 257,
+    "open_issues_count": 35,
     "forks_count": 75
   },
   {
@@ -25,27 +37,27 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 26904,
-    "open_issues_count": 81,
-    "forks_count": 703
+    "stargazers_count": 26969,
+    "open_issues_count": 80,
+    "forks_count": 706
   },
   {
     "full_name": "porter-dev/porter",
-    "stargazers_count": 3361,
-    "open_issues_count": 96,
+    "stargazers_count": 3367,
+    "open_issues_count": 95,
     "forks_count": 129
   },
   {
     "full_name": "google-github-actions/auth",
-    "stargazers_count": 419,
+    "stargazers_count": 423,
     "open_issues_count": 2,
     "forks_count": 69
   },
   {
     "full_name": "zkat/miette",
-    "stargazers_count": 1041,
-    "open_issues_count": 32,
-    "forks_count": 53
+    "stargazers_count": 1050,
+    "open_issues_count": 33,
+    "forks_count": 54
   },
   {
     "full_name": "faberNovel/terraform-gcp-github-runner",
@@ -61,15 +73,15 @@
   },
   {
     "full_name": "pulumi/pulumi",
-    "stargazers_count": 13364,
-    "open_issues_count": 1424,
-    "forks_count": 744
+    "stargazers_count": 13398,
+    "open_issues_count": 1422,
+    "forks_count": 748
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 34214,
-    "open_issues_count": 796,
-    "forks_count": 3128
+    "stargazers_count": 34274,
+    "open_issues_count": 803,
+    "forks_count": 3135
   },
   {
     "full_name": "spinach/FantasyPremierLeague.py",
@@ -85,21 +97,21 @@
   },
   {
     "full_name": "resyncgg/dacquiri",
-    "stargazers_count": 192,
-    "open_issues_count": 1,
+    "stargazers_count": 195,
+    "open_issues_count": 3,
     "forks_count": 8
   },
   {
     "full_name": "gravitational/teleport",
-    "stargazers_count": 12404,
-    "open_issues_count": 2212,
-    "forks_count": 1237
+    "stargazers_count": 12427,
+    "open_issues_count": 2230,
+    "forks_count": 1242
   },
   {
     "full_name": "getzola/zola",
-    "stargazers_count": 9194,
-    "open_issues_count": 168,
-    "forks_count": 668
+    "stargazers_count": 9211,
+    "open_issues_count": 165,
+    "forks_count": 669
   },
   {
     "full_name": "forseti-security/forseti-security",
@@ -109,15 +121,15 @@
   },
   {
     "full_name": "theonedev/onedev",
-    "stargazers_count": 9451,
+    "stargazers_count": 9485,
     "open_issues_count": 0,
-    "forks_count": 631
+    "forks_count": 634
   },
   {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 16067,
-    "open_issues_count": 112,
-    "forks_count": 1666
+    "stargazers_count": 16161,
+    "open_issues_count": 123,
+    "forks_count": 1668
   },
   {
     "full_name": "boilerplato/rust-lib-crate-template",
@@ -133,50 +145,38 @@
   },
   {
     "full_name": "anfeichtinger/flutter_production_boilerplate",
-    "stargazers_count": 123,
+    "stargazers_count": 124,
     "open_issues_count": 0,
     "forks_count": 31
   },
   {
     "full_name": "rs-ipfs/rust-ipfs",
-    "stargazers_count": 1159,
-    "open_issues_count": 64,
-    "forks_count": 147
+    "stargazers_count": 1161,
+    "open_issues_count": 66,
+    "forks_count": 148
   },
   {
     "full_name": "vrtbl/passerine",
-    "stargazers_count": 972,
+    "stargazers_count": 973,
     "open_issues_count": 20,
     "forks_count": 33
   },
   {
     "full_name": "kevwan/tproxy",
-    "stargazers_count": 2350,
+    "stargazers_count": 2359,
     "open_issues_count": 1,
     "forks_count": 156
   },
   {
     "full_name": "killbill/killbill",
-    "stargazers_count": 2551,
+    "stargazers_count": 2554,
     "open_issues_count": 153,
     "forks_count": 643
   },
   {
     "full_name": "prometheus-community/helm-charts",
-    "stargazers_count": 2910,
-    "open_issues_count": 110,
-    "forks_count": 3262
-  },
-  {
-    "full_name": "ory/keto",
-    "stargazers_count": 3505,
-    "open_issues_count": 60,
-    "forks_count": 245
-  },
-  {
-    "full_name": "OriginTrail/origintrail-parachain",
-    "stargazers_count": 13,
-    "open_issues_count": 2,
-    "forks_count": 4
+    "stargazers_count": 2915,
+    "open_issues_count": 112,
+    "forks_count": 3274
   }
 ]
