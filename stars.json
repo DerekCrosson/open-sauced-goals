@@ -1,9 +1,9 @@
 [
   {
     "full_name": "macbian-linux/macos-subsystem-for-linux",
-    "stargazers_count": 384,
+    "stargazers_count": 527,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 7
   },
   {
     "full_name": "janko/tus-ruby-server",
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "Shopify/shopify_app",
-    "stargazers_count": 1563,
-    "open_issues_count": 147,
+    "stargazers_count": 1564,
+    "open_issues_count": 140,
     "forks_count": 619
   },
   {
     "full_name": "jeremyevans/sequel",
-    "stargazers_count": 4664,
-    "open_issues_count": 1,
+    "stargazers_count": 4666,
+    "open_issues_count": 0,
     "forks_count": 1059
   },
   {
@@ -31,32 +31,32 @@
   },
   {
     "full_name": "bi1yeu/recruiter_rm",
-    "stargazers_count": 124,
-    "open_issues_count": 1,
+    "stargazers_count": 125,
+    "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "hintmedia/zoom_rb",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 262,
     "forks_count": 82
   },
   {
     "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 1139,
-    "open_issues_count": 37,
-    "forks_count": 44
+    "stargazers_count": 1147,
+    "open_issues_count": 38,
+    "forks_count": 45
   },
   {
     "full_name": "typhoeus/typhoeus",
-    "stargazers_count": 3955,
+    "stargazers_count": 3956,
     "open_issues_count": 129,
     "forks_count": 443
   },
   {
     "full_name": "dapperlabs/nft-catalog",
     "stargazers_count": 18,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 2
   },
   {
@@ -74,8 +74,8 @@
   {
     "full_name": "hashicorp/vault-action",
     "stargazers_count": 262,
-    "open_issues_count": 37,
-    "forks_count": 83
+    "open_issues_count": 39,
+    "forks_count": 86
   },
   {
     "full_name": "rfitzhugh/Forward-2020-Codify-Your-Environment",
@@ -85,50 +85,50 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 27663,
+    "stargazers_count": 27759,
     "open_issues_count": 82,
-    "forks_count": 724
+    "forks_count": 731
   },
   {
     "full_name": "porter-dev/porter",
-    "stargazers_count": 3441,
+    "stargazers_count": 3447,
     "open_issues_count": 97,
-    "forks_count": 135
+    "forks_count": 136
   },
   {
     "full_name": "google-github-actions/auth",
     "stargazers_count": 438,
     "open_issues_count": 3,
-    "forks_count": 77
+    "forks_count": 76
   },
   {
     "full_name": "zkat/miette",
-    "stargazers_count": 1095,
-    "open_issues_count": 33,
+    "stargazers_count": 1096,
+    "open_issues_count": 34,
     "forks_count": 55
   },
   {
     "full_name": "faberNovel/terraform-gcp-github-runner",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 3,
     "forks_count": 6
   },
   {
     "full_name": "terraform-google-modules/terraform-google-github-actions-runners",
-    "stargazers_count": 96,
+    "stargazers_count": 97,
     "open_issues_count": 3,
-    "forks_count": 54
+    "forks_count": 56
   },
   {
     "full_name": "pulumi/pulumi",
-    "stargazers_count": 13665,
-    "open_issues_count": 1466,
-    "forks_count": 766
+    "stargazers_count": 13707,
+    "open_issues_count": 1454,
+    "forks_count": 768
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 34665,
-    "open_issues_count": 823,
+    "stargazers_count": 34697,
+    "open_issues_count": 828,
     "forks_count": 3165
   },
   {
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "ankane/awesome-legal",
-    "stargazers_count": 493,
+    "stargazers_count": 495,
     "open_issues_count": 0,
     "forks_count": 33
   },
   {
     "full_name": "resyncgg/dacquiri",
-    "stargazers_count": 225,
+    "stargazers_count": 229,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "gravitational/teleport",
-    "stargazers_count": 12633,
-    "open_issues_count": 2218,
-    "forks_count": 1275
+    "stargazers_count": 12660,
+    "open_issues_count": 2221,
+    "forks_count": 1280
   },
   {
     "full_name": "getzola/zola",
-    "stargazers_count": 9374,
-    "open_issues_count": 175,
-    "forks_count": 680
+    "stargazers_count": 9387,
+    "open_issues_count": 174,
+    "forks_count": 685
   },
   {
     "full_name": "forseti-security/forseti-security",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "theonedev/onedev",
-    "stargazers_count": 9633,
+    "stargazers_count": 9645,
     "open_issues_count": 0,
-    "forks_count": 645
+    "forks_count": 644
   },
   {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 16546,
-    "open_issues_count": 107,
-    "forks_count": 1720
+    "stargazers_count": 16569,
+    "open_issues_count": 124,
+    "forks_count": 1727
   }
 ]
