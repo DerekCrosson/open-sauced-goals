@@ -1,9 +1,9 @@
 [
   {
     "full_name": "macbian-linux/macos-subsystem-for-linux",
-    "stargazers_count": 527,
+    "stargazers_count": 542,
     "open_issues_count": 0,
-    "forks_count": 7
+    "forks_count": 9
   },
   {
     "full_name": "janko/tus-ruby-server",
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "Shopify/shopify_app",
-    "stargazers_count": 1564,
-    "open_issues_count": 140,
-    "forks_count": 619
+    "stargazers_count": 1566,
+    "open_issues_count": 141,
+    "forks_count": 621
   },
   {
     "full_name": "jeremyevans/sequel",
-    "stargazers_count": 4666,
+    "stargazers_count": 4665,
     "open_issues_count": 0,
     "forks_count": 1059
   },
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 1147,
-    "open_issues_count": 38,
+    "stargazers_count": 1159,
+    "open_issues_count": 40,
     "forks_count": 45
   },
   {
@@ -55,13 +55,13 @@
   },
   {
     "full_name": "dapperlabs/nft-catalog",
-    "stargazers_count": 18,
+    "stargazers_count": 19,
     "open_issues_count": 4,
     "forks_count": 2
   },
   {
     "full_name": "GoogleCloudPlatform/google-cloud-ops-agents-ansible",
-    "stargazers_count": 84,
+    "stargazers_count": 85,
     "open_issues_count": 10,
     "forks_count": 53
   },
@@ -74,8 +74,8 @@
   {
     "full_name": "hashicorp/vault-action",
     "stargazers_count": 262,
-    "open_issues_count": 39,
-    "forks_count": 86
+    "open_issues_count": 40,
+    "forks_count": 87
   },
   {
     "full_name": "rfitzhugh/Forward-2020-Codify-Your-Environment",
@@ -85,25 +85,25 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 27759,
-    "open_issues_count": 82,
-    "forks_count": 731
+    "stargazers_count": 27978,
+    "open_issues_count": 80,
+    "forks_count": 734
   },
   {
     "full_name": "porter-dev/porter",
-    "stargazers_count": 3447,
+    "stargazers_count": 3456,
     "open_issues_count": 97,
     "forks_count": 136
   },
   {
     "full_name": "google-github-actions/auth",
-    "stargazers_count": 438,
+    "stargazers_count": 439,
     "open_issues_count": 3,
     "forks_count": 76
   },
   {
     "full_name": "zkat/miette",
-    "stargazers_count": 1096,
+    "stargazers_count": 1100,
     "open_issues_count": 34,
     "forks_count": 55
   },
@@ -117,19 +117,19 @@
     "full_name": "terraform-google-modules/terraform-google-github-actions-runners",
     "stargazers_count": 97,
     "open_issues_count": 3,
-    "forks_count": 56
+    "forks_count": 57
   },
   {
     "full_name": "pulumi/pulumi",
-    "stargazers_count": 13707,
-    "open_issues_count": 1454,
-    "forks_count": 768
+    "stargazers_count": 13758,
+    "open_issues_count": 1456,
+    "forks_count": 767
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 34697,
+    "stargazers_count": 34749,
     "open_issues_count": 828,
-    "forks_count": 3165
+    "forks_count": 3169
   },
   {
     "full_name": "spinach/FantasyPremierLeague.py",
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "resyncgg/dacquiri",
-    "stargazers_count": 229,
+    "stargazers_count": 231,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "gravitational/teleport",
-    "stargazers_count": 12660,
-    "open_issues_count": 2221,
-    "forks_count": 1280
+    "stargazers_count": 12705,
+    "open_issues_count": 2202,
+    "forks_count": 1285
   },
   {
     "full_name": "getzola/zola",
-    "stargazers_count": 9387,
-    "open_issues_count": 174,
-    "forks_count": 685
+    "stargazers_count": 9405,
+    "open_issues_count": 175,
+    "forks_count": 686
   },
   {
     "full_name": "forseti-security/forseti-security",
-    "stargazers_count": 1259,
-    "open_issues_count": 15,
+    "stargazers_count": 1260,
+    "open_issues_count": 16,
     "forks_count": 289
   },
   {
     "full_name": "theonedev/onedev",
-    "stargazers_count": 9645,
+    "stargazers_count": 9657,
     "open_issues_count": 0,
-    "forks_count": 644
+    "forks_count": 647
   },
   {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 16569,
-    "open_issues_count": 124,
-    "forks_count": 1727
+    "stargazers_count": 16600,
+    "open_issues_count": 120,
+    "forks_count": 1737
   }
 ]
