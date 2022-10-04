@@ -1,7 +1,7 @@
 [
   {
     "full_name": "macbian-linux/macos-subsystem-for-linux",
-    "stargazers_count": 546,
+    "stargazers_count": 547,
     "open_issues_count": 0,
     "forks_count": 10
   },
@@ -13,25 +13,25 @@
   },
   {
     "full_name": "Shopify/shopify_app",
-    "stargazers_count": 1567,
+    "stargazers_count": 1568,
     "open_issues_count": 142,
     "forks_count": 622
   },
   {
     "full_name": "jeremyevans/sequel",
-    "stargazers_count": 4666,
+    "stargazers_count": 4665,
     "open_issues_count": 0,
     "forks_count": 1058
   },
   {
     "full_name": "jeremyevans/roda",
-    "stargazers_count": 1866,
+    "stargazers_count": 1867,
     "open_issues_count": 0,
     "forks_count": 136
   },
   {
     "full_name": "bi1yeu/recruiter_rm",
-    "stargazers_count": 125,
+    "stargazers_count": 126,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "railwayapp/nixpacks",
-    "stargazers_count": 1162,
-    "open_issues_count": 38,
-    "forks_count": 47
+    "stargazers_count": 1175,
+    "open_issues_count": 39,
+    "forks_count": 51
   },
   {
     "full_name": "typhoeus/typhoeus",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "hashicorp/vault-action",
-    "stargazers_count": 264,
+    "stargazers_count": 265,
     "open_issues_count": 40,
     "forks_count": 87
   },
@@ -85,26 +85,26 @@
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 28114,
-    "open_issues_count": 77,
-    "forks_count": 741
+    "stargazers_count": 28213,
+    "open_issues_count": 78,
+    "forks_count": 744
   },
   {
     "full_name": "porter-dev/porter",
-    "stargazers_count": 3463,
-    "open_issues_count": 98,
+    "stargazers_count": 3468,
+    "open_issues_count": 100,
     "forks_count": 136
   },
   {
     "full_name": "google-github-actions/auth",
-    "stargazers_count": 443,
+    "stargazers_count": 444,
     "open_issues_count": 4,
     "forks_count": 76
   },
   {
     "full_name": "zkat/miette",
-    "stargazers_count": 1101,
-    "open_issues_count": 35,
+    "stargazers_count": 1104,
+    "open_issues_count": 36,
     "forks_count": 55
   },
   {
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "terraform-google-modules/terraform-google-github-actions-runners",
-    "stargazers_count": 97,
+    "stargazers_count": 98,
     "open_issues_count": 3,
-    "forks_count": 57
+    "forks_count": 58
   },
   {
     "full_name": "pulumi/pulumi",
-    "stargazers_count": 13799,
-    "open_issues_count": 1466,
-    "forks_count": 770
+    "stargazers_count": 13830,
+    "open_issues_count": 1484,
+    "forks_count": 768
   },
   {
     "full_name": "rclone/rclone",
-    "stargazers_count": 34804,
-    "open_issues_count": 835,
-    "forks_count": 3174
+    "stargazers_count": 34844,
+    "open_issues_count": 833,
+    "forks_count": 3179
   },
   {
     "full_name": "spinach/FantasyPremierLeague.py",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "ankane/awesome-legal",
-    "stargazers_count": 495,
+    "stargazers_count": 494,
     "open_issues_count": 0,
     "forks_count": 33
   },
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "gravitational/teleport",
-    "stargazers_count": 12720,
-    "open_issues_count": 2203,
+    "stargazers_count": 12738,
+    "open_issues_count": 2195,
     "forks_count": 1286
   },
   {
     "full_name": "getzola/zola",
-    "stargazers_count": 9432,
+    "stargazers_count": 9479,
     "open_issues_count": 177,
-    "forks_count": 686
+    "forks_count": 687
   },
   {
     "full_name": "forseti-security/forseti-security",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "theonedev/onedev",
-    "stargazers_count": 9666,
+    "stargazers_count": 9672,
     "open_issues_count": 0,
-    "forks_count": 648
+    "forks_count": 650
   },
   {
     "full_name": "OpenBB-finance/OpenBBTerminal",
-    "stargazers_count": 16650,
-    "open_issues_count": 111,
-    "forks_count": 1740
+    "stargazers_count": 16694,
+    "open_issues_count": 114,
+    "forks_count": 1748
   }
 ]
