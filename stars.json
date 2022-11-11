@@ -1,31 +1,49 @@
 [
   {
+    "full_name": "hanami/hanami",
+    "stargazers_count": 5772,
+    "open_issues_count": 18,
+    "forks_count": 520
+  },
+  {
+    "full_name": "timescale/timescaledb",
+    "stargazers_count": 14001,
+    "open_issues_count": 447,
+    "forks_count": 739
+  },
+  {
+    "full_name": "segmentio/chamber",
+    "stargazers_count": 2187,
+    "open_issues_count": 20,
+    "forks_count": 159
+  },
+  {
     "full_name": "dmlc/xgboost",
-    "stargazers_count": 23426,
-    "open_issues_count": 329,
-    "forks_count": 8500
+    "stargazers_count": 23444,
+    "open_issues_count": 334,
+    "forks_count": 8505
   },
   {
     "full_name": "valeriansaliou/sonic",
-    "stargazers_count": 16818,
-    "open_issues_count": 62,
-    "forks_count": 511
+    "stargazers_count": 16861,
+    "open_issues_count": 63,
+    "forks_count": 512
   },
   {
     "full_name": "trickster0/OffensiveRust",
-    "stargazers_count": 1226,
+    "stargazers_count": 1245,
     "open_issues_count": 0,
-    "forks_count": 142
+    "forks_count": 144
   },
   {
     "full_name": "thuehlinger/daemons",
-    "stargazers_count": 619,
+    "stargazers_count": 620,
     "open_issues_count": 21,
     "forks_count": 72
   },
   {
     "full_name": "abhiTronix/vidgear",
-    "stargazers_count": 2483,
+    "stargazers_count": 2488,
     "open_issues_count": 6,
     "forks_count": 200
   },
@@ -37,7 +55,7 @@
   },
   {
     "full_name": "s3rius/FastAPI-template",
-    "stargazers_count": 504,
+    "stargazers_count": 509,
     "open_issues_count": 13,
     "forks_count": 47
   },
@@ -49,15 +67,15 @@
   },
   {
     "full_name": "snowflakedb/snowflake-connector-python",
-    "stargazers_count": 383,
+    "stargazers_count": 385,
     "open_issues_count": 219,
     "forks_count": 338
   },
   {
     "full_name": "aptos-labs/aptos-core",
-    "stargazers_count": 4553,
-    "open_issues_count": 331,
-    "forks_count": 2447
+    "stargazers_count": 4567,
+    "open_issues_count": 336,
+    "forks_count": 2459
   },
   {
     "full_name": "cloudwan/gohan",
@@ -67,39 +85,39 @@
   },
   {
     "full_name": "amacneil/dbmate",
-    "stargazers_count": 2880,
-    "open_issues_count": 52,
+    "stargazers_count": 2899,
+    "open_issues_count": 53,
     "forks_count": 194
   },
   {
     "full_name": "scottrogowski/code2flow",
-    "stargazers_count": 2824,
+    "stargazers_count": 2838,
     "open_issues_count": 7,
-    "forks_count": 227
+    "forks_count": 228
   },
   {
     "full_name": "pyenv/pyenv",
-    "stargazers_count": 29398,
-    "open_issues_count": 30,
-    "forks_count": 2611
+    "stargazers_count": 29440,
+    "open_issues_count": 32,
+    "forks_count": 2616
   },
   {
     "full_name": "Leaflet/Leaflet",
-    "stargazers_count": 36051,
-    "open_issues_count": 472,
-    "forks_count": 5504
+    "stargazers_count": 36064,
+    "open_issues_count": 471,
+    "forks_count": 5506
   },
   {
     "full_name": "Leaflet/Leaflet.heat",
     "stargazers_count": 1376,
     "open_issues_count": 63,
-    "forks_count": 504
+    "forks_count": 503
   },
   {
     "full_name": "karma-runner/karma",
-    "stargazers_count": 11777,
+    "stargazers_count": 11778,
     "open_issues_count": 340,
-    "forks_count": 1757
+    "forks_count": 1758
   },
   {
     "full_name": "rootstrap/rails_hotwire_base",
@@ -109,74 +127,56 @@
   },
   {
     "full_name": "rootstrap/rails-modular-monolith-with-ddd",
-    "stargazers_count": 18,
+    "stargazers_count": 21,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "kgrzybek/modular-monolith-with-ddd",
-    "stargazers_count": 7557,
+    "stargazers_count": 7574,
     "open_issues_count": 50,
-    "forks_count": 1125
+    "forks_count": 1129
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 4147,
-    "open_issues_count": 275,
-    "forks_count": 418
+    "stargazers_count": 4171,
+    "open_issues_count": 276,
+    "forks_count": 417
   },
   {
     "full_name": "rust-ml/linfa",
-    "stargazers_count": 2015,
+    "stargazers_count": 2023,
     "open_issues_count": 50,
-    "forks_count": 139
+    "forks_count": 140
   },
   {
     "full_name": "viperproject/prusti-dev",
-    "stargazers_count": 1147,
-    "open_issues_count": 171,
-    "forks_count": 76
+    "stargazers_count": 1151,
+    "open_issues_count": 172,
+    "forks_count": 77
   },
   {
     "full_name": "bitvecto-rs/bitvec",
-    "stargazers_count": 853,
-    "open_issues_count": 26,
-    "forks_count": 84
+    "stargazers_count": 854,
+    "open_issues_count": 27,
+    "forks_count": 86
   },
   {
     "full_name": "latex3/latex2e",
-    "stargazers_count": 1359,
-    "open_issues_count": 140,
+    "stargazers_count": 1362,
+    "open_issues_count": 136,
     "forks_count": 199
   },
   {
     "full_name": "gregberge/svgr",
-    "stargazers_count": 9175,
+    "stargazers_count": 9179,
     "open_issues_count": 29,
     "forks_count": 392
   },
   {
     "full_name": "nathanreyes/v-calendar",
-    "stargazers_count": 3615,
-    "open_issues_count": 605,
+    "stargazers_count": 3619,
+    "open_issues_count": 606,
     "forks_count": 710
-  },
-  {
-    "full_name": "AzureAD/microsoft-authentication-library-for-python",
-    "stargazers_count": 486,
-    "open_issues_count": 40,
-    "forks_count": 140
-  },
-  {
-    "full_name": "snaplet/postgres-wasm",
-    "stargazers_count": 1871,
-    "open_issues_count": 5,
-    "forks_count": 55
-  },
-  {
-    "full_name": "lukakerr/rails-ecommerce",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
