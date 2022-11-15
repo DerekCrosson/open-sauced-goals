@@ -1,37 +1,61 @@
 [
   {
+    "full_name": "dremio/dremio-cloud-tools",
+    "stargazers_count": 129,
+    "open_issues_count": 18,
+    "forks_count": 136
+  },
+  {
+    "full_name": "deliveryhero/helm-charts",
+    "stargazers_count": 295,
+    "open_issues_count": 0,
+    "forks_count": 196
+  },
+  {
+    "full_name": "mlmed/torchxrayvision",
+    "stargazers_count": 548,
+    "open_issues_count": 20,
+    "forks_count": 147
+  },
+  {
+    "full_name": "dremio/dremio-oss",
+    "stargazers_count": 1142,
+    "open_issues_count": 47,
+    "forks_count": 394
+  },
+  {
     "full_name": "hanami/hanami",
-    "stargazers_count": 5772,
+    "stargazers_count": 5773,
     "open_issues_count": 18,
     "forks_count": 520
   },
   {
     "full_name": "timescale/timescaledb",
-    "stargazers_count": 14001,
-    "open_issues_count": 447,
-    "forks_count": 739
+    "stargazers_count": 14008,
+    "open_issues_count": 444,
+    "forks_count": 738
   },
   {
     "full_name": "segmentio/chamber",
-    "stargazers_count": 2187,
+    "stargazers_count": 2186,
     "open_issues_count": 20,
     "forks_count": 159
   },
   {
     "full_name": "dmlc/xgboost",
-    "stargazers_count": 23444,
-    "open_issues_count": 334,
-    "forks_count": 8505
+    "stargazers_count": 23457,
+    "open_issues_count": 341,
+    "forks_count": 8507
   },
   {
     "full_name": "valeriansaliou/sonic",
-    "stargazers_count": 16861,
+    "stargazers_count": 16902,
     "open_issues_count": 63,
     "forks_count": 512
   },
   {
     "full_name": "trickster0/OffensiveRust",
-    "stargazers_count": 1245,
+    "stargazers_count": 1255,
     "open_issues_count": 0,
     "forks_count": 144
   },
@@ -39,13 +63,13 @@
     "full_name": "thuehlinger/daemons",
     "stargazers_count": 620,
     "open_issues_count": 21,
-    "forks_count": 72
+    "forks_count": 71
   },
   {
     "full_name": "abhiTronix/vidgear",
-    "stargazers_count": 2488,
-    "open_issues_count": 6,
-    "forks_count": 200
+    "stargazers_count": 2497,
+    "open_issues_count": 7,
+    "forks_count": 201
   },
   {
     "full_name": "hsharpsoftware/rust-web-iis",
@@ -55,7 +79,7 @@
   },
   {
     "full_name": "s3rius/FastAPI-template",
-    "stargazers_count": 509,
+    "stargazers_count": 521,
     "open_issues_count": 13,
     "forks_count": 47
   },
@@ -67,15 +91,15 @@
   },
   {
     "full_name": "snowflakedb/snowflake-connector-python",
-    "stargazers_count": 385,
+    "stargazers_count": 386,
     "open_issues_count": 219,
-    "forks_count": 338
+    "forks_count": 336
   },
   {
     "full_name": "aptos-labs/aptos-core",
-    "stargazers_count": 4567,
-    "open_issues_count": 336,
-    "forks_count": 2459
+    "stargazers_count": 4578,
+    "open_issues_count": 346,
+    "forks_count": 2467
   },
   {
     "full_name": "cloudwan/gohan",
@@ -85,27 +109,27 @@
   },
   {
     "full_name": "amacneil/dbmate",
-    "stargazers_count": 2899,
+    "stargazers_count": 2905,
     "open_issues_count": 53,
     "forks_count": 194
   },
   {
     "full_name": "scottrogowski/code2flow",
-    "stargazers_count": 2838,
+    "stargazers_count": 2850,
     "open_issues_count": 7,
     "forks_count": 228
   },
   {
     "full_name": "pyenv/pyenv",
-    "stargazers_count": 29440,
-    "open_issues_count": 32,
-    "forks_count": 2616
+    "stargazers_count": 29471,
+    "open_issues_count": 31,
+    "forks_count": 2622
   },
   {
     "full_name": "Leaflet/Leaflet",
-    "stargazers_count": 36064,
-    "open_issues_count": 471,
-    "forks_count": 5506
+    "stargazers_count": 36102,
+    "open_issues_count": 472,
+    "forks_count": 5504
   },
   {
     "full_name": "Leaflet/Leaflet.heat",
@@ -115,7 +139,7 @@
   },
   {
     "full_name": "karma-runner/karma",
-    "stargazers_count": 11778,
+    "stargazers_count": 11776,
     "open_issues_count": 340,
     "forks_count": 1758
   },
@@ -127,56 +151,32 @@
   },
   {
     "full_name": "rootstrap/rails-modular-monolith-with-ddd",
-    "stargazers_count": 21,
+    "stargazers_count": 22,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "kgrzybek/modular-monolith-with-ddd",
-    "stargazers_count": 7574,
+    "stargazers_count": 7583,
     "open_issues_count": 50,
-    "forks_count": 1129
+    "forks_count": 1130
   },
   {
     "full_name": "WasmEdge/WasmEdge",
-    "stargazers_count": 4171,
-    "open_issues_count": 276,
-    "forks_count": 417
+    "stargazers_count": 4211,
+    "open_issues_count": 281,
+    "forks_count": 418
   },
   {
     "full_name": "rust-ml/linfa",
-    "stargazers_count": 2023,
-    "open_issues_count": 50,
+    "stargazers_count": 2031,
+    "open_issues_count": 49,
     "forks_count": 140
   },
   {
     "full_name": "viperproject/prusti-dev",
-    "stargazers_count": 1151,
+    "stargazers_count": 1156,
     "open_issues_count": 172,
-    "forks_count": 77
-  },
-  {
-    "full_name": "bitvecto-rs/bitvec",
-    "stargazers_count": 854,
-    "open_issues_count": 27,
-    "forks_count": 86
-  },
-  {
-    "full_name": "latex3/latex2e",
-    "stargazers_count": 1362,
-    "open_issues_count": 136,
-    "forks_count": 199
-  },
-  {
-    "full_name": "gregberge/svgr",
-    "stargazers_count": 9179,
-    "open_issues_count": 29,
-    "forks_count": 392
-  },
-  {
-    "full_name": "nathanreyes/v-calendar",
-    "stargazers_count": 3619,
-    "open_issues_count": 606,
-    "forks_count": 710
+    "forks_count": 78
   }
 ]
