@@ -1,19 +1,43 @@
 [
   {
+    "full_name": "sebcrozet/kiss3d",
+    "stargazers_count": 1217,
+    "open_issues_count": 78,
+    "forks_count": 149
+  },
+  {
+    "full_name": "spiral/framework",
+    "stargazers_count": 1355,
+    "open_issues_count": 30,
+    "forks_count": 69
+  },
+  {
+    "full_name": "bheisler/criterion.rs",
+    "stargazers_count": 2971,
+    "open_issues_count": 102,
+    "forks_count": 222
+  },
+  {
+    "full_name": "LukeMwila/cost-effective-app-spreading-in-k8s",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "dbfit/dbfit",
-    "stargazers_count": 216,
+    "stargazers_count": 217,
     "open_issues_count": 144,
     "forks_count": 89
   },
   {
     "full_name": "seL4/seL4",
-    "stargazers_count": 3999,
-    "open_issues_count": 161,
-    "forks_count": 554
+    "stargazers_count": 4006,
+    "open_issues_count": 162,
+    "forks_count": 555
   },
   {
     "full_name": "hamza1311/material-yew",
-    "stargazers_count": 157,
+    "stargazers_count": 158,
     "open_issues_count": 15,
     "forks_count": 28
   },
@@ -31,13 +55,13 @@
   },
   {
     "full_name": "uber/cadence",
-    "stargazers_count": 6437,
-    "open_issues_count": 357,
-    "forks_count": 645
+    "stargazers_count": 6438,
+    "open_issues_count": 358,
+    "forks_count": 646
   },
   {
     "full_name": "meirwah/awesome-workflow-engines",
-    "stargazers_count": 3901,
+    "stargazers_count": 3910,
     "open_issues_count": 10,
     "forks_count": 454
   },
@@ -55,8 +79,8 @@
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 6031,
-    "open_issues_count": 29,
+    "stargazers_count": 6036,
+    "open_issues_count": 26,
     "forks_count": 295
   },
   {
@@ -67,8 +91,8 @@
   },
   {
     "full_name": "openemr/openemr",
-    "stargazers_count": 2038,
-    "open_issues_count": 155,
+    "stargazers_count": 2041,
+    "open_issues_count": 156,
     "forks_count": 1573
   },
   {
@@ -79,7 +103,7 @@
   },
   {
     "full_name": "deliveryhero/helm-charts",
-    "stargazers_count": 296,
+    "stargazers_count": 297,
     "open_issues_count": 1,
     "forks_count": 203
   },
@@ -87,7 +111,7 @@
     "full_name": "mlmed/torchxrayvision",
     "stargazers_count": 552,
     "open_issues_count": 18,
-    "forks_count": 150
+    "forks_count": 151
   },
   {
     "full_name": "dremio/dremio-oss",
@@ -97,39 +121,39 @@
   },
   {
     "full_name": "hanami/hanami",
-    "stargazers_count": 5913,
-    "open_issues_count": 16,
+    "stargazers_count": 5938,
+    "open_issues_count": 17,
     "forks_count": 523
   },
   {
     "full_name": "timescale/timescaledb",
-    "stargazers_count": 14076,
-    "open_issues_count": 437,
-    "forks_count": 742
+    "stargazers_count": 14091,
+    "open_issues_count": 438,
+    "forks_count": 743
   },
   {
     "full_name": "segmentio/chamber",
-    "stargazers_count": 2190,
+    "stargazers_count": 2191,
     "open_issues_count": 20,
     "forks_count": 159
   },
   {
     "full_name": "dmlc/xgboost",
-    "stargazers_count": 23499,
-    "open_issues_count": 341,
-    "forks_count": 8516
+    "stargazers_count": 23509,
+    "open_issues_count": 338,
+    "forks_count": 8518
   },
   {
     "full_name": "valeriansaliou/sonic",
-    "stargazers_count": 17040,
-    "open_issues_count": 63,
-    "forks_count": 514
+    "stargazers_count": 17064,
+    "open_issues_count": 64,
+    "forks_count": 512
   },
   {
     "full_name": "trickster0/OffensiveRust",
-    "stargazers_count": 1273,
+    "stargazers_count": 1283,
     "open_issues_count": 0,
-    "forks_count": 145
+    "forks_count": 147
   },
   {
     "full_name": "thuehlinger/daemons",
@@ -139,9 +163,9 @@
   },
   {
     "full_name": "abhiTronix/vidgear",
-    "stargazers_count": 2521,
+    "stargazers_count": 2527,
     "open_issues_count": 8,
-    "forks_count": 205
+    "forks_count": 204
   },
   {
     "full_name": "hsharpsoftware/rust-web-iis",
@@ -151,32 +175,8 @@
   },
   {
     "full_name": "s3rius/FastAPI-template",
-    "stargazers_count": 532,
+    "stargazers_count": 539,
     "open_issues_count": 13,
-    "forks_count": 47
-  },
-  {
-    "full_name": "awslabs/sagemaker-explaining-credit-decisions",
-    "stargazers_count": 85,
-    "open_issues_count": 6,
-    "forks_count": 25
-  },
-  {
-    "full_name": "snowflakedb/snowflake-connector-python",
-    "stargazers_count": 390,
-    "open_issues_count": 220,
-    "forks_count": 340
-  },
-  {
-    "full_name": "aptos-labs/aptos-core",
-    "stargazers_count": 4614,
-    "open_issues_count": 329,
-    "forks_count": 2499
-  },
-  {
-    "full_name": "cloudwan/gohan",
-    "stargazers_count": 110,
-    "open_issues_count": 50,
     "forks_count": 47
   }
 ]
