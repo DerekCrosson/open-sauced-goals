@@ -1,19 +1,43 @@
 [
   {
+    "full_name": "extism/extism",
+    "stargazers_count": 498,
+    "open_issues_count": 13,
+    "forks_count": 11
+  },
+  {
+    "full_name": "awslabs/ssosync",
+    "stargazers_count": 365,
+    "open_issues_count": 48,
+    "forks_count": 145
+  },
+  {
+    "full_name": "aws-samples/startup-kit-templates",
+    "stargazers_count": 733,
+    "open_issues_count": 11,
+    "forks_count": 383
+  },
+  {
+    "full_name": "sduduzog/zatechradio",
+    "stargazers_count": 7,
+    "open_issues_count": 2,
+    "forks_count": 5
+  },
+  {
     "full_name": "sebcrozet/kiss3d",
-    "stargazers_count": 1217,
+    "stargazers_count": 1218,
     "open_issues_count": 78,
     "forks_count": 149
   },
   {
     "full_name": "spiral/framework",
-    "stargazers_count": 1355,
+    "stargazers_count": 1356,
     "open_issues_count": 30,
     "forks_count": 69
   },
   {
     "full_name": "bheisler/criterion.rs",
-    "stargazers_count": 2971,
+    "stargazers_count": 2979,
     "open_issues_count": 102,
     "forks_count": 222
   },
@@ -31,8 +55,8 @@
   },
   {
     "full_name": "seL4/seL4",
-    "stargazers_count": 4006,
-    "open_issues_count": 162,
+    "stargazers_count": 4013,
+    "open_issues_count": 163,
     "forks_count": 555
   },
   {
@@ -44,7 +68,7 @@
   {
     "full_name": "pendulum-chain/pendulum",
     "stargazers_count": 11,
-    "open_issues_count": 5,
+    "open_issues_count": 8,
     "forks_count": 5
   },
   {
@@ -55,15 +79,15 @@
   },
   {
     "full_name": "uber/cadence",
-    "stargazers_count": 6438,
-    "open_issues_count": 358,
+    "stargazers_count": 6444,
+    "open_issues_count": 359,
     "forks_count": 646
   },
   {
     "full_name": "meirwah/awesome-workflow-engines",
-    "stargazers_count": 3910,
+    "stargazers_count": 3915,
     "open_issues_count": 10,
-    "forks_count": 454
+    "forks_count": 455
   },
   {
     "full_name": "henri-branken-matogen/henri_libs",
@@ -79,8 +103,8 @@
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 6036,
-    "open_issues_count": 26,
+    "stargazers_count": 6044,
+    "open_issues_count": 25,
     "forks_count": 295
   },
   {
@@ -91,9 +115,9 @@
   },
   {
     "full_name": "openemr/openemr",
-    "stargazers_count": 2041,
-    "open_issues_count": 156,
-    "forks_count": 1573
+    "stargazers_count": 2045,
+    "open_issues_count": 160,
+    "forks_count": 1577
   },
   {
     "full_name": "dremio/dremio-cloud-tools",
@@ -103,80 +127,56 @@
   },
   {
     "full_name": "deliveryhero/helm-charts",
-    "stargazers_count": 297,
-    "open_issues_count": 1,
-    "forks_count": 203
+    "stargazers_count": 298,
+    "open_issues_count": 2,
+    "forks_count": 206
   },
   {
     "full_name": "mlmed/torchxrayvision",
-    "stargazers_count": 552,
+    "stargazers_count": 554,
     "open_issues_count": 18,
-    "forks_count": 151
+    "forks_count": 152
   },
   {
     "full_name": "dremio/dremio-oss",
-    "stargazers_count": 1146,
+    "stargazers_count": 1148,
     "open_issues_count": 47,
     "forks_count": 394
   },
   {
     "full_name": "hanami/hanami",
-    "stargazers_count": 5938,
-    "open_issues_count": 17,
-    "forks_count": 523
+    "stargazers_count": 5945,
+    "open_issues_count": 6,
+    "forks_count": 524
   },
   {
     "full_name": "timescale/timescaledb",
-    "stargazers_count": 14091,
-    "open_issues_count": 438,
-    "forks_count": 743
+    "stargazers_count": 14108,
+    "open_issues_count": 444,
+    "forks_count": 745
   },
   {
     "full_name": "segmentio/chamber",
-    "stargazers_count": 2191,
+    "stargazers_count": 2192,
     "open_issues_count": 20,
     "forks_count": 159
   },
   {
     "full_name": "dmlc/xgboost",
-    "stargazers_count": 23509,
-    "open_issues_count": 338,
-    "forks_count": 8518
+    "stargazers_count": 23520,
+    "open_issues_count": 351,
+    "forks_count": 8521
   },
   {
     "full_name": "valeriansaliou/sonic",
-    "stargazers_count": 17064,
+    "stargazers_count": 17091,
     "open_issues_count": 64,
-    "forks_count": 512
+    "forks_count": 513
   },
   {
     "full_name": "trickster0/OffensiveRust",
     "stargazers_count": 1283,
     "open_issues_count": 0,
     "forks_count": 147
-  },
-  {
-    "full_name": "thuehlinger/daemons",
-    "stargazers_count": 620,
-    "open_issues_count": 21,
-    "forks_count": 71
-  },
-  {
-    "full_name": "abhiTronix/vidgear",
-    "stargazers_count": 2527,
-    "open_issues_count": 8,
-    "forks_count": 204
-  },
-  {
-    "full_name": "hsharpsoftware/rust-web-iis",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "s3rius/FastAPI-template",
-    "stargazers_count": 539,
-    "open_issues_count": 13,
-    "forks_count": 47
   }
 ]
