@@ -1,13 +1,25 @@
 [
   {
+    "full_name": "davidteren/sensible_rails_starter",
+    "stargazers_count": 13,
+    "open_issues_count": 9,
+    "forks_count": 4
+  },
+  {
+    "full_name": "palkan/anyway_config",
+    "stargazers_count": 596,
+    "open_issues_count": 0,
+    "forks_count": 33
+  },
+  {
     "full_name": "extism/extism",
-    "stargazers_count": 498,
-    "open_issues_count": 13,
-    "forks_count": 11
+    "stargazers_count": 1066,
+    "open_issues_count": 20,
+    "forks_count": 22
   },
   {
     "full_name": "awslabs/ssosync",
-    "stargazers_count": 365,
+    "stargazers_count": 366,
     "open_issues_count": 48,
     "forks_count": 145
   },
@@ -15,7 +27,7 @@
     "full_name": "aws-samples/startup-kit-templates",
     "stargazers_count": 733,
     "open_issues_count": 11,
-    "forks_count": 383
+    "forks_count": 384
   },
   {
     "full_name": "sduduzog/zatechradio",
@@ -25,21 +37,21 @@
   },
   {
     "full_name": "sebcrozet/kiss3d",
-    "stargazers_count": 1218,
-    "open_issues_count": 78,
+    "stargazers_count": 1219,
+    "open_issues_count": 79,
     "forks_count": 149
   },
   {
     "full_name": "spiral/framework",
     "stargazers_count": 1356,
-    "open_issues_count": 30,
+    "open_issues_count": 31,
     "forks_count": 69
   },
   {
     "full_name": "bheisler/criterion.rs",
-    "stargazers_count": 2979,
-    "open_issues_count": 102,
-    "forks_count": 222
+    "stargazers_count": 2994,
+    "open_issues_count": 104,
+    "forks_count": 223
   },
   {
     "full_name": "LukeMwila/cost-effective-app-spreading-in-k8s",
@@ -55,8 +67,8 @@
   },
   {
     "full_name": "seL4/seL4",
-    "stargazers_count": 4013,
-    "open_issues_count": 163,
+    "stargazers_count": 4018,
+    "open_issues_count": 161,
     "forks_count": 555
   },
   {
@@ -79,15 +91,15 @@
   },
   {
     "full_name": "uber/cadence",
-    "stargazers_count": 6444,
-    "open_issues_count": 359,
-    "forks_count": 646
+    "stargazers_count": 6450,
+    "open_issues_count": 361,
+    "forks_count": 645
   },
   {
     "full_name": "meirwah/awesome-workflow-engines",
-    "stargazers_count": 3915,
-    "open_issues_count": 10,
-    "forks_count": 455
+    "stargazers_count": 3922,
+    "open_issues_count": 9,
+    "forks_count": 456
   },
   {
     "full_name": "henri-branken-matogen/henri_libs",
@@ -103,9 +115,9 @@
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 6044,
-    "open_issues_count": 25,
-    "forks_count": 295
+    "stargazers_count": 6055,
+    "open_issues_count": 24,
+    "forks_count": 299
   },
   {
     "full_name": "jeffcpullen/openemr-ansible",
@@ -115,9 +127,9 @@
   },
   {
     "full_name": "openemr/openemr",
-    "stargazers_count": 2045,
-    "open_issues_count": 160,
-    "forks_count": 1577
+    "stargazers_count": 2049,
+    "open_issues_count": 157,
+    "forks_count": 1578
   },
   {
     "full_name": "dremio/dremio-cloud-tools",
@@ -127,15 +139,15 @@
   },
   {
     "full_name": "deliveryhero/helm-charts",
-    "stargazers_count": 298,
-    "open_issues_count": 2,
+    "stargazers_count": 302,
+    "open_issues_count": 0,
     "forks_count": 206
   },
   {
     "full_name": "mlmed/torchxrayvision",
-    "stargazers_count": 554,
+    "stargazers_count": 558,
     "open_issues_count": 18,
-    "forks_count": 152
+    "forks_count": 154
   },
   {
     "full_name": "dremio/dremio-oss",
@@ -145,38 +157,26 @@
   },
   {
     "full_name": "hanami/hanami",
-    "stargazers_count": 5945,
-    "open_issues_count": 6,
+    "stargazers_count": 5952,
+    "open_issues_count": 1,
     "forks_count": 524
   },
   {
     "full_name": "timescale/timescaledb",
-    "stargazers_count": 14108,
+    "stargazers_count": 14132,
     "open_issues_count": 444,
-    "forks_count": 745
+    "forks_count": 746
   },
   {
     "full_name": "segmentio/chamber",
-    "stargazers_count": 2192,
+    "stargazers_count": 2194,
     "open_issues_count": 20,
     "forks_count": 159
   },
   {
     "full_name": "dmlc/xgboost",
-    "stargazers_count": 23520,
-    "open_issues_count": 351,
-    "forks_count": 8521
-  },
-  {
-    "full_name": "valeriansaliou/sonic",
-    "stargazers_count": 17091,
-    "open_issues_count": 64,
-    "forks_count": 513
-  },
-  {
-    "full_name": "trickster0/OffensiveRust",
-    "stargazers_count": 1283,
-    "open_issues_count": 0,
-    "forks_count": 147
+    "stargazers_count": 23530,
+    "open_issues_count": 348,
+    "forks_count": 8525
   }
 ]
