@@ -2,7 +2,7 @@
   {
     "full_name": "davidteren/sensible_rails_starter",
     "stargazers_count": 13,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 4
   },
   {
@@ -13,13 +13,13 @@
   },
   {
     "full_name": "extism/extism",
-    "stargazers_count": 1066,
+    "stargazers_count": 1179,
     "open_issues_count": 20,
-    "forks_count": 22
+    "forks_count": 25
   },
   {
     "full_name": "awslabs/ssosync",
-    "stargazers_count": 366,
+    "stargazers_count": 367,
     "open_issues_count": 48,
     "forks_count": 145
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "sebcrozet/kiss3d",
-    "stargazers_count": 1219,
+    "stargazers_count": 1220,
     "open_issues_count": 79,
     "forks_count": 149
   },
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "bheisler/criterion.rs",
-    "stargazers_count": 2994,
-    "open_issues_count": 104,
-    "forks_count": 223
+    "stargazers_count": 3001,
+    "open_issues_count": 97,
+    "forks_count": 224
   },
   {
     "full_name": "LukeMwila/cost-effective-app-spreading-in-k8s",
@@ -61,14 +61,14 @@
   },
   {
     "full_name": "dbfit/dbfit",
-    "stargazers_count": 217,
+    "stargazers_count": 218,
     "open_issues_count": 144,
     "forks_count": 89
   },
   {
     "full_name": "seL4/seL4",
-    "stargazers_count": 4018,
-    "open_issues_count": 161,
+    "stargazers_count": 4020,
+    "open_issues_count": 162,
     "forks_count": 555
   },
   {
@@ -80,7 +80,7 @@
   {
     "full_name": "pendulum-chain/pendulum",
     "stargazers_count": 11,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 5
   },
   {
@@ -91,15 +91,15 @@
   },
   {
     "full_name": "uber/cadence",
-    "stargazers_count": 6450,
+    "stargazers_count": 6456,
     "open_issues_count": 361,
-    "forks_count": 645
+    "forks_count": 648
   },
   {
     "full_name": "meirwah/awesome-workflow-engines",
-    "stargazers_count": 3922,
+    "stargazers_count": 3928,
     "open_issues_count": 9,
-    "forks_count": 456
+    "forks_count": 457
   },
   {
     "full_name": "henri-branken-matogen/henri_libs",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 6055,
+    "stargazers_count": 6057,
     "open_issues_count": 24,
     "forks_count": 299
   },
@@ -127,56 +127,56 @@
   },
   {
     "full_name": "openemr/openemr",
-    "stargazers_count": 2049,
-    "open_issues_count": 157,
-    "forks_count": 1578
+    "stargazers_count": 2051,
+    "open_issues_count": 158,
+    "forks_count": 1582
   },
   {
     "full_name": "dremio/dremio-cloud-tools",
-    "stargazers_count": 130,
+    "stargazers_count": 131,
     "open_issues_count": 18,
     "forks_count": 136
   },
   {
     "full_name": "deliveryhero/helm-charts",
-    "stargazers_count": 302,
+    "stargazers_count": 303,
     "open_issues_count": 0,
-    "forks_count": 206
+    "forks_count": 207
   },
   {
     "full_name": "mlmed/torchxrayvision",
-    "stargazers_count": 558,
-    "open_issues_count": 18,
-    "forks_count": 154
+    "stargazers_count": 560,
+    "open_issues_count": 19,
+    "forks_count": 155
   },
   {
     "full_name": "dremio/dremio-oss",
-    "stargazers_count": 1148,
+    "stargazers_count": 1150,
     "open_issues_count": 47,
     "forks_count": 394
   },
   {
     "full_name": "hanami/hanami",
-    "stargazers_count": 5952,
+    "stargazers_count": 5958,
     "open_issues_count": 1,
-    "forks_count": 524
+    "forks_count": 525
   },
   {
     "full_name": "timescale/timescaledb",
-    "stargazers_count": 14132,
-    "open_issues_count": 444,
-    "forks_count": 746
+    "stargazers_count": 14150,
+    "open_issues_count": 453,
+    "forks_count": 747
   },
   {
     "full_name": "segmentio/chamber",
-    "stargazers_count": 2194,
-    "open_issues_count": 20,
+    "stargazers_count": 2202,
+    "open_issues_count": 21,
     "forks_count": 159
   },
   {
     "full_name": "dmlc/xgboost",
-    "stargazers_count": 23530,
-    "open_issues_count": 348,
-    "forks_count": 8525
+    "stargazers_count": 23533,
+    "open_issues_count": 343,
+    "forks_count": 8530
   }
 ]
