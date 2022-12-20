@@ -13,19 +13,19 @@
   },
   {
     "full_name": "palkan/anyway_config",
-    "stargazers_count": 596,
+    "stargazers_count": 598,
     "open_issues_count": 0,
     "forks_count": 32
   },
   {
     "full_name": "extism/extism",
-    "stargazers_count": 1350,
-    "open_issues_count": 22,
-    "forks_count": 27
+    "stargazers_count": 1378,
+    "open_issues_count": 23,
+    "forks_count": 28
   },
   {
     "full_name": "awslabs/ssosync",
-    "stargazers_count": 369,
+    "stargazers_count": 372,
     "open_issues_count": 52,
     "forks_count": 147
   },
@@ -43,19 +43,19 @@
   },
   {
     "full_name": "sebcrozet/kiss3d",
-    "stargazers_count": 1221,
+    "stargazers_count": 1224,
     "open_issues_count": 79,
     "forks_count": 149
   },
   {
     "full_name": "spiral/framework",
-    "stargazers_count": 1360,
-    "open_issues_count": 34,
+    "stargazers_count": 1362,
+    "open_issues_count": 33,
     "forks_count": 70
   },
   {
     "full_name": "bheisler/criterion.rs",
-    "stargazers_count": 3019,
+    "stargazers_count": 3029,
     "open_issues_count": 100,
     "forks_count": 225
   },
@@ -73,19 +73,19 @@
   },
   {
     "full_name": "seL4/seL4",
-    "stargazers_count": 4023,
-    "open_issues_count": 162,
-    "forks_count": 558
+    "stargazers_count": 4026,
+    "open_issues_count": 163,
+    "forks_count": 559
   },
   {
     "full_name": "hamza1311/material-yew",
     "stargazers_count": 161,
     "open_issues_count": 16,
-    "forks_count": 29
+    "forks_count": 30
   },
   {
     "full_name": "pendulum-chain/pendulum",
-    "stargazers_count": 12,
+    "stargazers_count": 14,
     "open_issues_count": 12,
     "forks_count": 5
   },
@@ -97,13 +97,13 @@
   },
   {
     "full_name": "uber/cadence",
-    "stargazers_count": 6470,
-    "open_issues_count": 356,
-    "forks_count": 650
+    "stargazers_count": 6475,
+    "open_issues_count": 358,
+    "forks_count": 651
   },
   {
     "full_name": "meirwah/awesome-workflow-engines",
-    "stargazers_count": 3948,
+    "stargazers_count": 3956,
     "open_issues_count": 9,
     "forks_count": 458
   },
@@ -116,14 +116,14 @@
   {
     "full_name": "openemr/openemr-devops",
     "stargazers_count": 71,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 105
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 6061,
-    "open_issues_count": 23,
-    "forks_count": 300
+    "stargazers_count": 6068,
+    "open_issues_count": 24,
+    "forks_count": 302
   },
   {
     "full_name": "jeffcpullen/openemr-ansible",
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "openemr/openemr",
-    "stargazers_count": 2054,
-    "open_issues_count": 162,
+    "stargazers_count": 2060,
+    "open_issues_count": 166,
     "forks_count": 1588
   },
   {
@@ -145,13 +145,13 @@
   },
   {
     "full_name": "deliveryhero/helm-charts",
-    "stargazers_count": 303,
-    "open_issues_count": 0,
-    "forks_count": 205
+    "stargazers_count": 304,
+    "open_issues_count": 1,
+    "forks_count": 206
   },
   {
     "full_name": "mlmed/torchxrayvision",
-    "stargazers_count": 563,
+    "stargazers_count": 567,
     "open_issues_count": 19,
     "forks_count": 157
   },
@@ -165,17 +165,17 @@
     "full_name": "hanami/hanami",
     "stargazers_count": 5970,
     "open_issues_count": 2,
-    "forks_count": 525
+    "forks_count": 524
   },
   {
     "full_name": "timescale/timescaledb",
-    "stargazers_count": 14197,
-    "open_issues_count": 455,
-    "forks_count": 749
+    "stargazers_count": 14218,
+    "open_issues_count": 451,
+    "forks_count": 750
   },
   {
     "full_name": "segmentio/chamber",
-    "stargazers_count": 2205,
+    "stargazers_count": 2206,
     "open_issues_count": 20,
     "forks_count": 159
   }
