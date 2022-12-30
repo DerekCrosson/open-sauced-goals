@@ -7,9 +7,9 @@
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 2367,
-    "open_issues_count": 23,
-    "forks_count": 118
+    "stargazers_count": 4162,
+    "open_issues_count": 17,
+    "forks_count": 186
   },
   {
     "full_name": "Sage/sageone_api_csharp_sample",
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "palkan/anyway_config",
-    "stargazers_count": 599,
+    "stargazers_count": 601,
     "open_issues_count": 0,
     "forks_count": 32
   },
   {
     "full_name": "extism/extism",
-    "stargazers_count": 1414,
-    "open_issues_count": 23,
-    "forks_count": 29
+    "stargazers_count": 1437,
+    "open_issues_count": 25,
+    "forks_count": 31
   },
   {
     "full_name": "awslabs/ssosync",
-    "stargazers_count": 374,
+    "stargazers_count": 375,
     "open_issues_count": 54,
     "forks_count": 150
   },
   {
     "full_name": "aws-samples/startup-kit-templates",
-    "stargazers_count": 735,
+    "stargazers_count": 736,
     "open_issues_count": 11,
-    "forks_count": 387
+    "forks_count": 388
   },
   {
     "full_name": "sduduzog/zatechradio",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "sebcrozet/kiss3d",
-    "stargazers_count": 1228,
+    "stargazers_count": 1230,
     "open_issues_count": 79,
-    "forks_count": 149
+    "forks_count": 150
   },
   {
     "full_name": "spiral/framework",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "bheisler/criterion.rs",
-    "stargazers_count": 3043,
+    "stargazers_count": 3057,
     "open_issues_count": 101,
     "forks_count": 225
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "seL4/seL4",
-    "stargazers_count": 4033,
+    "stargazers_count": 4037,
     "open_issues_count": 164,
     "forks_count": 559
   },
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "uber/cadence",
-    "stargazers_count": 6491,
+    "stargazers_count": 6497,
     "open_issues_count": 356,
-    "forks_count": 652
+    "forks_count": 654
   },
   {
     "full_name": "meirwah/awesome-workflow-engines",
-    "stargazers_count": 3967,
+    "stargazers_count": 3973,
     "open_issues_count": 9,
-    "forks_count": 459
+    "forks_count": 458
   },
   {
     "full_name": "henri-branken-matogen/henri_libs",
@@ -128,14 +128,14 @@
   {
     "full_name": "openemr/openemr-devops",
     "stargazers_count": 71,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 106
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 6074,
-    "open_issues_count": 25,
-    "forks_count": 304
+    "stargazers_count": 6080,
+    "open_issues_count": 24,
+    "forks_count": 303
   },
   {
     "full_name": "jeffcpullen/openemr-ansible",
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "openemr/openemr",
-    "stargazers_count": 2066,
-    "open_issues_count": 152,
+    "stargazers_count": 2069,
+    "open_issues_count": 159,
     "forks_count": 1588
   },
   {
     "full_name": "dremio/dremio-cloud-tools",
-    "stargazers_count": 132,
-    "open_issues_count": 18,
-    "forks_count": 138
+    "stargazers_count": 133,
+    "open_issues_count": 19,
+    "forks_count": 139
   },
   {
     "full_name": "deliveryhero/helm-charts",
     "stargazers_count": 306,
     "open_issues_count": 2,
-    "forks_count": 207
+    "forks_count": 208
   },
   {
     "full_name": "mlmed/torchxrayvision",
-    "stargazers_count": 570,
+    "stargazers_count": 571,
     "open_issues_count": 18,
-    "forks_count": 156
+    "forks_count": 158
   },
   {
     "full_name": "dremio/dremio-oss",
-    "stargazers_count": 1154,
+    "stargazers_count": 1153,
     "open_issues_count": 47,
     "forks_count": 394
   },
   {
     "full_name": "hanami/hanami",
-    "stargazers_count": 5973,
-    "open_issues_count": 1,
-    "forks_count": 525
+    "stargazers_count": 5975,
+    "open_issues_count": 2,
+    "forks_count": 527
   }
 ]
