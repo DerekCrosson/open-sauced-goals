@@ -1,21 +1,21 @@
 [
   {
     "full_name": "beyarkay/eskom-calendar",
-    "stargazers_count": 75,
-    "open_issues_count": 51,
+    "stargazers_count": 77,
+    "open_issues_count": 41,
     "forks_count": 13
   },
   {
     "full_name": "bibendi/dip",
-    "stargazers_count": 1082,
+    "stargazers_count": 1085,
     "open_issues_count": 13,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 7555,
-    "open_issues_count": 52,
-    "forks_count": 328
+    "stargazers_count": 8441,
+    "open_issues_count": 49,
+    "forks_count": 370
   },
   {
     "full_name": "Sage/sageone_api_csharp_sample",
@@ -37,19 +37,19 @@
   },
   {
     "full_name": "extism/extism",
-    "stargazers_count": 1602,
+    "stargazers_count": 1605,
     "open_issues_count": 28,
     "forks_count": 38
   },
   {
     "full_name": "awslabs/ssosync",
-    "stargazers_count": 380,
-    "open_issues_count": 37,
+    "stargazers_count": 383,
+    "open_issues_count": 23,
     "forks_count": 153
   },
   {
     "full_name": "aws-samples/startup-kit-templates",
-    "stargazers_count": 740,
+    "stargazers_count": 741,
     "open_issues_count": 11,
     "forks_count": 391
   },
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "sebcrozet/kiss3d",
-    "stargazers_count": 1243,
+    "stargazers_count": 1245,
     "open_issues_count": 80,
     "forks_count": 153
   },
   {
     "full_name": "spiral/framework",
     "stargazers_count": 1375,
-    "open_issues_count": 37,
+    "open_issues_count": 38,
     "forks_count": 71
   },
   {
     "full_name": "bheisler/criterion.rs",
-    "stargazers_count": 3128,
-    "open_issues_count": 103,
-    "forks_count": 229
+    "stargazers_count": 3133,
+    "open_issues_count": 104,
+    "forks_count": 230
   },
   {
     "full_name": "LukeMwila/cost-effective-app-spreading-in-k8s",
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "seL4/seL4",
-    "stargazers_count": 4060,
-    "open_issues_count": 163,
+    "stargazers_count": 4064,
+    "open_issues_count": 165,
     "forks_count": 567
   },
   {
@@ -104,7 +104,7 @@
   {
     "full_name": "pendulum-chain/pendulum",
     "stargazers_count": 15,
-    "open_issues_count": 17,
+    "open_issues_count": 19,
     "forks_count": 5
   },
   {
@@ -115,15 +115,15 @@
   },
   {
     "full_name": "uber/cadence",
-    "stargazers_count": 6578,
-    "open_issues_count": 358,
-    "forks_count": 661
+    "stargazers_count": 6589,
+    "open_issues_count": 359,
+    "forks_count": 663
   },
   {
     "full_name": "meirwah/awesome-workflow-engines",
-    "stargazers_count": 4039,
+    "stargazers_count": 4047,
     "open_issues_count": 9,
-    "forks_count": 462
+    "forks_count": 463
   },
   {
     "full_name": "henri-branken-matogen/henri_libs",
@@ -134,14 +134,14 @@
   {
     "full_name": "openemr/openemr-devops",
     "stargazers_count": 71,
-    "open_issues_count": 2,
+    "open_issues_count": 1,
     "forks_count": 108
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 6114,
-    "open_issues_count": 24,
-    "forks_count": 310
+    "stargazers_count": 6119,
+    "open_issues_count": 25,
+    "forks_count": 311
   },
   {
     "full_name": "jeffcpullen/openemr-ansible",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "openemr/openemr",
-    "stargazers_count": 2101,
-    "open_issues_count": 157,
-    "forks_count": 1606
+    "stargazers_count": 2111,
+    "open_issues_count": 154,
+    "forks_count": 1608
   },
   {
     "full_name": "dremio/dremio-cloud-tools",
     "stargazers_count": 136,
-    "open_issues_count": 19,
+    "open_issues_count": 20,
     "forks_count": 142
   },
   {
     "full_name": "deliveryhero/helm-charts",
-    "stargazers_count": 316,
-    "open_issues_count": 1,
-    "forks_count": 210
+    "stargazers_count": 318,
+    "open_issues_count": 6,
+    "forks_count": 211
   },
   {
     "full_name": "mlmed/torchxrayvision",
-    "stargazers_count": 590,
+    "stargazers_count": 591,
     "open_issues_count": 18,
-    "forks_count": 157
+    "forks_count": 158
   },
   {
     "full_name": "dremio/dremio-oss",
     "stargazers_count": 1162,
-    "open_issues_count": 47,
+    "open_issues_count": 48,
     "forks_count": 395
   }
 ]
