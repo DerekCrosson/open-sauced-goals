@@ -7,15 +7,15 @@
   },
   {
     "full_name": "bibendi/dip",
-    "stargazers_count": 1085,
+    "stargazers_count": 1087,
     "open_issues_count": 13,
-    "forks_count": 31
+    "forks_count": 32
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 8441,
-    "open_issues_count": 49,
-    "forks_count": 370
+    "stargazers_count": 8754,
+    "open_issues_count": 39,
+    "forks_count": 384
   },
   {
     "full_name": "Sage/sageone_api_csharp_sample",
@@ -31,25 +31,25 @@
   },
   {
     "full_name": "palkan/anyway_config",
-    "stargazers_count": 618,
+    "stargazers_count": 620,
     "open_issues_count": 4,
-    "forks_count": 37
-  },
-  {
-    "full_name": "extism/extism",
-    "stargazers_count": 1605,
-    "open_issues_count": 28,
     "forks_count": 38
   },
   {
+    "full_name": "extism/extism",
+    "stargazers_count": 1624,
+    "open_issues_count": 30,
+    "forks_count": 40
+  },
+  {
     "full_name": "awslabs/ssosync",
-    "stargazers_count": 383,
-    "open_issues_count": 23,
+    "stargazers_count": 386,
+    "open_issues_count": 22,
     "forks_count": 153
   },
   {
     "full_name": "aws-samples/startup-kit-templates",
-    "stargazers_count": 741,
+    "stargazers_count": 742,
     "open_issues_count": 11,
     "forks_count": 391
   },
@@ -63,19 +63,19 @@
     "full_name": "sebcrozet/kiss3d",
     "stargazers_count": 1245,
     "open_issues_count": 80,
-    "forks_count": 153
+    "forks_count": 154
   },
   {
     "full_name": "spiral/framework",
-    "stargazers_count": 1375,
-    "open_issues_count": 38,
+    "stargazers_count": 1374,
+    "open_issues_count": 39,
     "forks_count": 71
   },
   {
     "full_name": "bheisler/criterion.rs",
-    "stargazers_count": 3133,
-    "open_issues_count": 104,
-    "forks_count": 230
+    "stargazers_count": 3142,
+    "open_issues_count": 107,
+    "forks_count": 229
   },
   {
     "full_name": "LukeMwila/cost-effective-app-spreading-in-k8s",
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "seL4/seL4",
-    "stargazers_count": 4064,
+    "stargazers_count": 4070,
     "open_issues_count": 165,
-    "forks_count": 567
+    "forks_count": 569
   },
   {
     "full_name": "hamza1311/material-yew",
@@ -104,7 +104,7 @@
   {
     "full_name": "pendulum-chain/pendulum",
     "stargazers_count": 15,
-    "open_issues_count": 19,
+    "open_issues_count": 20,
     "forks_count": 5
   },
   {
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "uber/cadence",
-    "stargazers_count": 6589,
+    "stargazers_count": 6598,
     "open_issues_count": 359,
     "forks_count": 663
   },
   {
     "full_name": "meirwah/awesome-workflow-engines",
-    "stargazers_count": 4047,
+    "stargazers_count": 4052,
     "open_issues_count": 9,
     "forks_count": 463
   },
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "openemr/openemr-devops",
-    "stargazers_count": 71,
-    "open_issues_count": 1,
+    "stargazers_count": 72,
+    "open_issues_count": 2,
     "forks_count": 108
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 6119,
+    "stargazers_count": 6121,
     "open_issues_count": 25,
-    "forks_count": 311
+    "forks_count": 310
   },
   {
     "full_name": "jeffcpullen/openemr-ansible",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "openemr/openemr",
-    "stargazers_count": 2111,
-    "open_issues_count": 154,
-    "forks_count": 1608
+    "stargazers_count": 2117,
+    "open_issues_count": 156,
+    "forks_count": 1611
   },
   {
     "full_name": "dremio/dremio-cloud-tools",
@@ -164,19 +164,19 @@
   {
     "full_name": "deliveryhero/helm-charts",
     "stargazers_count": 318,
-    "open_issues_count": 6,
+    "open_issues_count": 1,
     "forks_count": 211
   },
   {
     "full_name": "mlmed/torchxrayvision",
-    "stargazers_count": 591,
+    "stargazers_count": 593,
     "open_issues_count": 18,
-    "forks_count": 158
+    "forks_count": 159
   },
   {
     "full_name": "dremio/dremio-oss",
-    "stargazers_count": 1162,
-    "open_issues_count": 48,
+    "stargazers_count": 1163,
+    "open_issues_count": 45,
     "forks_count": 395
   }
 ]
