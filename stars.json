@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "stoplightio/elements",
+    "stargazers_count": 898,
+    "open_issues_count": 186,
+    "forks_count": 112
+  },
+  {
     "full_name": "alakise/bulma-floating-button",
     "stargazers_count": 13,
     "open_issues_count": 0,
@@ -13,19 +19,19 @@
   },
   {
     "full_name": "jan-dh/figma-tailwindcss",
-    "stargazers_count": 111,
+    "stargazers_count": 112,
     "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "phenopolis/pluto",
-    "stargazers_count": 33,
+    "stargazers_count": 35,
     "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "ronin-rb/ronin",
-    "stargazers_count": 499,
+    "stargazers_count": 505,
     "open_issues_count": 13,
     "forks_count": 39
   },
@@ -37,15 +43,15 @@
   },
   {
     "full_name": "bibendi/dip",
-    "stargazers_count": 1089,
+    "stargazers_count": 1091,
     "open_issues_count": 13,
     "forks_count": 33
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 8987,
-    "open_issues_count": 59,
-    "forks_count": 403
+    "stargazers_count": 9046,
+    "open_issues_count": 68,
+    "forks_count": 408
   },
   {
     "full_name": "Sage/sageone_api_csharp_sample",
@@ -55,25 +61,25 @@
   },
   {
     "full_name": "davidteren/sensible_rails_starter",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 21,
     "forks_count": 4
   },
   {
     "full_name": "palkan/anyway_config",
     "stargazers_count": 629,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 39
   },
   {
     "full_name": "extism/extism",
-    "stargazers_count": 1649,
-    "open_issues_count": 34,
+    "stargazers_count": 1663,
+    "open_issues_count": 33,
     "forks_count": 44
   },
   {
     "full_name": "awslabs/ssosync",
-    "stargazers_count": 390,
+    "stargazers_count": 391,
     "open_issues_count": 22,
     "forks_count": 153
   },
@@ -81,7 +87,7 @@
     "full_name": "aws-samples/startup-kit-templates",
     "stargazers_count": 744,
     "open_issues_count": 11,
-    "forks_count": 392
+    "forks_count": 393
   },
   {
     "full_name": "sduduzog/zatechradio",
@@ -91,20 +97,20 @@
   },
   {
     "full_name": "sebcrozet/kiss3d",
-    "stargazers_count": 1251,
+    "stargazers_count": 1253,
     "open_issues_count": 78,
-    "forks_count": 157
+    "forks_count": 158
   },
   {
     "full_name": "spiral/framework",
     "stargazers_count": 1379,
-    "open_issues_count": 39,
-    "forks_count": 72
+    "open_issues_count": 36,
+    "forks_count": 73
   },
   {
     "full_name": "bheisler/criterion.rs",
-    "stargazers_count": 3180,
-    "open_issues_count": 111,
+    "stargazers_count": 3197,
+    "open_issues_count": 112,
     "forks_count": 230
   },
   {
@@ -115,19 +121,19 @@
   },
   {
     "full_name": "dbfit/dbfit",
-    "stargazers_count": 217,
+    "stargazers_count": 218,
     "open_issues_count": 144,
     "forks_count": 90
   },
   {
     "full_name": "seL4/seL4",
-    "stargazers_count": 4085,
-    "open_issues_count": 167,
+    "stargazers_count": 4088,
+    "open_issues_count": 168,
     "forks_count": 571
   },
   {
     "full_name": "hamza1311/material-yew",
-    "stargazers_count": 168,
+    "stargazers_count": 171,
     "open_issues_count": 15,
     "forks_count": 31
   },
@@ -145,15 +151,15 @@
   },
   {
     "full_name": "uber/cadence",
-    "stargazers_count": 6629,
-    "open_issues_count": 367,
+    "stargazers_count": 6647,
+    "open_issues_count": 370,
     "forks_count": 667
   },
   {
     "full_name": "meirwah/awesome-workflow-engines",
-    "stargazers_count": 4082,
+    "stargazers_count": 4088,
     "open_issues_count": 9,
-    "forks_count": 464
+    "forks_count": 466
   },
   {
     "full_name": "henri-branken-matogen/henri_libs",
@@ -165,18 +171,12 @@
     "full_name": "openemr/openemr-devops",
     "stargazers_count": 74,
     "open_issues_count": 2,
-    "forks_count": 108
+    "forks_count": 110
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 6138,
-    "open_issues_count": 25,
-    "forks_count": 313
-  },
-  {
-    "full_name": "jeffcpullen/openemr-ansible",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 6148,
+    "open_issues_count": 26,
+    "forks_count": 314
   }
 ]
