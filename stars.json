@@ -1,8 +1,8 @@
 [
   {
     "full_name": "stoplightio/elements",
-    "stargazers_count": 907,
-    "open_issues_count": 188,
+    "stargazers_count": 911,
+    "open_issues_count": 187,
     "forks_count": 113
   },
   {
@@ -19,21 +19,21 @@
   },
   {
     "full_name": "jan-dh/figma-tailwindcss",
-    "stargazers_count": 115,
+    "stargazers_count": 117,
     "open_issues_count": 4,
     "forks_count": 12
   },
   {
     "full_name": "phenopolis/pluto",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 6,
     "forks_count": 3
   },
   {
     "full_name": "ronin-rb/ronin",
-    "stargazers_count": 509,
+    "stargazers_count": 527,
     "open_issues_count": 13,
-    "forks_count": 41
+    "forks_count": 43
   },
   {
     "full_name": "beyarkay/eskom-calendar",
@@ -49,13 +49,13 @@
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 9390,
-    "open_issues_count": 67,
-    "forks_count": 428
+    "stargazers_count": 9604,
+    "open_issues_count": 60,
+    "forks_count": 441
   },
   {
     "full_name": "Sage/sageone_api_csharp_sample",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 23
   },
@@ -73,19 +73,19 @@
   },
   {
     "full_name": "extism/extism",
-    "stargazers_count": 1693,
-    "open_issues_count": 25,
+    "stargazers_count": 1703,
+    "open_issues_count": 29,
     "forks_count": 45
   },
   {
     "full_name": "awslabs/ssosync",
     "stargazers_count": 396,
-    "open_issues_count": 23,
-    "forks_count": 152
+    "open_issues_count": 24,
+    "forks_count": 151
   },
   {
     "full_name": "aws-samples/startup-kit-templates",
-    "stargazers_count": 745,
+    "stargazers_count": 747,
     "open_issues_count": 11,
     "forks_count": 393
   },
@@ -97,21 +97,21 @@
   },
   {
     "full_name": "sebcrozet/kiss3d",
-    "stargazers_count": 1263,
+    "stargazers_count": 1265,
     "open_issues_count": 78,
     "forks_count": 158
   },
   {
     "full_name": "spiral/framework",
-    "stargazers_count": 1393,
-    "open_issues_count": 36,
+    "stargazers_count": 1399,
+    "open_issues_count": 37,
     "forks_count": 73
   },
   {
     "full_name": "bheisler/criterion.rs",
-    "stargazers_count": 3216,
+    "stargazers_count": 3224,
     "open_issues_count": 117,
-    "forks_count": 233
+    "forks_count": 235
   },
   {
     "full_name": "LukeMwila/cost-effective-app-spreading-in-k8s",
@@ -127,20 +127,20 @@
   },
   {
     "full_name": "seL4/seL4",
-    "stargazers_count": 4100,
+    "stargazers_count": 4107,
     "open_issues_count": 167,
     "forks_count": 575
   },
   {
     "full_name": "hamza1311/material-yew",
-    "stargazers_count": 172,
+    "stargazers_count": 173,
     "open_issues_count": 15,
     "forks_count": 32
   },
   {
     "full_name": "pendulum-chain/pendulum",
     "stargazers_count": 17,
-    "open_issues_count": 25,
+    "open_issues_count": 26,
     "forks_count": 5
   },
   {
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "uber/cadence",
-    "stargazers_count": 6669,
-    "open_issues_count": 378,
-    "forks_count": 666
+    "stargazers_count": 6680,
+    "open_issues_count": 381,
+    "forks_count": 667
   },
   {
     "full_name": "meirwah/awesome-workflow-engines",
-    "stargazers_count": 4123,
+    "stargazers_count": 4136,
     "open_issues_count": 9,
-    "forks_count": 466
+    "forks_count": 468
   },
   {
     "full_name": "henri-branken-matogen/henri_libs",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "datreeio/datree",
-    "stargazers_count": 6164,
-    "open_issues_count": 28,
-    "forks_count": 316
+    "stargazers_count": 6167,
+    "open_issues_count": 25,
+    "forks_count": 314
   }
 ]
