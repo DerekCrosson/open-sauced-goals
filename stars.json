@@ -1,15 +1,15 @@
 [
   {
     "full_name": "matteozappia/DynamicCow",
-    "stargazers_count": 455,
+    "stargazers_count": 458,
     "open_issues_count": 10,
     "forks_count": 36
   },
   {
     "full_name": "awslabs/mountpoint-s3",
-    "stargazers_count": 2385,
-    "open_issues_count": 40,
-    "forks_count": 42
+    "stargazers_count": 2421,
+    "open_issues_count": 42,
+    "forks_count": 44
   },
   {
     "full_name": "tomichj/signature-pad-rails",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "szimek/signature_pad",
-    "stargazers_count": 9002,
+    "stargazers_count": 9009,
     "open_issues_count": 9,
-    "forks_count": 1943
+    "forks_count": 1944
   },
   {
     "full_name": "florisvdg/check-pr-signed-commits",
@@ -37,27 +37,27 @@
   },
   {
     "full_name": "Ovi/DummyJSON",
-    "stargazers_count": 532,
+    "stargazers_count": 537,
     "open_issues_count": 3,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "victorkvarghese/react-native-feature-boilerplate",
-    "stargazers_count": 189,
+    "stargazers_count": 190,
     "open_issues_count": 19,
     "forks_count": 67
   },
   {
     "full_name": "mpoon/gpt-repository-loader",
-    "stargazers_count": 1389,
+    "stargazers_count": 1414,
     "open_issues_count": 16,
-    "forks_count": 66
+    "forks_count": 71
   },
   {
     "full_name": "nextgenhealthcare/connect",
-    "stargazers_count": 683,
-    "open_issues_count": 287,
-    "forks_count": 221
+    "stargazers_count": 689,
+    "open_issues_count": 288,
+    "forks_count": 222
   },
   {
     "full_name": "rust-nairobi/africastalking-rust",
@@ -73,19 +73,19 @@
   },
   {
     "full_name": "win-acme/win-acme",
-    "stargazers_count": 4736,
-    "open_issues_count": 8,
-    "forks_count": 764
+    "stargazers_count": 4738,
+    "open_issues_count": 9,
+    "forks_count": 763
   },
   {
     "full_name": "kube-rs/kube",
-    "stargazers_count": 1986,
-    "open_issues_count": 91,
-    "forks_count": 235
+    "stargazers_count": 1995,
+    "open_issues_count": 89,
+    "forks_count": 236
   },
   {
     "full_name": "stoplightio/elements",
-    "stargazers_count": 946,
+    "stargazers_count": 948,
     "open_issues_count": 185,
     "forks_count": 120
   },
@@ -109,33 +109,33 @@
   },
   {
     "full_name": "phenopolis/pluto",
-    "stargazers_count": 53,
+    "stargazers_count": 54,
     "open_issues_count": 8,
     "forks_count": 4
   },
   {
     "full_name": "ronin-rb/ronin",
     "stargazers_count": 539,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 44
   },
   {
     "full_name": "beyarkay/eskom-calendar",
-    "stargazers_count": 102,
-    "open_issues_count": 26,
-    "forks_count": 18
+    "stargazers_count": 103,
+    "open_issues_count": 27,
+    "forks_count": 19
   },
   {
     "full_name": "bibendi/dip",
-    "stargazers_count": 1116,
+    "stargazers_count": 1118,
     "open_issues_count": 14,
     "forks_count": 34
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 11201,
-    "open_issues_count": 62,
-    "forks_count": 514
+    "stargazers_count": 11232,
+    "open_issues_count": 63,
+    "forks_count": 516
   },
   {
     "full_name": "Sage/sageone_api_csharp_sample",
@@ -151,25 +151,25 @@
   },
   {
     "full_name": "palkan/anyway_config",
-    "stargazers_count": 636,
+    "stargazers_count": 641,
     "open_issues_count": 2,
     "forks_count": 41
   },
   {
     "full_name": "extism/extism",
-    "stargazers_count": 1863,
-    "open_issues_count": 35,
+    "stargazers_count": 1869,
+    "open_issues_count": 30,
     "forks_count": 49
   },
   {
     "full_name": "awslabs/ssosync",
     "stargazers_count": 412,
-    "open_issues_count": 27,
-    "forks_count": 155
+    "open_issues_count": 28,
+    "forks_count": 156
   },
   {
     "full_name": "aws-samples/startup-kit-templates",
-    "stargazers_count": 755,
+    "stargazers_count": 757,
     "open_issues_count": 11,
     "forks_count": 395
   },
