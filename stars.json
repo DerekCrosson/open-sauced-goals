@@ -1,5 +1,41 @@
 [
   {
+    "full_name": "maniSbindra/spinnaker-packer-ansible-php-azure-demo",
+    "stargazers_count": 7,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "percona/percona-xtrabackup",
+    "stargazers_count": 1002,
+    "open_issues_count": 12,
+    "forks_count": 313
+  },
+  {
+    "full_name": "gregschmit/recurring_select",
+    "stargazers_count": 311,
+    "open_issues_count": 50,
+    "forks_count": 228
+  },
+  {
+    "full_name": "openai-php/client",
+    "stargazers_count": 2310,
+    "open_issues_count": 5,
+    "forks_count": 196
+  },
+  {
+    "full_name": "databrickslabs/dolly",
+    "stargazers_count": 6237,
+    "open_issues_count": 5,
+    "forks_count": 597
+  },
+  {
+    "full_name": "PHP-CS-Fixer/PHP-CS-Fixer",
+    "stargazers_count": 11884,
+    "open_issues_count": 361,
+    "forks_count": 1495
+  },
+  {
     "full_name": "matteozappia/DynamicCow",
     "stargazers_count": 458,
     "open_issues_count": 10,
@@ -7,8 +43,8 @@
   },
   {
     "full_name": "awslabs/mountpoint-s3",
-    "stargazers_count": 2421,
-    "open_issues_count": 42,
+    "stargazers_count": 2450,
+    "open_issues_count": 44,
     "forks_count": 44
   },
   {
@@ -19,9 +55,9 @@
   },
   {
     "full_name": "szimek/signature_pad",
-    "stargazers_count": 9009,
-    "open_issues_count": 9,
-    "forks_count": 1944
+    "stargazers_count": 9020,
+    "open_issues_count": 10,
+    "forks_count": 1947
   },
   {
     "full_name": "florisvdg/check-pr-signed-commits",
@@ -31,15 +67,15 @@
   },
   {
     "full_name": "tilo/smarter_csv",
-    "stargazers_count": 1303,
+    "stargazers_count": 1304,
     "open_issues_count": 4,
     "forks_count": 185
   },
   {
     "full_name": "Ovi/DummyJSON",
-    "stargazers_count": 537,
+    "stargazers_count": 543,
     "open_issues_count": 3,
-    "forks_count": 83
+    "forks_count": 84
   },
   {
     "full_name": "victorkvarghese/react-native-feature-boilerplate",
@@ -49,13 +85,13 @@
   },
   {
     "full_name": "mpoon/gpt-repository-loader",
-    "stargazers_count": 1414,
+    "stargazers_count": 1445,
     "open_issues_count": 16,
     "forks_count": 71
   },
   {
     "full_name": "nextgenhealthcare/connect",
-    "stargazers_count": 689,
+    "stargazers_count": 691,
     "open_issues_count": 288,
     "forks_count": 222
   },
@@ -73,19 +109,19 @@
   },
   {
     "full_name": "win-acme/win-acme",
-    "stargazers_count": 4738,
-    "open_issues_count": 9,
-    "forks_count": 763
+    "stargazers_count": 4747,
+    "open_issues_count": 11,
+    "forks_count": 765
   },
   {
     "full_name": "kube-rs/kube",
-    "stargazers_count": 1995,
-    "open_issues_count": 89,
-    "forks_count": 236
+    "stargazers_count": 2013,
+    "open_issues_count": 90,
+    "forks_count": 238
   },
   {
     "full_name": "stoplightio/elements",
-    "stargazers_count": 948,
+    "stargazers_count": 952,
     "open_issues_count": 185,
     "forks_count": 120
   },
@@ -103,7 +139,7 @@
   },
   {
     "full_name": "jan-dh/figma-tailwindcss",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 6,
     "forks_count": 13
   },
@@ -111,18 +147,18 @@
     "full_name": "phenopolis/pluto",
     "stargazers_count": 54,
     "open_issues_count": 8,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "ronin-rb/ronin",
-    "stargazers_count": 539,
+    "stargazers_count": 540,
     "open_issues_count": 11,
     "forks_count": 44
   },
   {
     "full_name": "beyarkay/eskom-calendar",
-    "stargazers_count": 103,
-    "open_issues_count": 27,
+    "stargazers_count": 109,
+    "open_issues_count": 22,
     "forks_count": 19
   },
   {
@@ -133,50 +169,14 @@
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 11232,
-    "open_issues_count": 63,
-    "forks_count": 516
+    "stargazers_count": 11435,
+    "open_issues_count": 65,
+    "forks_count": 524
   },
   {
     "full_name": "Sage/sageone_api_csharp_sample",
     "stargazers_count": 16,
     "open_issues_count": 0,
     "forks_count": 23
-  },
-  {
-    "full_name": "davidteren/sensible_rails_starter",
-    "stargazers_count": 14,
-    "open_issues_count": 18,
-    "forks_count": 4
-  },
-  {
-    "full_name": "palkan/anyway_config",
-    "stargazers_count": 641,
-    "open_issues_count": 2,
-    "forks_count": 41
-  },
-  {
-    "full_name": "extism/extism",
-    "stargazers_count": 1869,
-    "open_issues_count": 30,
-    "forks_count": 49
-  },
-  {
-    "full_name": "awslabs/ssosync",
-    "stargazers_count": 412,
-    "open_issues_count": 28,
-    "forks_count": 156
-  },
-  {
-    "full_name": "aws-samples/startup-kit-templates",
-    "stargazers_count": 757,
-    "open_issues_count": 11,
-    "forks_count": 395
-  },
-  {
-    "full_name": "sduduzog/zatechradio",
-    "stargazers_count": 6,
-    "open_issues_count": 1,
-    "forks_count": 5
   }
 ]
