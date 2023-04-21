@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "StretchShop/StretchShop",
+    "stargazers_count": 49,
+    "open_issues_count": 2,
+    "forks_count": 13
+  },
+  {
+    "full_name": "microsoft/DeepSpeed",
+    "stargazers_count": 22196,
+    "open_issues_count": 794,
+    "forks_count": 2635
+  },
+  {
     "full_name": "maniSbindra/spinnaker-packer-ansible-php-azure-demo",
     "stargazers_count": 7,
     "open_issues_count": 0,
@@ -7,7 +19,7 @@
   },
   {
     "full_name": "percona/percona-xtrabackup",
-    "stargazers_count": 1005,
+    "stargazers_count": 1006,
     "open_issues_count": 12,
     "forks_count": 313
   },
@@ -19,33 +31,33 @@
   },
   {
     "full_name": "openai-php/client",
-    "stargazers_count": 2348,
-    "open_issues_count": 7,
-    "forks_count": 196
+    "stargazers_count": 2363,
+    "open_issues_count": 4,
+    "forks_count": 198
   },
   {
     "full_name": "databrickslabs/dolly",
-    "stargazers_count": 8181,
-    "open_issues_count": 7,
-    "forks_count": 782
+    "stargazers_count": 8752,
+    "open_issues_count": 8,
+    "forks_count": 855
   },
   {
     "full_name": "PHP-CS-Fixer/PHP-CS-Fixer",
-    "stargazers_count": 11887,
-    "open_issues_count": 362,
-    "forks_count": 1497
+    "stargazers_count": 11894,
+    "open_issues_count": 355,
+    "forks_count": 1498
   },
   {
     "full_name": "matteozappia/DynamicCow",
-    "stargazers_count": 460,
+    "stargazers_count": 461,
     "open_issues_count": 10,
     "forks_count": 36
   },
   {
     "full_name": "awslabs/mountpoint-s3",
-    "stargazers_count": 2464,
+    "stargazers_count": 2481,
     "open_issues_count": 40,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "tomichj/signature-pad-rails",
@@ -55,9 +67,9 @@
   },
   {
     "full_name": "szimek/signature_pad",
-    "stargazers_count": 9027,
+    "stargazers_count": 9033,
     "open_issues_count": 11,
-    "forks_count": 1949
+    "forks_count": 1950
   },
   {
     "full_name": "florisvdg/check-pr-signed-commits",
@@ -67,15 +79,15 @@
   },
   {
     "full_name": "tilo/smarter_csv",
-    "stargazers_count": 1304,
+    "stargazers_count": 1309,
     "open_issues_count": 4,
     "forks_count": 185
   },
   {
     "full_name": "Ovi/DummyJSON",
-    "stargazers_count": 553,
+    "stargazers_count": 560,
     "open_issues_count": 3,
-    "forks_count": 84
+    "forks_count": 85
   },
   {
     "full_name": "victorkvarghese/react-native-feature-boilerplate",
@@ -85,15 +97,15 @@
   },
   {
     "full_name": "mpoon/gpt-repository-loader",
-    "stargazers_count": 1481,
+    "stargazers_count": 1502,
     "open_issues_count": 16,
-    "forks_count": 71
+    "forks_count": 73
   },
   {
     "full_name": "nextgenhealthcare/connect",
-    "stargazers_count": 692,
-    "open_issues_count": 288,
-    "forks_count": 222
+    "stargazers_count": 695,
+    "open_issues_count": 287,
+    "forks_count": 221
   },
   {
     "full_name": "rust-nairobi/africastalking-rust",
@@ -109,19 +121,19 @@
   },
   {
     "full_name": "win-acme/win-acme",
-    "stargazers_count": 4753,
-    "open_issues_count": 8,
+    "stargazers_count": 4758,
+    "open_issues_count": 6,
     "forks_count": 766
   },
   {
     "full_name": "kube-rs/kube",
-    "stargazers_count": 2022,
-    "open_issues_count": 91,
-    "forks_count": 238
+    "stargazers_count": 2051,
+    "open_issues_count": 92,
+    "forks_count": 237
   },
   {
     "full_name": "stoplightio/elements",
-    "stargazers_count": 952,
+    "stargazers_count": 957,
     "open_issues_count": 183,
     "forks_count": 120
   },
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "beyarkay/eskom-calendar",
-    "stargazers_count": 111,
-    "open_issues_count": 22,
+    "stargazers_count": 115,
+    "open_issues_count": 25,
     "forks_count": 19
   },
   {
     "full_name": "bibendi/dip",
-    "stargazers_count": 1119,
+    "stargazers_count": 1123,
     "open_issues_count": 14,
     "forks_count": 34
-  },
-  {
-    "full_name": "google/comprehensive-rust",
-    "stargazers_count": 11547,
-    "open_issues_count": 62,
-    "forks_count": 528
-  },
-  {
-    "full_name": "Sage/sageone_api_csharp_sample",
-    "stargazers_count": 16,
-    "open_issues_count": 0,
-    "forks_count": 23
   }
 ]
