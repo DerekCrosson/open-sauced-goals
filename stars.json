@@ -1,27 +1,45 @@
 [
   {
+    "full_name": "fabianishere/pam_reattach",
+    "stargazers_count": 467,
+    "open_issues_count": 1,
+    "forks_count": 20
+  },
+  {
+    "full_name": "zhanymkanov/fastapi-best-practices",
+    "stargazers_count": 3482,
+    "open_issues_count": 9,
+    "forks_count": 251
+  },
+  {
+    "full_name": "johanmartindev/11ty_vite_postcss_mvp_template",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "openware/baseapp",
-    "stargazers_count": 91,
+    "stargazers_count": 92,
     "open_issues_count": 9,
     "forks_count": 272
   },
   {
     "full_name": "openware/opendax",
-    "stargazers_count": 523,
+    "stargazers_count": 525,
     "open_issues_count": 99,
-    "forks_count": 496
+    "forks_count": 497
   },
   {
     "full_name": "softonic/axios-retry",
-    "stargazers_count": 1550,
-    "open_issues_count": 32,
+    "stargazers_count": 1549,
+    "open_issues_count": 31,
     "forks_count": 155
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 6145,
-    "open_issues_count": 119,
-    "forks_count": 213
+    "stargazers_count": 6215,
+    "open_issues_count": 121,
+    "forks_count": 217
   },
   {
     "full_name": "bradleymarques/better-python-lists",
@@ -31,7 +49,7 @@
   },
   {
     "full_name": "rustic-rs/rustic",
-    "stargazers_count": 818,
+    "stargazers_count": 821,
     "open_issues_count": 55,
     "forks_count": 31
   },
@@ -49,9 +67,9 @@
   },
   {
     "full_name": "microsoft/DeepSpeed",
-    "stargazers_count": 24614,
-    "open_issues_count": 845,
-    "forks_count": 2933
+    "stargazers_count": 24771,
+    "open_issues_count": 855,
+    "forks_count": 2955
   },
   {
     "full_name": "maniSbindra/spinnaker-packer-ansible-php-azure-demo",
@@ -73,32 +91,32 @@
   },
   {
     "full_name": "openai-php/client",
-    "stargazers_count": 2563,
+    "stargazers_count": 2581,
     "open_issues_count": 1,
-    "forks_count": 216
+    "forks_count": 217
   },
   {
     "full_name": "databrickslabs/dolly",
-    "stargazers_count": 9875,
-    "open_issues_count": 5,
-    "forks_count": 1013
+    "stargazers_count": 9941,
+    "open_issues_count": 0,
+    "forks_count": 1027
   },
   {
     "full_name": "PHP-CS-Fixer/PHP-CS-Fixer",
-    "stargazers_count": 11931,
-    "open_issues_count": 302,
-    "forks_count": 1506
+    "stargazers_count": 11939,
+    "open_issues_count": 293,
+    "forks_count": 1507
   },
   {
     "full_name": "matteozappia/DynamicCow",
-    "stargazers_count": 468,
+    "stargazers_count": 471,
     "open_issues_count": 10,
     "forks_count": 38
   },
   {
     "full_name": "awslabs/mountpoint-s3",
-    "stargazers_count": 2538,
-    "open_issues_count": 31,
+    "stargazers_count": 2548,
+    "open_issues_count": 30,
     "forks_count": 48
   },
   {
@@ -109,38 +127,38 @@
   },
   {
     "full_name": "szimek/signature_pad",
-    "stargazers_count": 9096,
-    "open_issues_count": 13,
-    "forks_count": 1955
+    "stargazers_count": 9105,
+    "open_issues_count": 14,
+    "forks_count": 1956
   },
   {
     "full_name": "tilo/smarter_csv",
     "stargazers_count": 1311,
     "open_issues_count": 4,
-    "forks_count": 184
+    "forks_count": 185
   },
   {
     "full_name": "Ovi/DummyJSON",
-    "stargazers_count": 591,
+    "stargazers_count": 597,
     "open_issues_count": 3,
-    "forks_count": 89
+    "forks_count": 93
   },
   {
     "full_name": "victorkvarghese/react-native-feature-boilerplate",
-    "stargazers_count": 189,
+    "stargazers_count": 190,
     "open_issues_count": 19,
     "forks_count": 67
   },
   {
     "full_name": "mpoon/gpt-repository-loader",
-    "stargazers_count": 1827,
+    "stargazers_count": 1835,
     "open_issues_count": 19,
-    "forks_count": 105
+    "forks_count": 110
   },
   {
     "full_name": "nextgenhealthcare/connect",
-    "stargazers_count": 705,
-    "open_issues_count": 293,
+    "stargazers_count": 710,
+    "open_issues_count": 295,
     "forks_count": 222
   },
   {
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "win-acme/win-acme",
-    "stargazers_count": 4785,
-    "open_issues_count": 17,
-    "forks_count": 771
-  },
-  {
-    "full_name": "kube-rs/kube",
-    "stargazers_count": 2107,
-    "open_issues_count": 93,
-    "forks_count": 240
-  },
-  {
-    "full_name": "stoplightio/elements",
-    "stargazers_count": 979,
-    "open_issues_count": 189,
-    "forks_count": 126
-  },
-  {
-    "full_name": "alakise/bulma-floating-button",
-    "stargazers_count": 13,
-    "open_issues_count": 0,
-    "forks_count": 7
+    "stargazers_count": 4787,
+    "open_issues_count": 16,
+    "forks_count": 770
   }
 ]
