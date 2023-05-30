@@ -1,7 +1,37 @@
 [
   {
+    "full_name": "AppFlowy-IO/AppFlowy",
+    "stargazers_count": 35217,
+    "open_issues_count": 549,
+    "forks_count": 2144
+  },
+  {
+    "full_name": "DRBragg/redaction",
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "webrtc-rs/webrtc",
+    "stargazers_count": 3061,
+    "open_issues_count": 101,
+    "forks_count": 233
+  },
+  {
+    "full_name": "w3f/PSPs",
+    "stargazers_count": 142,
+    "open_issues_count": 13,
+    "forks_count": 58
+  },
+  {
+    "full_name": "Lightning-AI/lightning",
+    "stargazers_count": 23442,
+    "open_issues_count": 685,
+    "forks_count": 2912
+  },
+  {
     "full_name": "sorbet/sorbet",
-    "stargazers_count": 3450,
+    "stargazers_count": 3452,
     "open_issues_count": 623,
     "forks_count": 466
   },
@@ -13,9 +43,9 @@
   },
   {
     "full_name": "coturn/coturn",
-    "stargazers_count": 9184,
-    "open_issues_count": 236,
-    "forks_count": 1802
+    "stargazers_count": 9200,
+    "open_issues_count": 235,
+    "forks_count": 1803
   },
   {
     "full_name": "dmac/fezzik",
@@ -25,21 +55,21 @@
   },
   {
     "full_name": "loft-sh/devpod",
-    "stargazers_count": 885,
-    "open_issues_count": 28,
-    "forks_count": 28
+    "stargazers_count": 916,
+    "open_issues_count": 36,
+    "forks_count": 30
   },
   {
     "full_name": "devspace-sh/devspace",
-    "stargazers_count": 3553,
-    "open_issues_count": 174,
+    "stargazers_count": 3557,
+    "open_issues_count": 173,
     "forks_count": 309
   },
   {
     "full_name": "mjhea0/awesome-fastapi",
-    "stargazers_count": 5717,
+    "stargazers_count": 5738,
     "open_issues_count": 6,
-    "forks_count": 463
+    "forks_count": 465
   },
   {
     "full_name": "OpenFn/workflow-templates",
@@ -50,8 +80,8 @@
   {
     "full_name": "OpenFn/Lightning",
     "stargazers_count": 45,
-    "open_issues_count": 146,
-    "forks_count": 15
+    "open_issues_count": 139,
+    "forks_count": 16
   },
   {
     "full_name": "fabianishere/pam_reattach",
@@ -61,9 +91,9 @@
   },
   {
     "full_name": "zhanymkanov/fastapi-best-practices",
-    "stargazers_count": 3541,
-    "open_issues_count": 9,
-    "forks_count": 256
+    "stargazers_count": 3581,
+    "open_issues_count": 10,
+    "forks_count": 259
   },
   {
     "full_name": "johanmartindev/11ty_vite_postcss_mvp_template",
@@ -79,21 +109,21 @@
   },
   {
     "full_name": "openware/opendax",
-    "stargazers_count": 527,
+    "stargazers_count": 528,
     "open_issues_count": 100,
     "forks_count": 498
   },
   {
     "full_name": "softonic/axios-retry",
-    "stargazers_count": 1553,
+    "stargazers_count": 1556,
     "open_issues_count": 32,
     "forks_count": 157
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 6338,
-    "open_issues_count": 124,
-    "forks_count": 223
+    "stargazers_count": 6448,
+    "open_issues_count": 125,
+    "forks_count": 228
   },
   {
     "full_name": "bradleymarques/better-python-lists",
@@ -103,7 +133,7 @@
   },
   {
     "full_name": "rustic-rs/rustic",
-    "stargazers_count": 830,
+    "stargazers_count": 835,
     "open_issues_count": 53,
     "forks_count": 32
   },
@@ -121,9 +151,9 @@
   },
   {
     "full_name": "microsoft/DeepSpeed",
-    "stargazers_count": 25014,
-    "open_issues_count": 864,
-    "forks_count": 2982
+    "stargazers_count": 25174,
+    "open_issues_count": 870,
+    "forks_count": 3013
   },
   {
     "full_name": "maniSbindra/spinnaker-packer-ansible-php-azure-demo",
@@ -133,9 +163,9 @@
   },
   {
     "full_name": "percona/percona-xtrabackup",
-    "stargazers_count": 1017,
+    "stargazers_count": 1019,
     "open_issues_count": 17,
-    "forks_count": 318
+    "forks_count": 319
   },
   {
     "full_name": "gregschmit/recurring_select",
@@ -145,38 +175,8 @@
   },
   {
     "full_name": "openai-php/client",
-    "stargazers_count": 2628,
-    "open_issues_count": 2,
-    "forks_count": 223
-  },
-  {
-    "full_name": "databrickslabs/dolly",
-    "stargazers_count": 10038,
-    "open_issues_count": 2,
-    "forks_count": 1041
-  },
-  {
-    "full_name": "PHP-CS-Fixer/PHP-CS-Fixer",
-    "stargazers_count": 11954,
-    "open_issues_count": 302,
-    "forks_count": 1510
-  },
-  {
-    "full_name": "matteozappia/DynamicCow",
-    "stargazers_count": 475,
-    "open_issues_count": 10,
-    "forks_count": 38
-  },
-  {
-    "full_name": "awslabs/mountpoint-s3",
-    "stargazers_count": 2560,
-    "open_issues_count": 32,
-    "forks_count": 51
-  },
-  {
-    "full_name": "tomichj/signature-pad-rails",
-    "stargazers_count": 34,
-    "open_issues_count": 2,
-    "forks_count": 16
+    "stargazers_count": 2680,
+    "open_issues_count": 1,
+    "forks_count": 229
   }
 ]
