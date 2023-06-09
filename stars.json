@@ -1,39 +1,39 @@
 [
   {
     "full_name": "fikretsengul/flutter_advanced_boilerplate",
-    "stargazers_count": 235,
+    "stargazers_count": 237,
     "open_issues_count": 12,
     "forks_count": 36
   },
   {
     "full_name": "PromtEngineer/localGPT",
-    "stargazers_count": 6989,
-    "open_issues_count": 68,
-    "forks_count": 581
+    "stargazers_count": 7807,
+    "open_issues_count": 75,
+    "forks_count": 639
   },
   {
     "full_name": "Mindinventory/animated_notch_bottom_bar",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 3,
     "forks_count": 10
   },
   {
     "full_name": "erikgrinaker/toydb",
-    "stargazers_count": 5107,
+    "stargazers_count": 5110,
     "open_issues_count": 7,
-    "forks_count": 459
+    "forks_count": 460
   },
   {
     "full_name": "polarsource/polar",
-    "stargazers_count": 239,
-    "open_issues_count": 25,
-    "forks_count": 4
+    "stargazers_count": 256,
+    "open_issues_count": 31,
+    "forks_count": 5
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 35416,
-    "open_issues_count": 545,
-    "forks_count": 2157
+    "stargazers_count": 35509,
+    "open_issues_count": 535,
+    "forks_count": 2165
   },
   {
     "full_name": "DRBragg/redaction",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "webrtc-rs/webrtc",
-    "stargazers_count": 3080,
-    "open_issues_count": 95,
-    "forks_count": 239
+    "stargazers_count": 3089,
+    "open_issues_count": 96,
+    "forks_count": 238
   },
   {
     "full_name": "w3f/PSPs",
@@ -55,14 +55,14 @@
   },
   {
     "full_name": "Lightning-AI/lightning",
-    "stargazers_count": 23587,
-    "open_issues_count": 690,
-    "forks_count": 2923
+    "stargazers_count": 23618,
+    "open_issues_count": 701,
+    "forks_count": 2927
   },
   {
     "full_name": "sorbet/sorbet",
-    "stargazers_count": 3448,
-    "open_issues_count": 620,
+    "stargazers_count": 3451,
+    "open_issues_count": 621,
     "forks_count": 467
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "coturn/coturn",
-    "stargazers_count": 9222,
-    "open_issues_count": 235,
-    "forks_count": 1804
+    "stargazers_count": 9235,
+    "open_issues_count": 236,
+    "forks_count": 1805
   },
   {
     "full_name": "dmac/fezzik",
@@ -85,19 +85,19 @@
   },
   {
     "full_name": "loft-sh/devpod",
-    "stargazers_count": 982,
-    "open_issues_count": 39,
-    "forks_count": 33
+    "stargazers_count": 1002,
+    "open_issues_count": 32,
+    "forks_count": 35
   },
   {
     "full_name": "devspace-sh/devspace",
-    "stargazers_count": 3570,
+    "stargazers_count": 3574,
     "open_issues_count": 175,
-    "forks_count": 308
+    "forks_count": 309
   },
   {
     "full_name": "mjhea0/awesome-fastapi",
-    "stargazers_count": 5791,
+    "stargazers_count": 5809,
     "open_issues_count": 6,
     "forks_count": 466
   },
@@ -110,7 +110,7 @@
   {
     "full_name": "OpenFn/Lightning",
     "stargazers_count": 45,
-    "open_issues_count": 140,
+    "open_issues_count": 144,
     "forks_count": 17
   },
   {
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "zhanymkanov/fastapi-best-practices",
-    "stargazers_count": 3639,
-    "open_issues_count": 10,
-    "forks_count": 263
+    "stargazers_count": 3673,
+    "open_issues_count": 7,
+    "forks_count": 264
   },
   {
     "full_name": "johanmartindev/11ty_vite_postcss_mvp_template",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "openware/baseapp",
-    "stargazers_count": 92,
+    "stargazers_count": 93,
     "open_issues_count": 9,
-    "forks_count": 272
+    "forks_count": 273
   },
   {
     "full_name": "openware/opendax",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "softonic/axios-retry",
-    "stargazers_count": 1564,
+    "stargazers_count": 1567,
     "open_issues_count": 34,
     "forks_count": 158
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 6585,
-    "open_issues_count": 129,
-    "forks_count": 233
+    "stargazers_count": 6626,
+    "open_issues_count": 131,
+    "forks_count": 237
   },
   {
     "full_name": "bradleymarques/better-python-lists",
@@ -163,8 +163,8 @@
   },
   {
     "full_name": "rustic-rs/rustic",
-    "stargazers_count": 843,
-    "open_issues_count": 50,
+    "stargazers_count": 848,
+    "open_issues_count": 54,
     "forks_count": 32
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "StretchShop/StretchShop",
-    "stargazers_count": 49,
-    "open_issues_count": 2,
-    "forks_count": 13
+    "stargazers_count": 50,
+    "open_issues_count": 3,
+    "forks_count": 14
   }
 ]
