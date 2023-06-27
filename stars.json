@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "manticoresoftware/manticoresearch",
+    "stargazers_count": 3670,
+    "open_issues_count": 236,
+    "forks_count": 203
+  },
+  {
     "full_name": "rack/rack-contrib",
-    "stargazers_count": 1216,
+    "stargazers_count": 1220,
     "open_issues_count": 4,
     "forks_count": 232
   },
@@ -19,15 +25,15 @@
   },
   {
     "full_name": "fikretsengul/flutter_advanced_boilerplate",
-    "stargazers_count": 240,
+    "stargazers_count": 241,
     "open_issues_count": 11,
     "forks_count": 36
   },
   {
     "full_name": "PromtEngineer/localGPT",
-    "stargazers_count": 8680,
-    "open_issues_count": 90,
-    "forks_count": 735
+    "stargazers_count": 8800,
+    "open_issues_count": 98,
+    "forks_count": 761
   },
   {
     "full_name": "Mindinventory/animated_notch_bottom_bar",
@@ -37,21 +43,21 @@
   },
   {
     "full_name": "erikgrinaker/toydb",
-    "stargazers_count": 5138,
+    "stargazers_count": 5146,
     "open_issues_count": 7,
-    "forks_count": 466
+    "forks_count": 467
   },
   {
     "full_name": "polarsource/polar",
-    "stargazers_count": 314,
-    "open_issues_count": 47,
-    "forks_count": 8
+    "stargazers_count": 323,
+    "open_issues_count": 50,
+    "forks_count": 9
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 35794,
-    "open_issues_count": 494,
-    "forks_count": 2187
+    "stargazers_count": 35875,
+    "open_issues_count": 487,
+    "forks_count": 2194
   },
   {
     "full_name": "DRBragg/redaction",
@@ -61,26 +67,26 @@
   },
   {
     "full_name": "webrtc-rs/webrtc",
-    "stargazers_count": 3132,
-    "open_issues_count": 89,
+    "stargazers_count": 3144,
+    "open_issues_count": 90,
     "forks_count": 240
   },
   {
     "full_name": "w3f/PSPs",
     "stargazers_count": 144,
-    "open_issues_count": 13,
+    "open_issues_count": 12,
     "forks_count": 60
   },
   {
     "full_name": "Lightning-AI/lightning",
-    "stargazers_count": 23794,
-    "open_issues_count": 715,
-    "forks_count": 2935
+    "stargazers_count": 23844,
+    "open_issues_count": 732,
+    "forks_count": 2937
   },
   {
     "full_name": "sorbet/sorbet",
-    "stargazers_count": 3455,
-    "open_issues_count": 627,
+    "stargazers_count": 3457,
+    "open_issues_count": 630,
     "forks_count": 466
   },
   {
@@ -91,9 +97,9 @@
   },
   {
     "full_name": "coturn/coturn",
-    "stargazers_count": 9294,
-    "open_issues_count": 237,
-    "forks_count": 1820
+    "stargazers_count": 9319,
+    "open_issues_count": 238,
+    "forks_count": 1823
   },
   {
     "full_name": "dmac/fezzik",
@@ -103,21 +109,21 @@
   },
   {
     "full_name": "loft-sh/devpod",
-    "stargazers_count": 1911,
-    "open_issues_count": 52,
-    "forks_count": 52
+    "stargazers_count": 2494,
+    "open_issues_count": 55,
+    "forks_count": 78
   },
   {
     "full_name": "devspace-sh/devspace",
-    "stargazers_count": 3606,
+    "stargazers_count": 3613,
     "open_issues_count": 174,
     "forks_count": 315
   },
   {
     "full_name": "mjhea0/awesome-fastapi",
-    "stargazers_count": 5871,
+    "stargazers_count": 5890,
     "open_issues_count": 6,
-    "forks_count": 478
+    "forks_count": 481
   },
   {
     "full_name": "OpenFn/workflow-templates",
@@ -127,21 +133,21 @@
   },
   {
     "full_name": "OpenFn/Lightning",
-    "stargazers_count": 49,
-    "open_issues_count": 159,
+    "stargazers_count": 50,
+    "open_issues_count": 165,
     "forks_count": 17
   },
   {
     "full_name": "fabianishere/pam_reattach",
-    "stargazers_count": 473,
+    "stargazers_count": 474,
     "open_issues_count": 1,
     "forks_count": 20
   },
   {
     "full_name": "zhanymkanov/fastapi-best-practices",
-    "stargazers_count": 3806,
+    "stargazers_count": 3839,
     "open_issues_count": 6,
-    "forks_count": 280
+    "forks_count": 281
   },
   {
     "full_name": "johanmartindev/11ty_vite_postcss_mvp_template",
@@ -151,32 +157,26 @@
   },
   {
     "full_name": "openware/baseapp",
-    "stargazers_count": 96,
+    "stargazers_count": 97,
     "open_issues_count": 9,
     "forks_count": 275
   },
   {
     "full_name": "openware/opendax",
-    "stargazers_count": 529,
+    "stargazers_count": 530,
     "open_issues_count": 100,
-    "forks_count": 498
+    "forks_count": 499
   },
   {
     "full_name": "softonic/axios-retry",
-    "stargazers_count": 1580,
+    "stargazers_count": 1581,
     "open_issues_count": 34,
     "forks_count": 158
   },
   {
     "full_name": "Infisical/infisical",
-    "stargazers_count": 6764,
-    "open_issues_count": 152,
-    "forks_count": 250
-  },
-  {
-    "full_name": "bradleymarques/better-python-lists",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 6804,
+    "open_issues_count": 153,
+    "forks_count": 253
   }
 ]
