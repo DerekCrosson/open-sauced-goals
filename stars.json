@@ -1,19 +1,19 @@
 [
   {
     "full_name": "ViewComponent/view_component",
-    "stargazers_count": 2922,
-    "open_issues_count": 58,
+    "stargazers_count": 2920,
+    "open_issues_count": 57,
     "forks_count": 388
   },
   {
     "full_name": "manticoresoftware/manticoresearch",
-    "stargazers_count": 3841,
-    "open_issues_count": 238,
-    "forks_count": 213
+    "stargazers_count": 3881,
+    "open_issues_count": 240,
+    "forks_count": 216
   },
   {
     "full_name": "rack/rack-contrib",
-    "stargazers_count": 1222,
+    "stargazers_count": 1224,
     "open_issues_count": 4,
     "forks_count": 232
   },
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "fikretsengul/flutter_advanced_boilerplate",
-    "stargazers_count": 243,
+    "stargazers_count": 244,
     "open_issues_count": 11,
-    "forks_count": 36
+    "forks_count": 38
   },
   {
     "full_name": "PromtEngineer/localGPT",
-    "stargazers_count": 9462,
-    "open_issues_count": 103,
-    "forks_count": 872
+    "stargazers_count": 9668,
+    "open_issues_count": 111,
+    "forks_count": 920
   },
   {
     "full_name": "Mindinventory/animated_notch_bottom_bar",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "erikgrinaker/toydb",
-    "stargazers_count": 5155,
+    "stargazers_count": 5164,
     "open_issues_count": 7,
-    "forks_count": 468
+    "forks_count": 470
   },
   {
     "full_name": "polarsource/polar",
-    "stargazers_count": 332,
-    "open_issues_count": 48,
-    "forks_count": 10
+    "stargazers_count": 348,
+    "open_issues_count": 42,
+    "forks_count": 11
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 36039,
-    "open_issues_count": 496,
-    "forks_count": 2214
+    "stargazers_count": 36132,
+    "open_issues_count": 501,
+    "forks_count": 2218
   },
   {
     "full_name": "DRBragg/redaction",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "webrtc-rs/webrtc",
-    "stargazers_count": 3161,
+    "stargazers_count": 3171,
     "open_issues_count": 90,
     "forks_count": 242
   },
@@ -85,14 +85,14 @@
   },
   {
     "full_name": "Lightning-AI/lightning",
-    "stargazers_count": 23908,
-    "open_issues_count": 733,
-    "forks_count": 2947
+    "stargazers_count": 23954,
+    "open_issues_count": 745,
+    "forks_count": 2953
   },
   {
     "full_name": "sorbet/sorbet",
     "stargazers_count": 3456,
-    "open_issues_count": 628,
+    "open_issues_count": 632,
     "forks_count": 468
   },
   {
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "coturn/coturn",
-    "stargazers_count": 9348,
-    "open_issues_count": 238,
-    "forks_count": 1829
+    "stargazers_count": 9361,
+    "open_issues_count": 240,
+    "forks_count": 1824
   },
   {
     "full_name": "dmac/fezzik",
@@ -115,21 +115,21 @@
   },
   {
     "full_name": "loft-sh/devpod",
-    "stargazers_count": 2781,
-    "open_issues_count": 67,
-    "forks_count": 86
+    "stargazers_count": 3094,
+    "open_issues_count": 69,
+    "forks_count": 131
   },
   {
     "full_name": "devspace-sh/devspace",
-    "stargazers_count": 3632,
-    "open_issues_count": 176,
-    "forks_count": 317
+    "stargazers_count": 3638,
+    "open_issues_count": 180,
+    "forks_count": 318
   },
   {
     "full_name": "mjhea0/awesome-fastapi",
-    "stargazers_count": 5928,
-    "open_issues_count": 7,
-    "forks_count": 485
+    "stargazers_count": 5944,
+    "open_issues_count": 8,
+    "forks_count": 486
   },
   {
     "full_name": "OpenFn/workflow-templates",
@@ -140,7 +140,7 @@
   {
     "full_name": "OpenFn/Lightning",
     "stargazers_count": 50,
-    "open_issues_count": 165,
+    "open_issues_count": 162,
     "forks_count": 17
   },
   {
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "zhanymkanov/fastapi-best-practices",
-    "stargazers_count": 3973,
+    "stargazers_count": 4008,
     "open_issues_count": 7,
-    "forks_count": 292
+    "forks_count": 294
   },
   {
     "full_name": "johanmartindev/11ty_vite_postcss_mvp_template",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "openware/opendax",
-    "stargazers_count": 534,
+    "stargazers_count": 535,
     "open_issues_count": 101,
     "forks_count": 498
   },
   {
     "full_name": "softonic/axios-retry",
-    "stargazers_count": 1586,
-    "open_issues_count": 33,
+    "stargazers_count": 1588,
+    "open_issues_count": 35,
     "forks_count": 159
   }
 ]
