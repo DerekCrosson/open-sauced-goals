@@ -2,25 +2,25 @@
   {
     "full_name": "cardano-foundation/developer-portal",
     "stargazers_count": 326,
-    "open_issues_count": 21,
+    "open_issues_count": 20,
     "forks_count": 825
   },
   {
     "full_name": "hashicorp/terraform",
-    "stargazers_count": 38109,
-    "open_issues_count": 1887,
-    "forks_count": 8765
+    "stargazers_count": 38160,
+    "open_issues_count": 1891,
+    "forks_count": 8777
   },
   {
     "full_name": "forem/forem",
-    "stargazers_count": 20765,
-    "open_issues_count": 622,
-    "forks_count": 3781
+    "stargazers_count": 20772,
+    "open_issues_count": 627,
+    "forks_count": 3786
   },
   {
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 885,
     "open_issues_count": 0,
-    "forks_count": 675
+    "forks_count": 676
   }
 ]
