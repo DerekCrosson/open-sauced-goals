@@ -1,9 +1,9 @@
 [
   {
     "full_name": "hyperium/tonic",
-    "stargazers_count": 7610,
-    "open_issues_count": 156,
-    "forks_count": 810
+    "stargazers_count": 7624,
+    "open_issues_count": 153,
+    "forks_count": 809
   },
   {
     "full_name": "julianrubisch/attractor",
@@ -25,25 +25,25 @@
   },
   {
     "full_name": "onnx/onnx",
-    "stargazers_count": 15182,
-    "open_issues_count": 384,
-    "forks_count": 3563
+    "stargazers_count": 15202,
+    "open_issues_count": 383,
+    "forks_count": 3562
   },
   {
     "full_name": "ViewComponent/view_component",
-    "stargazers_count": 2933,
+    "stargazers_count": 2936,
     "open_issues_count": 60,
     "forks_count": 392
   },
   {
     "full_name": "manticoresoftware/manticoresearch",
-    "stargazers_count": 4161,
-    "open_issues_count": 248,
+    "stargazers_count": 4190,
+    "open_issues_count": 253,
     "forks_count": 228
   },
   {
     "full_name": "rack/rack-contrib",
-    "stargazers_count": 1228,
+    "stargazers_count": 1229,
     "open_issues_count": 4,
     "forks_count": 231
   },
@@ -62,14 +62,14 @@
   {
     "full_name": "fikretsengul/flutter_advanced_boilerplate",
     "stargazers_count": 248,
-    "open_issues_count": 11,
+    "open_issues_count": 2,
     "forks_count": 38
   },
   {
     "full_name": "PromtEngineer/localGPT",
-    "stargazers_count": 11634,
-    "open_issues_count": 140,
-    "forks_count": 1116
+    "stargazers_count": 13517,
+    "open_issues_count": 165,
+    "forks_count": 1303
   },
   {
     "full_name": "Mindinventory/animated_notch_bottom_bar",
@@ -79,21 +79,21 @@
   },
   {
     "full_name": "erikgrinaker/toydb",
-    "stargazers_count": 5233,
+    "stargazers_count": 5238,
     "open_issues_count": 7,
-    "forks_count": 481
+    "forks_count": 483
   },
   {
     "full_name": "polarsource/polar",
-    "stargazers_count": 448,
+    "stargazers_count": 453,
     "open_issues_count": 48,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 36905,
-    "open_issues_count": 510,
-    "forks_count": 2269
+    "stargazers_count": 36990,
+    "open_issues_count": 513,
+    "forks_count": 2274
   },
   {
     "full_name": "DRBragg/redaction",
@@ -103,9 +103,9 @@
   },
   {
     "full_name": "webrtc-rs/webrtc",
-    "stargazers_count": 3201,
-    "open_issues_count": 91,
-    "forks_count": 245
+    "stargazers_count": 3205,
+    "open_issues_count": 90,
+    "forks_count": 246
   },
   {
     "full_name": "w3f/PSPs",
@@ -115,14 +115,14 @@
   },
   {
     "full_name": "Lightning-AI/lightning",
-    "stargazers_count": 24138,
-    "open_issues_count": 751,
-    "forks_count": 2974
+    "stargazers_count": 24181,
+    "open_issues_count": 752,
+    "forks_count": 2978
   },
   {
     "full_name": "sorbet/sorbet",
-    "stargazers_count": 3465,
-    "open_issues_count": 638,
+    "stargazers_count": 3467,
+    "open_issues_count": 642,
     "forks_count": 468
   },
   {
@@ -133,8 +133,8 @@
   },
   {
     "full_name": "coturn/coturn",
-    "stargazers_count": 9434,
-    "open_issues_count": 245,
+    "stargazers_count": 9439,
+    "open_issues_count": 249,
     "forks_count": 1830
   },
   {
@@ -145,19 +145,19 @@
   },
   {
     "full_name": "loft-sh/devpod",
-    "stargazers_count": 3743,
-    "open_issues_count": 69,
+    "stargazers_count": 3778,
+    "open_issues_count": 71,
     "forks_count": 162
   },
   {
     "full_name": "devspace-sh/devspace",
-    "stargazers_count": 3675,
-    "open_issues_count": 185,
+    "stargazers_count": 3682,
+    "open_issues_count": 186,
     "forks_count": 319
   },
   {
     "full_name": "mjhea0/awesome-fastapi",
-    "stargazers_count": 6045,
+    "stargazers_count": 6063,
     "open_issues_count": 2,
     "forks_count": 497
   },
@@ -170,12 +170,12 @@
   {
     "full_name": "OpenFn/Lightning",
     "stargazers_count": 51,
-    "open_issues_count": 162,
+    "open_issues_count": 178,
     "forks_count": 17
   },
   {
     "full_name": "fabianishere/pam_reattach",
-    "stargazers_count": 478,
+    "stargazers_count": 479,
     "open_issues_count": 1,
     "forks_count": 21
   }
