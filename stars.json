@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "Envek/after_commit_everywhere",
+    "stargazers_count": 564,
+    "open_issues_count": 2,
+    "forks_count": 18
+  },
+  {
     "full_name": "hyperium/tonic",
-    "stargazers_count": 7663,
+    "stargazers_count": 7682,
     "open_issues_count": 153,
-    "forks_count": 808
+    "forks_count": 810
   },
   {
     "full_name": "julianrubisch/attractor",
@@ -19,31 +25,31 @@
   },
   {
     "full_name": "ankane/field_test",
-    "stargazers_count": 472,
+    "stargazers_count": 474,
     "open_issues_count": 0,
     "forks_count": 23
   },
   {
     "full_name": "onnx/onnx",
-    "stargazers_count": 15236,
-    "open_issues_count": 376,
-    "forks_count": 3564
+    "stargazers_count": 15254,
+    "open_issues_count": 375,
+    "forks_count": 3565
   },
   {
     "full_name": "ViewComponent/view_component",
-    "stargazers_count": 2940,
-    "open_issues_count": 63,
-    "forks_count": 392
+    "stargazers_count": 2942,
+    "open_issues_count": 61,
+    "forks_count": 393
   },
   {
     "full_name": "manticoresoftware/manticoresearch",
-    "stargazers_count": 4509,
-    "open_issues_count": 253,
-    "forks_count": 251
+    "stargazers_count": 5276,
+    "open_issues_count": 259,
+    "forks_count": 309
   },
   {
     "full_name": "rack/rack-contrib",
-    "stargazers_count": 1230,
+    "stargazers_count": 1231,
     "open_issues_count": 4,
     "forks_count": 231
   },
@@ -55,45 +61,45 @@
   },
   {
     "full_name": "tsolucio/corebos",
-    "stargazers_count": 134,
+    "stargazers_count": 135,
     "open_issues_count": 104,
     "forks_count": 144
   },
   {
     "full_name": "fikretsengul/flutter_advanced_boilerplate",
-    "stargazers_count": 249,
+    "stargazers_count": 250,
     "open_issues_count": 7,
     "forks_count": 38
   },
   {
     "full_name": "PromtEngineer/localGPT",
-    "stargazers_count": 14237,
-    "open_issues_count": 184,
-    "forks_count": 1385
+    "stargazers_count": 14450,
+    "open_issues_count": 188,
+    "forks_count": 1429
   },
   {
     "full_name": "Mindinventory/animated_notch_bottom_bar",
-    "stargazers_count": 54,
+    "stargazers_count": 56,
     "open_issues_count": 7,
     "forks_count": 11
   },
   {
     "full_name": "erikgrinaker/toydb",
-    "stargazers_count": 5248,
+    "stargazers_count": 5257,
     "open_issues_count": 8,
-    "forks_count": 485
+    "forks_count": 486
   },
   {
     "full_name": "polarsource/polar",
-    "stargazers_count": 481,
-    "open_issues_count": 38,
+    "stargazers_count": 514,
+    "open_issues_count": 37,
     "forks_count": 14
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 37135,
-    "open_issues_count": 497,
-    "forks_count": 2288
+    "stargazers_count": 37213,
+    "open_issues_count": 500,
+    "forks_count": 2292
   },
   {
     "full_name": "DRBragg/redaction",
@@ -103,9 +109,9 @@
   },
   {
     "full_name": "webrtc-rs/webrtc",
-    "stargazers_count": 3221,
-    "open_issues_count": 91,
-    "forks_count": 248
+    "stargazers_count": 3231,
+    "open_issues_count": 93,
+    "forks_count": 249
   },
   {
     "full_name": "w3f/PSPs",
@@ -115,13 +121,13 @@
   },
   {
     "full_name": "Lightning-AI/lightning",
-    "stargazers_count": 24248,
-    "open_issues_count": 724,
-    "forks_count": 2985
+    "stargazers_count": 24268,
+    "open_issues_count": 726,
+    "forks_count": 2986
   },
   {
     "full_name": "sorbet/sorbet",
-    "stargazers_count": 3471,
+    "stargazers_count": 3470,
     "open_issues_count": 650,
     "forks_count": 471
   },
@@ -133,9 +139,9 @@
   },
   {
     "full_name": "coturn/coturn",
-    "stargazers_count": 9471,
-    "open_issues_count": 253,
-    "forks_count": 1834
+    "stargazers_count": 9481,
+    "open_issues_count": 255,
+    "forks_count": 1833
   },
   {
     "full_name": "dmac/fezzik",
@@ -145,21 +151,21 @@
   },
   {
     "full_name": "loft-sh/devpod",
-    "stargazers_count": 3837,
-    "open_issues_count": 70,
-    "forks_count": 165
+    "stargazers_count": 3857,
+    "open_issues_count": 68,
+    "forks_count": 170
   },
   {
     "full_name": "devspace-sh/devspace",
-    "stargazers_count": 3695,
-    "open_issues_count": 183,
+    "stargazers_count": 3702,
+    "open_issues_count": 182,
     "forks_count": 321
   },
   {
     "full_name": "mjhea0/awesome-fastapi",
-    "stargazers_count": 6089,
+    "stargazers_count": 6107,
     "open_issues_count": 2,
-    "forks_count": 500
+    "forks_count": 502
   },
   {
     "full_name": "OpenFn/workflow-templates",
@@ -170,13 +176,7 @@
   {
     "full_name": "OpenFn/Lightning",
     "stargazers_count": 53,
-    "open_issues_count": 177,
+    "open_issues_count": 174,
     "forks_count": 18
-  },
-  {
-    "full_name": "fabianishere/pam_reattach",
-    "stargazers_count": 479,
-    "open_issues_count": 1,
-    "forks_count": 21
   }
 ]
