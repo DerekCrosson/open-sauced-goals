@@ -1,5 +1,47 @@
 [
   {
+    "full_name": "lazaronixon/authentication-zero",
+    "stargazers_count": 774,
+    "open_issues_count": 4,
+    "forks_count": 27
+  },
+  {
+    "full_name": "inertiajs/inertia-rails",
+    "stargazers_count": 281,
+    "open_issues_count": 9,
+    "forks_count": 35
+  },
+  {
+    "full_name": "jonatas/timescaledb",
+    "stargazers_count": 47,
+    "open_issues_count": 2,
+    "forks_count": 17
+  },
+  {
+    "full_name": "grosser/parallel_tests",
+    "stargazers_count": 3249,
+    "open_issues_count": 121,
+    "forks_count": 487
+  },
+  {
+    "full_name": "nejdetkadir/devise-api",
+    "stargazers_count": 96,
+    "open_issues_count": 5,
+    "forks_count": 10
+  },
+  {
+    "full_name": "daddyz/phonelib",
+    "stargazers_count": 987,
+    "open_issues_count": 26,
+    "forks_count": 124
+  },
+  {
+    "full_name": "koedame/rails-mermaid_erd",
+    "stargazers_count": 47,
+    "open_issues_count": 13,
+    "forks_count": 3
+  },
+  {
     "full_name": "Envek/after_commit_everywhere",
     "stargazers_count": 564,
     "open_issues_count": 2,
@@ -7,13 +49,13 @@
   },
   {
     "full_name": "hyperium/tonic",
-    "stargazers_count": 7682,
-    "open_issues_count": 153,
+    "stargazers_count": 7700,
+    "open_issues_count": 156,
     "forks_count": 810
   },
   {
     "full_name": "julianrubisch/attractor",
-    "stargazers_count": 232,
+    "stargazers_count": 233,
     "open_issues_count": 9,
     "forks_count": 6
   },
@@ -25,27 +67,27 @@
   },
   {
     "full_name": "ankane/field_test",
-    "stargazers_count": 474,
+    "stargazers_count": 476,
     "open_issues_count": 0,
     "forks_count": 23
   },
   {
     "full_name": "onnx/onnx",
-    "stargazers_count": 15254,
-    "open_issues_count": 375,
-    "forks_count": 3565
+    "stargazers_count": 15284,
+    "open_issues_count": 377,
+    "forks_count": 3567
   },
   {
     "full_name": "ViewComponent/view_component",
-    "stargazers_count": 2942,
-    "open_issues_count": 61,
-    "forks_count": 393
+    "stargazers_count": 2946,
+    "open_issues_count": 62,
+    "forks_count": 395
   },
   {
     "full_name": "manticoresoftware/manticoresearch",
-    "stargazers_count": 5276,
-    "open_issues_count": 259,
-    "forks_count": 309
+    "stargazers_count": 5457,
+    "open_issues_count": 258,
+    "forks_count": 318
   },
   {
     "full_name": "rack/rack-contrib",
@@ -67,15 +109,15 @@
   },
   {
     "full_name": "fikretsengul/flutter_advanced_boilerplate",
-    "stargazers_count": 250,
+    "stargazers_count": 251,
     "open_issues_count": 7,
     "forks_count": 38
   },
   {
     "full_name": "PromtEngineer/localGPT",
-    "stargazers_count": 14450,
-    "open_issues_count": 188,
-    "forks_count": 1429
+    "stargazers_count": 14567,
+    "open_issues_count": 191,
+    "forks_count": 1446
   },
   {
     "full_name": "Mindinventory/animated_notch_bottom_bar",
@@ -85,21 +127,21 @@
   },
   {
     "full_name": "erikgrinaker/toydb",
-    "stargazers_count": 5257,
+    "stargazers_count": 5261,
     "open_issues_count": 8,
-    "forks_count": 486
+    "forks_count": 485
   },
   {
     "full_name": "polarsource/polar",
-    "stargazers_count": 514,
-    "open_issues_count": 37,
-    "forks_count": 14
+    "stargazers_count": 541,
+    "open_issues_count": 35,
+    "forks_count": 15
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 37213,
-    "open_issues_count": 500,
-    "forks_count": 2292
+    "stargazers_count": 37278,
+    "open_issues_count": 498,
+    "forks_count": 2296
   },
   {
     "full_name": "DRBragg/redaction",
@@ -109,8 +151,8 @@
   },
   {
     "full_name": "webrtc-rs/webrtc",
-    "stargazers_count": 3231,
-    "open_issues_count": 93,
+    "stargazers_count": 3236,
+    "open_issues_count": 92,
     "forks_count": 249
   },
   {
@@ -121,62 +163,20 @@
   },
   {
     "full_name": "Lightning-AI/lightning",
-    "stargazers_count": 24268,
-    "open_issues_count": 726,
-    "forks_count": 2986
+    "stargazers_count": 24303,
+    "open_issues_count": 706,
+    "forks_count": 2985
   },
   {
     "full_name": "sorbet/sorbet",
-    "stargazers_count": 3470,
-    "open_issues_count": 650,
-    "forks_count": 471
+    "stargazers_count": 3471,
+    "open_issues_count": 652,
+    "forks_count": 472
   },
   {
     "full_name": "mconf/bigbluebutton-api-ruby",
     "stargazers_count": 49,
     "open_issues_count": 11,
     "forks_count": 42
-  },
-  {
-    "full_name": "coturn/coturn",
-    "stargazers_count": 9481,
-    "open_issues_count": 255,
-    "forks_count": 1833
-  },
-  {
-    "full_name": "dmac/fezzik",
-    "stargazers_count": 37,
-    "open_issues_count": 5,
-    "forks_count": 6
-  },
-  {
-    "full_name": "loft-sh/devpod",
-    "stargazers_count": 3857,
-    "open_issues_count": 68,
-    "forks_count": 170
-  },
-  {
-    "full_name": "devspace-sh/devspace",
-    "stargazers_count": 3702,
-    "open_issues_count": 182,
-    "forks_count": 321
-  },
-  {
-    "full_name": "mjhea0/awesome-fastapi",
-    "stargazers_count": 6107,
-    "open_issues_count": 2,
-    "forks_count": 502
-  },
-  {
-    "full_name": "OpenFn/workflow-templates",
-    "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
-  },
-  {
-    "full_name": "OpenFn/Lightning",
-    "stargazers_count": 53,
-    "open_issues_count": 174,
-    "forks_count": 18
   }
 ]
