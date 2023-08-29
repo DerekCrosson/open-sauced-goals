@@ -1,19 +1,19 @@
 [
   {
     "full_name": "tembo-io/pg_later",
-    "stargazers_count": 228,
+    "stargazers_count": 240,
     "open_issues_count": 13,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "rubymonolith/superform",
-    "stargazers_count": 66,
-    "open_issues_count": 0,
-    "forks_count": 2
+    "stargazers_count": 70,
+    "open_issues_count": 1,
+    "forks_count": 3
   },
   {
     "full_name": "prometheus/pushgateway",
-    "stargazers_count": 2667,
+    "stargazers_count": 2669,
     "open_issues_count": 8,
     "forks_count": 434
   },
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 17075,
-    "open_issues_count": 86,
-    "forks_count": 1142
+    "stargazers_count": 17129,
+    "open_issues_count": 89,
+    "forks_count": 1146
   },
   {
     "full_name": "react-native-webrtc/react-native-webrtc",
-    "stargazers_count": 4325,
+    "stargazers_count": 4327,
     "open_issues_count": 24,
-    "forks_count": 1184
+    "forks_count": 1183
   },
   {
     "full_name": "teoljungberg/fx",
     "stargazers_count": 588,
     "open_issues_count": 5,
-    "forks_count": 67
+    "forks_count": 65
   },
   {
     "full_name": "palkan/logidze",
@@ -49,19 +49,19 @@
   },
   {
     "full_name": "acassen/keepalived",
-    "stargazers_count": 3569,
-    "open_issues_count": 35,
+    "stargazers_count": 3571,
+    "open_issues_count": 36,
     "forks_count": 728
   },
   {
     "full_name": "lazaronixon/authentication-zero",
-    "stargazers_count": 786,
+    "stargazers_count": 792,
     "open_issues_count": 4,
     "forks_count": 27
   },
   {
     "full_name": "inertiajs/inertia-rails",
-    "stargazers_count": 285,
+    "stargazers_count": 284,
     "open_issues_count": 4,
     "forks_count": 35
   },
@@ -73,43 +73,43 @@
   },
   {
     "full_name": "grosser/parallel_tests",
-    "stargazers_count": 3251,
+    "stargazers_count": 3254,
     "open_issues_count": 124,
     "forks_count": 487
   },
   {
     "full_name": "nejdetkadir/devise-api",
-    "stargazers_count": 102,
-    "open_issues_count": 6,
-    "forks_count": 11
+    "stargazers_count": 103,
+    "open_issues_count": 7,
+    "forks_count": 13
   },
   {
     "full_name": "daddyz/phonelib",
-    "stargazers_count": 989,
+    "stargazers_count": 990,
     "open_issues_count": 26,
     "forks_count": 124
   },
   {
     "full_name": "koedame/rails-mermaid_erd",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 13,
     "forks_count": 5
   },
   {
     "full_name": "Envek/after_commit_everywhere",
-    "stargazers_count": 567,
+    "stargazers_count": 568,
     "open_issues_count": 2,
     "forks_count": 18
   },
   {
     "full_name": "hyperium/tonic",
-    "stargazers_count": 7766,
-    "open_issues_count": 154,
-    "forks_count": 813
+    "stargazers_count": 7780,
+    "open_issues_count": 152,
+    "forks_count": 814
   },
   {
     "full_name": "julianrubisch/attractor",
-    "stargazers_count": 238,
+    "stargazers_count": 239,
     "open_issues_count": 9,
     "forks_count": 6
   },
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "onnx/onnx",
-    "stargazers_count": 15374,
-    "open_issues_count": 364,
-    "forks_count": 3569
+    "stargazers_count": 15405,
+    "open_issues_count": 333,
+    "forks_count": 3570
   },
   {
     "full_name": "ViewComponent/view_component",
     "stargazers_count": 2950,
-    "open_issues_count": 62,
+    "open_issues_count": 60,
     "forks_count": 395
   },
   {
     "full_name": "manticoresoftware/manticoresearch",
-    "stargazers_count": 5821,
-    "open_issues_count": 265,
-    "forks_count": 337
+    "stargazers_count": 5874,
+    "open_issues_count": 274,
+    "forks_count": 339
   },
   {
     "full_name": "rack/rack-contrib",
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "fikretsengul/flutter_advanced_boilerplate",
-    "stargazers_count": 258,
+    "stargazers_count": 260,
     "open_issues_count": 7,
     "forks_count": 38
   },
   {
     "full_name": "PromtEngineer/localGPT",
-    "stargazers_count": 15437,
-    "open_issues_count": 229,
-    "forks_count": 1577
+    "stargazers_count": 15535,
+    "open_issues_count": 242,
+    "forks_count": 1610
   },
   {
     "full_name": "Mindinventory/animated_notch_bottom_bar",
