@@ -1,67 +1,97 @@
 [
   {
+    "full_name": "yabeda-rb/yabeda-prometheus",
+    "stargazers_count": 94,
+    "open_issues_count": 4,
+    "forks_count": 15
+  },
+  {
+    "full_name": "yabeda-rb/yabeda-sidekiq",
+    "stargazers_count": 110,
+    "open_issues_count": 5,
+    "forks_count": 11
+  },
+  {
+    "full_name": "timoa/app-stores-prometheus-exporter",
+    "stargazers_count": 90,
+    "open_issues_count": 3,
+    "forks_count": 17
+  },
+  {
+    "full_name": "mainio/ratonvirus",
+    "stargazers_count": 48,
+    "open_issues_count": 2,
+    "forks_count": 11
+  },
+  {
+    "full_name": "fleetdm/fleet",
+    "stargazers_count": 1508,
+    "open_issues_count": 1354,
+    "forks_count": 266
+  },
+  {
     "full_name": "tembo-io/pg_later",
-    "stargazers_count": 240,
+    "stargazers_count": 242,
     "open_issues_count": 13,
     "forks_count": 4
   },
   {
     "full_name": "rubymonolith/superform",
-    "stargazers_count": 70,
-    "open_issues_count": 1,
-    "forks_count": 3
+    "stargazers_count": 72,
+    "open_issues_count": 2,
+    "forks_count": 4
   },
   {
     "full_name": "prometheus/pushgateway",
-    "stargazers_count": 2669,
+    "stargazers_count": 2671,
     "open_issues_count": 8,
-    "forks_count": 434
+    "forks_count": 437
   },
   {
     "full_name": "prometheus/client_ruby",
     "stargazers_count": 471,
-    "open_issues_count": 15,
-    "forks_count": 153
+    "open_issues_count": 18,
+    "forks_count": 154
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 17129,
-    "open_issues_count": 89,
-    "forks_count": 1146
+    "stargazers_count": 17160,
+    "open_issues_count": 88,
+    "forks_count": 1149
   },
   {
     "full_name": "react-native-webrtc/react-native-webrtc",
-    "stargazers_count": 4327,
-    "open_issues_count": 24,
+    "stargazers_count": 4328,
+    "open_issues_count": 21,
     "forks_count": 1183
   },
   {
     "full_name": "teoljungberg/fx",
-    "stargazers_count": 588,
-    "open_issues_count": 5,
-    "forks_count": 65
+    "stargazers_count": 589,
+    "open_issues_count": 7,
+    "forks_count": 66
   },
   {
     "full_name": "palkan/logidze",
-    "stargazers_count": 1444,
+    "stargazers_count": 1448,
     "open_issues_count": 9,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "acassen/keepalived",
-    "stargazers_count": 3571,
+    "stargazers_count": 3574,
     "open_issues_count": 36,
-    "forks_count": 728
+    "forks_count": 727
   },
   {
     "full_name": "lazaronixon/authentication-zero",
-    "stargazers_count": 792,
+    "stargazers_count": 799,
     "open_issues_count": 4,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "inertiajs/inertia-rails",
-    "stargazers_count": 284,
+    "stargazers_count": 285,
     "open_issues_count": 4,
     "forks_count": 35
   },
@@ -85,7 +115,7 @@
   },
   {
     "full_name": "daddyz/phonelib",
-    "stargazers_count": 990,
+    "stargazers_count": 989,
     "open_issues_count": 26,
     "forks_count": 124
   },
@@ -97,19 +127,19 @@
   },
   {
     "full_name": "Envek/after_commit_everywhere",
-    "stargazers_count": 568,
+    "stargazers_count": 570,
     "open_issues_count": 2,
     "forks_count": 18
   },
   {
     "full_name": "hyperium/tonic",
-    "stargazers_count": 7780,
-    "open_issues_count": 152,
-    "forks_count": 814
+    "stargazers_count": 7793,
+    "open_issues_count": 155,
+    "forks_count": 818
   },
   {
     "full_name": "julianrubisch/attractor",
-    "stargazers_count": 239,
+    "stargazers_count": 241,
     "open_issues_count": 9,
     "forks_count": 6
   },
@@ -127,56 +157,26 @@
   },
   {
     "full_name": "onnx/onnx",
-    "stargazers_count": 15405,
-    "open_issues_count": 333,
-    "forks_count": 3570
+    "stargazers_count": 15428,
+    "open_issues_count": 316,
+    "forks_count": 3575
   },
   {
     "full_name": "ViewComponent/view_component",
-    "stargazers_count": 2950,
-    "open_issues_count": 60,
-    "forks_count": 395
+    "stargazers_count": 2952,
+    "open_issues_count": 63,
+    "forks_count": 397
   },
   {
     "full_name": "manticoresoftware/manticoresearch",
-    "stargazers_count": 5874,
-    "open_issues_count": 274,
-    "forks_count": 339
+    "stargazers_count": 5921,
+    "open_issues_count": 282,
+    "forks_count": 341
   },
   {
     "full_name": "rack/rack-contrib",
-    "stargazers_count": 1232,
+    "stargazers_count": 1233,
     "open_issues_count": 4,
     "forks_count": 231
-  },
-  {
-    "full_name": "brunokiafuka/WatermelonDB",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "tsolucio/corebos",
-    "stargazers_count": 135,
-    "open_issues_count": 104,
-    "forks_count": 144
-  },
-  {
-    "full_name": "fikretsengul/flutter_advanced_boilerplate",
-    "stargazers_count": 260,
-    "open_issues_count": 7,
-    "forks_count": 38
-  },
-  {
-    "full_name": "PromtEngineer/localGPT",
-    "stargazers_count": 15535,
-    "open_issues_count": 242,
-    "forks_count": 1610
-  },
-  {
-    "full_name": "Mindinventory/animated_notch_bottom_bar",
-    "stargazers_count": 56,
-    "open_issues_count": 7,
-    "forks_count": 11
   }
 ]
