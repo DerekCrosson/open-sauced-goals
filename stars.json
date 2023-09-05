@@ -1,7 +1,7 @@
 [
   {
     "full_name": "yabeda-rb/yabeda-prometheus",
-    "stargazers_count": 94,
+    "stargazers_count": 95,
     "open_issues_count": 4,
     "forks_count": 15
   },
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "fleetdm/fleet",
-    "stargazers_count": 1508,
-    "open_issues_count": 1354,
+    "stargazers_count": 1516,
+    "open_issues_count": 1361,
     "forks_count": 266
   },
   {
     "full_name": "tembo-io/pg_later",
-    "stargazers_count": 242,
+    "stargazers_count": 245,
     "open_issues_count": 13,
     "forks_count": 4
   },
   {
     "full_name": "rubymonolith/superform",
-    "stargazers_count": 72,
+    "stargazers_count": 74,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "prometheus/pushgateway",
-    "stargazers_count": 2671,
-    "open_issues_count": 8,
-    "forks_count": 437
+    "stargazers_count": 2673,
+    "open_issues_count": 10,
+    "forks_count": 439
   },
   {
     "full_name": "prometheus/client_ruby",
@@ -55,14 +55,14 @@
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 17160,
-    "open_issues_count": 88,
-    "forks_count": 1149
+    "stargazers_count": 17213,
+    "open_issues_count": 89,
+    "forks_count": 1150
   },
   {
     "full_name": "react-native-webrtc/react-native-webrtc",
-    "stargazers_count": 4328,
-    "open_issues_count": 21,
+    "stargazers_count": 4330,
+    "open_issues_count": 20,
     "forks_count": 1183
   },
   {
@@ -73,25 +73,25 @@
   },
   {
     "full_name": "palkan/logidze",
-    "stargazers_count": 1448,
+    "stargazers_count": 1452,
     "open_issues_count": 9,
     "forks_count": 70
   },
   {
     "full_name": "acassen/keepalived",
-    "stargazers_count": 3574,
-    "open_issues_count": 36,
+    "stargazers_count": 3577,
+    "open_issues_count": 37,
     "forks_count": 727
   },
   {
     "full_name": "lazaronixon/authentication-zero",
-    "stargazers_count": 799,
+    "stargazers_count": 805,
     "open_issues_count": 4,
     "forks_count": 28
   },
   {
     "full_name": "inertiajs/inertia-rails",
-    "stargazers_count": 285,
+    "stargazers_count": 286,
     "open_issues_count": 4,
     "forks_count": 35
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "grosser/parallel_tests",
-    "stargazers_count": 3254,
+    "stargazers_count": 3255,
     "open_issues_count": 124,
     "forks_count": 487
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "daddyz/phonelib",
-    "stargazers_count": 989,
+    "stargazers_count": 990,
     "open_issues_count": 26,
     "forks_count": 124
   },
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "Envek/after_commit_everywhere",
-    "stargazers_count": 570,
+    "stargazers_count": 571,
     "open_issues_count": 2,
     "forks_count": 18
   },
   {
     "full_name": "hyperium/tonic",
-    "stargazers_count": 7793,
-    "open_issues_count": 155,
-    "forks_count": 818
+    "stargazers_count": 7806,
+    "open_issues_count": 160,
+    "forks_count": 820
   },
   {
     "full_name": "julianrubisch/attractor",
-    "stargazers_count": 241,
+    "stargazers_count": 245,
     "open_issues_count": 9,
     "forks_count": 6
   },
@@ -151,27 +151,27 @@
   },
   {
     "full_name": "ankane/field_test",
-    "stargazers_count": 478,
+    "stargazers_count": 479,
     "open_issues_count": 0,
     "forks_count": 23
   },
   {
     "full_name": "onnx/onnx",
-    "stargazers_count": 15428,
-    "open_issues_count": 316,
-    "forks_count": 3575
+    "stargazers_count": 15445,
+    "open_issues_count": 314,
+    "forks_count": 3574
   },
   {
     "full_name": "ViewComponent/view_component",
-    "stargazers_count": 2952,
-    "open_issues_count": 63,
+    "stargazers_count": 2956,
+    "open_issues_count": 64,
     "forks_count": 397
   },
   {
     "full_name": "manticoresoftware/manticoresearch",
-    "stargazers_count": 5921,
-    "open_issues_count": 282,
-    "forks_count": 341
+    "stargazers_count": 5990,
+    "open_issues_count": 289,
+    "forks_count": 343
   },
   {
     "full_name": "rack/rack-contrib",
