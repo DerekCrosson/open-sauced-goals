@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "crossbowerbt/awk-webserver",
+    "stargazers_count": 180,
+    "open_issues_count": 1,
+    "forks_count": 11
+  },
+  {
+    "full_name": "opentofu/opentofu",
+    "stargazers_count": 9431,
+    "open_issues_count": 91,
+    "forks_count": 283
+  },
+  {
+    "full_name": "kdeldycke/awesome-engineering-team-management",
+    "stargazers_count": 1553,
+    "open_issues_count": 2,
+    "forks_count": 124
+  },
+  {
     "full_name": "taskrabbit/react-native-zendesk-chat",
     "stargazers_count": 124,
     "open_issues_count": 53,
@@ -7,8 +25,8 @@
   },
   {
     "full_name": "formio/formio",
-    "stargazers_count": 1803,
-    "open_issues_count": 352,
+    "stargazers_count": 1804,
+    "open_issues_count": 353,
     "forks_count": 651
   },
   {
@@ -19,9 +37,9 @@
   },
   {
     "full_name": "agilgur5/react-signature-canvas",
-    "stargazers_count": 468,
+    "stargazers_count": 469,
     "open_issues_count": 5,
-    "forks_count": 108
+    "forks_count": 109
   },
   {
     "full_name": "yabeda-rb/yabeda-prometheus",
@@ -43,20 +61,20 @@
   },
   {
     "full_name": "mainio/ratonvirus",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 2,
     "forks_count": 11
   },
   {
     "full_name": "fleetdm/fleet",
-    "stargazers_count": 1550,
-    "open_issues_count": 1342,
-    "forks_count": 272
+    "stargazers_count": 1555,
+    "open_issues_count": 1370,
+    "forks_count": 275
   },
   {
     "full_name": "tembo-io/pg_later",
-    "stargazers_count": 266,
-    "open_issues_count": 13,
+    "stargazers_count": 267,
+    "open_issues_count": 14,
     "forks_count": 4
   },
   {
@@ -67,26 +85,26 @@
   },
   {
     "full_name": "prometheus/pushgateway",
-    "stargazers_count": 2688,
-    "open_issues_count": 8,
+    "stargazers_count": 2689,
+    "open_issues_count": 7,
     "forks_count": 443
   },
   {
     "full_name": "prometheus/client_ruby",
-    "stargazers_count": 471,
+    "stargazers_count": 472,
     "open_issues_count": 18,
     "forks_count": 154
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 17388,
-    "open_issues_count": 95,
-    "forks_count": 1160
+    "stargazers_count": 17423,
+    "open_issues_count": 89,
+    "forks_count": 1163
   },
   {
     "full_name": "react-native-webrtc/react-native-webrtc",
-    "stargazers_count": 4334,
-    "open_issues_count": 20,
+    "stargazers_count": 4336,
+    "open_issues_count": 22,
     "forks_count": 1186
   },
   {
@@ -97,19 +115,19 @@
   },
   {
     "full_name": "palkan/logidze",
-    "stargazers_count": 1462,
+    "stargazers_count": 1465,
     "open_issues_count": 8,
     "forks_count": 71
   },
   {
     "full_name": "acassen/keepalived",
-    "stargazers_count": 3604,
-    "open_issues_count": 36,
+    "stargazers_count": 3612,
+    "open_issues_count": 33,
     "forks_count": 728
   },
   {
     "full_name": "lazaronixon/authentication-zero",
-    "stargazers_count": 828,
+    "stargazers_count": 833,
     "open_issues_count": 4,
     "forks_count": 28
   },
@@ -127,13 +145,13 @@
   },
   {
     "full_name": "grosser/parallel_tests",
-    "stargazers_count": 3258,
+    "stargazers_count": 3261,
     "open_issues_count": 123,
-    "forks_count": 488
+    "forks_count": 489
   },
   {
     "full_name": "nejdetkadir/devise-api",
-    "stargazers_count": 105,
+    "stargazers_count": 106,
     "open_issues_count": 7,
     "forks_count": 14
   },
@@ -157,26 +175,8 @@
   },
   {
     "full_name": "hyperium/tonic",
-    "stargazers_count": 7865,
-    "open_issues_count": 174,
+    "stargazers_count": 7879,
+    "open_issues_count": 178,
     "forks_count": 827
-  },
-  {
-    "full_name": "julianrubisch/attractor",
-    "stargazers_count": 252,
-    "open_issues_count": 10,
-    "forks_count": 8
-  },
-  {
-    "full_name": "prograils/lit",
-    "stargazers_count": 295,
-    "open_issues_count": 23,
-    "forks_count": 69
-  },
-  {
-    "full_name": "ankane/field_test",
-    "stargazers_count": 478,
-    "open_issues_count": 1,
-    "forks_count": 24
   }
 ]
