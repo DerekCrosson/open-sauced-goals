@@ -1,9 +1,21 @@
 [
   {
+    "full_name": "BitBangingBytes/gr-smart_meters",
+    "stargazers_count": 210,
+    "open_issues_count": 1,
+    "forks_count": 32
+  },
+  {
+    "full_name": "ilyakatz/data-migrate",
+    "stargazers_count": 1279,
+    "open_issues_count": 31,
+    "forks_count": 187
+  },
+  {
     "full_name": "atlassian/react-beautiful-dnd",
-    "stargazers_count": 30972,
+    "stargazers_count": 30991,
     "open_issues_count": 595,
-    "forks_count": 2466
+    "forks_count": 2470
   },
   {
     "full_name": "crossbowerbt/awk-webserver",
@@ -13,15 +25,15 @@
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 13271,
-    "open_issues_count": 105,
-    "forks_count": 421
+    "stargazers_count": 13618,
+    "open_issues_count": 115,
+    "forks_count": 432
   },
   {
     "full_name": "kdeldycke/awesome-engineering-team-management",
-    "stargazers_count": 1560,
+    "stargazers_count": 1698,
     "open_issues_count": 2,
-    "forks_count": 124
+    "forks_count": 128
   },
   {
     "full_name": "taskrabbit/react-native-zendesk-chat",
@@ -31,8 +43,8 @@
   },
   {
     "full_name": "formio/formio",
-    "stargazers_count": 1810,
-    "open_issues_count": 357,
+    "stargazers_count": 1812,
+    "open_issues_count": 353,
     "forks_count": 650
   },
   {
@@ -67,55 +79,55 @@
   },
   {
     "full_name": "mainio/ratonvirus",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 2,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "fleetdm/fleet",
-    "stargazers_count": 1566,
-    "open_issues_count": 1325,
-    "forks_count": 276
+    "stargazers_count": 1571,
+    "open_issues_count": 1337,
+    "forks_count": 278
   },
   {
     "full_name": "tembo-io/pg_later",
-    "stargazers_count": 268,
-    "open_issues_count": 16,
+    "stargazers_count": 271,
+    "open_issues_count": 15,
     "forks_count": 5
   },
   {
     "full_name": "rubymonolith/superform",
-    "stargazers_count": 91,
+    "stargazers_count": 92,
     "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "prometheus/pushgateway",
     "stargazers_count": 2697,
-    "open_issues_count": 7,
-    "forks_count": 446
+    "open_issues_count": 10,
+    "forks_count": 447
   },
   {
     "full_name": "prometheus/client_ruby",
-    "stargazers_count": 474,
+    "stargazers_count": 475,
     "open_issues_count": 18,
     "forks_count": 153
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 17497,
-    "open_issues_count": 81,
-    "forks_count": 1174
+    "stargazers_count": 17537,
+    "open_issues_count": 83,
+    "forks_count": 1175
   },
   {
     "full_name": "react-native-webrtc/react-native-webrtc",
-    "stargazers_count": 4341,
+    "stargazers_count": 4343,
     "open_issues_count": 24,
-    "forks_count": 1188
+    "forks_count": 1189
   },
   {
     "full_name": "teoljungberg/fx",
-    "stargazers_count": 594,
+    "stargazers_count": 595,
     "open_issues_count": 7,
     "forks_count": 66
   },
@@ -127,19 +139,19 @@
   },
   {
     "full_name": "acassen/keepalived",
-    "stargazers_count": 3615,
+    "stargazers_count": 3617,
     "open_issues_count": 33,
     "forks_count": 727
   },
   {
     "full_name": "lazaronixon/authentication-zero",
-    "stargazers_count": 901,
-    "open_issues_count": 5,
-    "forks_count": 32
+    "stargazers_count": 931,
+    "open_issues_count": 6,
+    "forks_count": 33
   },
   {
     "full_name": "inertiajs/inertia-rails",
-    "stargazers_count": 294,
+    "stargazers_count": 295,
     "open_issues_count": 6,
     "forks_count": 36
   },
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "grosser/parallel_tests",
-    "stargazers_count": 3262,
-    "open_issues_count": 124,
+    "stargazers_count": 3263,
+    "open_issues_count": 125,
     "forks_count": 489
   },
   {
     "full_name": "nejdetkadir/devise-api",
     "stargazers_count": 106,
     "open_issues_count": 7,
-    "forks_count": 14
+    "forks_count": 15
   },
   {
     "full_name": "daddyz/phonelib",
-    "stargazers_count": 994,
+    "stargazers_count": 995,
     "open_issues_count": 24,
     "forks_count": 123
-  },
-  {
-    "full_name": "koedame/rails-mermaid_erd",
-    "stargazers_count": 55,
-    "open_issues_count": 4,
-    "forks_count": 5
-  },
-  {
-    "full_name": "Envek/after_commit_everywhere",
-    "stargazers_count": 578,
-    "open_issues_count": 2,
-    "forks_count": 18
   }
 ]
