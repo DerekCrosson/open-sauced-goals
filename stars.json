@@ -1,9 +1,9 @@
 [
   {
     "full_name": "Renumics/spotlight",
-    "stargazers_count": 469,
+    "stargazers_count": 485,
     "open_issues_count": 11,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "shioyama/mobility",
@@ -13,21 +13,21 @@
   },
   {
     "full_name": "JedWatson/react-select",
-    "stargazers_count": 26635,
+    "stargazers_count": 26653,
     "open_issues_count": 345,
-    "forks_count": 4086
+    "forks_count": 4087
   },
   {
     "full_name": "Jane-Terziev/dry-swagger",
-    "stargazers_count": 25,
+    "stargazers_count": 26,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "swisskyrepo/PayloadsAllTheThings",
-    "stargazers_count": 51409,
+    "stargazers_count": 51501,
     "open_issues_count": 12,
-    "forks_count": 13319
+    "forks_count": 13338
   },
   {
     "full_name": "BitBangingBytes/gr-smart_meters",
@@ -37,31 +37,31 @@
   },
   {
     "full_name": "ilyakatz/data-migrate",
-    "stargazers_count": 1286,
+    "stargazers_count": 1289,
     "open_issues_count": 31,
     "forks_count": 187
   },
   {
     "full_name": "atlassian/react-beautiful-dnd",
-    "stargazers_count": 31049,
+    "stargazers_count": 31072,
     "open_issues_count": 597,
     "forks_count": 2476
   },
   {
     "full_name": "crossbowerbt/awk-webserver",
-    "stargazers_count": 198,
+    "stargazers_count": 199,
     "open_issues_count": 1,
     "forks_count": 14
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 14456,
-    "open_issues_count": 144,
-    "forks_count": 477
+    "stargazers_count": 14677,
+    "open_issues_count": 141,
+    "forks_count": 489
   },
   {
     "full_name": "kdeldycke/awesome-engineering-team-management",
-    "stargazers_count": 1716,
+    "stargazers_count": 1719,
     "open_issues_count": 2,
     "forks_count": 130
   },
@@ -73,25 +73,25 @@
   },
   {
     "full_name": "formio/formio",
-    "stargazers_count": 1820,
+    "stargazers_count": 1825,
     "open_issues_count": 350,
-    "forks_count": 653
+    "forks_count": 655
   },
   {
     "full_name": "Kiho/react-form-builder",
-    "stargazers_count": 412,
+    "stargazers_count": 413,
     "open_issues_count": 15,
     "forks_count": 305
   },
   {
     "full_name": "agilgur5/react-signature-canvas",
-    "stargazers_count": 475,
+    "stargazers_count": 476,
     "open_issues_count": 6,
     "forks_count": 109
   },
   {
     "full_name": "yabeda-rb/yabeda-prometheus",
-    "stargazers_count": 97,
+    "stargazers_count": 98,
     "open_issues_count": 4,
     "forks_count": 15
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "fleetdm/fleet",
-    "stargazers_count": 1609,
-    "open_issues_count": 1362,
-    "forks_count": 286
+    "stargazers_count": 1618,
+    "open_issues_count": 1370,
+    "forks_count": 287
   },
   {
     "full_name": "tembo-io/pg_later",
@@ -127,33 +127,33 @@
   },
   {
     "full_name": "rubymonolith/superform",
-    "stargazers_count": 105,
+    "stargazers_count": 108,
     "open_issues_count": 2,
     "forks_count": 3
   },
   {
     "full_name": "prometheus/pushgateway",
-    "stargazers_count": 2708,
+    "stargazers_count": 2712,
     "open_issues_count": 10,
     "forks_count": 449
   },
   {
     "full_name": "prometheus/client_ruby",
-    "stargazers_count": 475,
+    "stargazers_count": 476,
     "open_issues_count": 18,
     "forks_count": 153
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 17664,
-    "open_issues_count": 91,
-    "forks_count": 1184
+    "stargazers_count": 17725,
+    "open_issues_count": 90,
+    "forks_count": 1186
   },
   {
     "full_name": "react-native-webrtc/react-native-webrtc",
-    "stargazers_count": 4348,
-    "open_issues_count": 25,
-    "forks_count": 1190
+    "stargazers_count": 4349,
+    "open_issues_count": 22,
+    "forks_count": 1191
   },
   {
     "full_name": "teoljungberg/fx",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "acassen/keepalived",
-    "stargazers_count": 3632,
-    "open_issues_count": 37,
+    "stargazers_count": 3634,
+    "open_issues_count": 34,
     "forks_count": 726
   },
   {
     "full_name": "lazaronixon/authentication-zero",
-    "stargazers_count": 981,
-    "open_issues_count": 9,
-    "forks_count": 36
+    "stargazers_count": 998,
+    "open_issues_count": 7,
+    "forks_count": 37
   }
 ]
