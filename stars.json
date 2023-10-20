@@ -1,9 +1,45 @@
 [
   {
+    "full_name": "danielgross/localpilot",
+    "stargazers_count": 1942,
+    "open_issues_count": 14,
+    "forks_count": 74
+  },
+  {
+    "full_name": "localsend/localsend",
+    "stargazers_count": 16599,
+    "open_issues_count": 224,
+    "forks_count": 834
+  },
+  {
+    "full_name": "Pithaya/spicetify-apps",
+    "stargazers_count": 19,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
+    "full_name": "core-hacked/tunein-api",
+    "stargazers_count": 10,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "business-science/pytimetk",
+    "stargazers_count": 298,
+    "open_issues_count": 26,
+    "forks_count": 30
+  },
+  {
+    "full_name": "rossta/montrose",
+    "stargazers_count": 770,
+    "open_issues_count": 9,
+    "forks_count": 54
+  },
+  {
     "full_name": "Renumics/spotlight",
-    "stargazers_count": 485,
-    "open_issues_count": 11,
-    "forks_count": 28
+    "stargazers_count": 495,
+    "open_issues_count": 22,
+    "forks_count": 30
   },
   {
     "full_name": "shioyama/mobility",
@@ -13,8 +49,8 @@
   },
   {
     "full_name": "JedWatson/react-select",
-    "stargazers_count": 26653,
-    "open_issues_count": 345,
+    "stargazers_count": 26669,
+    "open_issues_count": 351,
     "forks_count": 4087
   },
   {
@@ -25,9 +61,9 @@
   },
   {
     "full_name": "swisskyrepo/PayloadsAllTheThings",
-    "stargazers_count": 51501,
+    "stargazers_count": 51570,
     "open_issues_count": 12,
-    "forks_count": 13338
+    "forks_count": 13354
   },
   {
     "full_name": "BitBangingBytes/gr-smart_meters",
@@ -37,15 +73,15 @@
   },
   {
     "full_name": "ilyakatz/data-migrate",
-    "stargazers_count": 1289,
+    "stargazers_count": 1291,
     "open_issues_count": 31,
     "forks_count": 187
   },
   {
     "full_name": "atlassian/react-beautiful-dnd",
-    "stargazers_count": 31072,
+    "stargazers_count": 31089,
     "open_issues_count": 597,
-    "forks_count": 2476
+    "forks_count": 2478
   },
   {
     "full_name": "crossbowerbt/awk-webserver",
@@ -55,13 +91,13 @@
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 14677,
+    "stargazers_count": 14895,
     "open_issues_count": 141,
-    "forks_count": 489
+    "forks_count": 500
   },
   {
     "full_name": "kdeldycke/awesome-engineering-team-management",
-    "stargazers_count": 1719,
+    "stargazers_count": 1723,
     "open_issues_count": 2,
     "forks_count": 130
   },
@@ -73,25 +109,25 @@
   },
   {
     "full_name": "formio/formio",
-    "stargazers_count": 1825,
-    "open_issues_count": 350,
+    "stargazers_count": 1827,
+    "open_issues_count": 351,
     "forks_count": 655
   },
   {
     "full_name": "Kiho/react-form-builder",
     "stargazers_count": 413,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 305
   },
   {
     "full_name": "agilgur5/react-signature-canvas",
-    "stargazers_count": 476,
-    "open_issues_count": 6,
-    "forks_count": 109
+    "stargazers_count": 477,
+    "open_issues_count": 5,
+    "forks_count": 110
   },
   {
     "full_name": "yabeda-rb/yabeda-prometheus",
-    "stargazers_count": 98,
+    "stargazers_count": 99,
     "open_issues_count": 4,
     "forks_count": 15
   },
@@ -110,73 +146,37 @@
   {
     "full_name": "mainio/ratonvirus",
     "stargazers_count": 50,
-    "open_issues_count": 2,
+    "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "fleetdm/fleet",
-    "stargazers_count": 1618,
-    "open_issues_count": 1370,
-    "forks_count": 287
+    "stargazers_count": 1631,
+    "open_issues_count": 1387,
+    "forks_count": 290
   },
   {
     "full_name": "tembo-io/pg_later",
-    "stargazers_count": 271,
+    "stargazers_count": 272,
     "open_issues_count": 15,
     "forks_count": 5
   },
   {
     "full_name": "rubymonolith/superform",
-    "stargazers_count": 108,
-    "open_issues_count": 2,
-    "forks_count": 3
+    "stargazers_count": 125,
+    "open_issues_count": 1,
+    "forks_count": 4
   },
   {
     "full_name": "prometheus/pushgateway",
     "stargazers_count": 2712,
-    "open_issues_count": 10,
-    "forks_count": 449
+    "open_issues_count": 7,
+    "forks_count": 448
   },
   {
     "full_name": "prometheus/client_ruby",
     "stargazers_count": 476,
     "open_issues_count": 18,
     "forks_count": 153
-  },
-  {
-    "full_name": "wbkd/react-flow",
-    "stargazers_count": 17725,
-    "open_issues_count": 90,
-    "forks_count": 1186
-  },
-  {
-    "full_name": "react-native-webrtc/react-native-webrtc",
-    "stargazers_count": 4349,
-    "open_issues_count": 22,
-    "forks_count": 1191
-  },
-  {
-    "full_name": "teoljungberg/fx",
-    "stargazers_count": 596,
-    "open_issues_count": 8,
-    "forks_count": 66
-  },
-  {
-    "full_name": "palkan/logidze",
-    "stargazers_count": 1472,
-    "open_issues_count": 9,
-    "forks_count": 71
-  },
-  {
-    "full_name": "acassen/keepalived",
-    "stargazers_count": 3634,
-    "open_issues_count": 34,
-    "forks_count": 726
-  },
-  {
-    "full_name": "lazaronixon/authentication-zero",
-    "stargazers_count": 998,
-    "open_issues_count": 7,
-    "forks_count": 37
   }
 ]
