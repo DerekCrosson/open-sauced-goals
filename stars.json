@@ -1,5 +1,23 @@
 [
   {
+    "full_name": "bucardo/bucardo",
+    "stargazers_count": 690,
+    "open_issues_count": 39,
+    "forks_count": 100
+  },
+  {
+    "full_name": "gittuf/gittuf",
+    "stargazers_count": 151,
+    "open_issues_count": 25,
+    "forks_count": 8
+  },
+  {
+    "full_name": "ZachGoldberg/Startup-CTO-Handbook",
+    "stargazers_count": 7481,
+    "open_issues_count": 3,
+    "forks_count": 323
+  },
+  {
     "full_name": "fleetbase/navigator-app",
     "stargazers_count": 17,
     "open_issues_count": 5,
@@ -7,21 +25,21 @@
   },
   {
     "full_name": "fleetbase/fleetbase",
-    "stargazers_count": 262,
+    "stargazers_count": 263,
     "open_issues_count": 7,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "danielgross/localpilot",
-    "stargazers_count": 2410,
-    "open_issues_count": 14,
-    "forks_count": 91
+    "stargazers_count": 2528,
+    "open_issues_count": 17,
+    "forks_count": 97
   },
   {
     "full_name": "localsend/localsend",
-    "stargazers_count": 20592,
-    "open_issues_count": 235,
-    "forks_count": 988
+    "stargazers_count": 21200,
+    "open_issues_count": 241,
+    "forks_count": 1014
   },
   {
     "full_name": "Pithaya/spicetify-apps",
@@ -37,45 +55,45 @@
   },
   {
     "full_name": "business-science/pytimetk",
-    "stargazers_count": 310,
-    "open_issues_count": 28,
-    "forks_count": 30
+    "stargazers_count": 319,
+    "open_issues_count": 25,
+    "forks_count": 31
   },
   {
     "full_name": "rossta/montrose",
-    "stargazers_count": 792,
+    "stargazers_count": 797,
     "open_issues_count": 9,
     "forks_count": 54
   },
   {
     "full_name": "Renumics/spotlight",
-    "stargazers_count": 510,
-    "open_issues_count": 22,
-    "forks_count": 44
+    "stargazers_count": 521,
+    "open_issues_count": 24,
+    "forks_count": 50
   },
   {
     "full_name": "shioyama/mobility",
     "stargazers_count": 919,
-    "open_issues_count": 42,
+    "open_issues_count": 43,
     "forks_count": 74
   },
   {
     "full_name": "JedWatson/react-select",
-    "stargazers_count": 26673,
+    "stargazers_count": 26689,
     "open_issues_count": 351,
-    "forks_count": 4088
+    "forks_count": 4090
   },
   {
     "full_name": "Jane-Terziev/dry-swagger",
-    "stargazers_count": 26,
+    "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "swisskyrepo/PayloadsAllTheThings",
-    "stargazers_count": 51691,
+    "stargazers_count": 51766,
     "open_issues_count": 14,
-    "forks_count": 13366
+    "forks_count": 13388
   },
   {
     "full_name": "BitBangingBytes/gr-smart_meters",
@@ -85,15 +103,15 @@
   },
   {
     "full_name": "ilyakatz/data-migrate",
-    "stargazers_count": 1292,
+    "stargazers_count": 1294,
     "open_issues_count": 32,
     "forks_count": 188
   },
   {
     "full_name": "atlassian/react-beautiful-dnd",
-    "stargazers_count": 31106,
-    "open_issues_count": 597,
-    "forks_count": 2478
+    "stargazers_count": 31129,
+    "open_issues_count": 600,
+    "forks_count": 2479
   },
   {
     "full_name": "crossbowerbt/awk-webserver",
@@ -103,13 +121,13 @@
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 15039,
-    "open_issues_count": 147,
-    "forks_count": 507
+    "stargazers_count": 15204,
+    "open_issues_count": 142,
+    "forks_count": 516
   },
   {
     "full_name": "kdeldycke/awesome-engineering-team-management",
-    "stargazers_count": 1726,
+    "stargazers_count": 1728,
     "open_issues_count": 2,
     "forks_count": 130
   },
@@ -121,9 +139,9 @@
   },
   {
     "full_name": "formio/formio",
-    "stargazers_count": 1828,
-    "open_issues_count": 351,
-    "forks_count": 656
+    "stargazers_count": 1830,
+    "open_issues_count": 353,
+    "forks_count": 658
   },
   {
     "full_name": "Kiho/react-form-builder",
@@ -160,23 +178,5 @@
     "stargazers_count": 50,
     "open_issues_count": 0,
     "forks_count": 12
-  },
-  {
-    "full_name": "fleetdm/fleet",
-    "stargazers_count": 1641,
-    "open_issues_count": 1399,
-    "forks_count": 290
-  },
-  {
-    "full_name": "tembo-io/pg_later",
-    "stargazers_count": 272,
-    "open_issues_count": 15,
-    "forks_count": 5
-  },
-  {
-    "full_name": "rubymonolith/superform",
-    "stargazers_count": 130,
-    "open_issues_count": 2,
-    "forks_count": 4
   }
 ]
