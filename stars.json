@@ -1,19 +1,37 @@
 [
   {
+    "full_name": "notexactlyawe/abracadabra",
+    "stargazers_count": 185,
+    "open_issues_count": 22,
+    "forks_count": 31
+  },
+  {
+    "full_name": "wmlele/devise-otp",
+    "stargazers_count": 148,
+    "open_issues_count": 3,
+    "forks_count": 37
+  },
+  {
+    "full_name": "DropbaseHQ/dropbase",
+    "stargazers_count": 384,
+    "open_issues_count": 1,
+    "forks_count": 5
+  },
+  {
     "full_name": "charlotte-ruby/impressionist",
-    "stargazers_count": 1522,
+    "stargazers_count": 1521,
     "open_issues_count": 79,
     "forks_count": 311
   },
   {
     "full_name": "jordan-cutler/path-to-senior-engineer-handbook",
-    "stargazers_count": 3957,
-    "open_issues_count": 1,
-    "forks_count": 391
+    "stargazers_count": 4130,
+    "open_issues_count": 2,
+    "forks_count": 414
   },
   {
     "full_name": "cloudflare/cf-terraforming",
-    "stargazers_count": 754,
+    "stargazers_count": 757,
     "open_issues_count": 33,
     "forks_count": 125
   },
@@ -25,39 +43,39 @@
   },
   {
     "full_name": "gittuf/gittuf",
-    "stargazers_count": 224,
+    "stargazers_count": 225,
     "open_issues_count": 33,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "ZachGoldberg/Startup-CTO-Handbook",
-    "stargazers_count": 9369,
+    "stargazers_count": 9388,
     "open_issues_count": 4,
-    "forks_count": 425
+    "forks_count": 428
   },
   {
     "full_name": "fleetbase/navigator-app",
     "stargazers_count": 19,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 10
   },
   {
     "full_name": "fleetbase/fleetbase",
-    "stargazers_count": 297,
+    "stargazers_count": 298,
     "open_issues_count": 10,
-    "forks_count": 86
+    "forks_count": 87
   },
   {
     "full_name": "danielgross/localpilot",
-    "stargazers_count": 3057,
+    "stargazers_count": 3064,
     "open_issues_count": 18,
     "forks_count": 115
   },
   {
     "full_name": "localsend/localsend",
-    "stargazers_count": 23900,
-    "open_issues_count": 264,
-    "forks_count": 1151
+    "stargazers_count": 24021,
+    "open_issues_count": 263,
+    "forks_count": 1161
   },
   {
     "full_name": "Pithaya/spicetify-apps",
@@ -73,45 +91,45 @@
   },
   {
     "full_name": "business-science/pytimetk",
-    "stargazers_count": 474,
+    "stargazers_count": 475,
     "open_issues_count": 82,
     "forks_count": 40
   },
   {
     "full_name": "rossta/montrose",
-    "stargazers_count": 809,
+    "stargazers_count": 810,
     "open_issues_count": 7,
     "forks_count": 54
   },
   {
     "full_name": "Renumics/spotlight",
-    "stargazers_count": 587,
-    "open_issues_count": 24,
+    "stargazers_count": 588,
+    "open_issues_count": 23,
     "forks_count": 56
   },
   {
     "full_name": "shioyama/mobility",
-    "stargazers_count": 930,
+    "stargazers_count": 931,
     "open_issues_count": 45,
     "forks_count": 76
   },
   {
     "full_name": "JedWatson/react-select",
-    "stargazers_count": 26801,
-    "open_issues_count": 363,
-    "forks_count": 4098
+    "stargazers_count": 26820,
+    "open_issues_count": 364,
+    "forks_count": 4099
   },
   {
     "full_name": "Jane-Terziev/dry-swagger",
-    "stargazers_count": 28,
+    "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "swisskyrepo/PayloadsAllTheThings",
-    "stargazers_count": 53070,
+    "stargazers_count": 53131,
     "open_issues_count": 12,
-    "forks_count": 13596
+    "forks_count": 13611
   },
   {
     "full_name": "BitBangingBytes/gr-smart_meters",
@@ -121,15 +139,15 @@
   },
   {
     "full_name": "ilyakatz/data-migrate",
-    "stargazers_count": 1302,
+    "stargazers_count": 1305,
     "open_issues_count": 34,
-    "forks_count": 187
+    "forks_count": 186
   },
   {
     "full_name": "atlassian/react-beautiful-dnd",
-    "stargazers_count": 31412,
-    "open_issues_count": 609,
-    "forks_count": 2493
+    "stargazers_count": 31454,
+    "open_issues_count": 610,
+    "forks_count": 2495
   },
   {
     "full_name": "crossbowerbt/awk-webserver",
@@ -139,44 +157,26 @@
   },
   {
     "full_name": "opentofu/opentofu",
-    "stargazers_count": 16202,
-    "open_issues_count": 172,
-    "forks_count": 558
+    "stargazers_count": 16270,
+    "open_issues_count": 175,
+    "forks_count": 560
   },
   {
     "full_name": "kdeldycke/awesome-engineering-team-management",
-    "stargazers_count": 1741,
+    "stargazers_count": 1742,
     "open_issues_count": 3,
-    "forks_count": 131
+    "forks_count": 132
   },
   {
     "full_name": "taskrabbit/react-native-zendesk-chat",
     "stargazers_count": 125,
     "open_issues_count": 55,
-    "forks_count": 125
+    "forks_count": 124
   },
   {
     "full_name": "formio/formio",
-    "stargazers_count": 1853,
-    "open_issues_count": 357,
-    "forks_count": 669
-  },
-  {
-    "full_name": "Kiho/react-form-builder",
-    "stargazers_count": 417,
-    "open_issues_count": 19,
-    "forks_count": 314
-  },
-  {
-    "full_name": "agilgur5/react-signature-canvas",
-    "stargazers_count": 485,
-    "open_issues_count": 7,
-    "forks_count": 111
-  },
-  {
-    "full_name": "yabeda-rb/yabeda-prometheus",
-    "stargazers_count": 102,
-    "open_issues_count": 5,
-    "forks_count": 15
+    "stargazers_count": 1854,
+    "open_issues_count": 356,
+    "forks_count": 670
   }
 ]
