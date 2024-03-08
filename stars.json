@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "cookiecutter/cookiecutter-django",
+    "stargazers_count": 11390,
+    "open_issues_count": 102,
+    "forks_count": 2769
+  },
+  {
     "full_name": "Bearer/bearer",
-    "stargazers_count": 1603,
-    "open_issues_count": 5,
-    "forks_count": 71
+    "stargazers_count": 1611,
+    "open_issues_count": 6,
+    "forks_count": 74
   },
   {
     "full_name": "mhenrixon/sidekiq-unique-jobs",
-    "stargazers_count": 1405,
+    "stargazers_count": 1406,
     "open_issues_count": 48,
     "forks_count": 271
   },
@@ -37,8 +43,8 @@
   },
   {
     "full_name": "notexactlyawe/abracadabra",
-    "stargazers_count": 256,
-    "open_issues_count": 22,
+    "stargazers_count": 257,
+    "open_issues_count": 23,
     "forks_count": 35
   },
   {
@@ -49,7 +55,7 @@
   },
   {
     "full_name": "DropbaseHQ/dropbase",
-    "stargazers_count": 543,
+    "stargazers_count": 545,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -61,13 +67,13 @@
   },
   {
     "full_name": "jordan-cutler/path-to-senior-engineer-handbook",
-    "stargazers_count": 7793,
+    "stargazers_count": 7833,
     "open_issues_count": 1,
-    "forks_count": 722
+    "forks_count": 724
   },
   {
     "full_name": "cloudflare/cf-terraforming",
-    "stargazers_count": 817,
+    "stargazers_count": 821,
     "open_issues_count": 34,
     "forks_count": 129
   },
@@ -79,39 +85,39 @@
   },
   {
     "full_name": "gittuf/gittuf",
-    "stargazers_count": 306,
-    "open_issues_count": 49,
+    "stargazers_count": 307,
+    "open_issues_count": 48,
     "forks_count": 19
   },
   {
     "full_name": "ZachGoldberg/Startup-CTO-Handbook",
-    "stargazers_count": 9800,
-    "open_issues_count": 7,
-    "forks_count": 456
+    "stargazers_count": 9806,
+    "open_issues_count": 6,
+    "forks_count": 457
   },
   {
     "full_name": "fleetbase/navigator-app",
     "stargazers_count": 25,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 14
   },
   {
     "full_name": "fleetbase/fleetbase",
-    "stargazers_count": 363,
+    "stargazers_count": 369,
     "open_issues_count": 11,
-    "forks_count": 116
+    "forks_count": 120
   },
   {
     "full_name": "danielgross/localpilot",
-    "stargazers_count": 3240,
+    "stargazers_count": 3247,
     "open_issues_count": 24,
     "forks_count": 133
   },
   {
     "full_name": "localsend/localsend",
-    "stargazers_count": 29494,
-    "open_issues_count": 301,
-    "forks_count": 1454
+    "stargazers_count": 29617,
+    "open_issues_count": 304,
+    "forks_count": 1464
   },
   {
     "full_name": "Pithaya/spicetify-apps",
@@ -121,13 +127,13 @@
   },
   {
     "full_name": "core-hacked/tunein-api",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "business-science/pytimetk",
-    "stargazers_count": 565,
+    "stargazers_count": 569,
     "open_issues_count": 26,
     "forks_count": 51
   },
@@ -139,21 +145,21 @@
   },
   {
     "full_name": "Renumics/spotlight",
-    "stargazers_count": 912,
+    "stargazers_count": 929,
     "open_issues_count": 8,
     "forks_count": 80
   },
   {
     "full_name": "shioyama/mobility",
-    "stargazers_count": 938,
-    "open_issues_count": 47,
-    "forks_count": 78
+    "stargazers_count": 940,
+    "open_issues_count": 48,
+    "forks_count": 79
   },
   {
     "full_name": "JedWatson/react-select",
-    "stargazers_count": 27105,
+    "stargazers_count": 27122,
     "open_issues_count": 390,
-    "forks_count": 4082
+    "forks_count": 4081
   },
   {
     "full_name": "Jane-Terziev/dry-swagger",
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "swisskyrepo/PayloadsAllTheThings",
-    "stargazers_count": 55734,
+    "stargazers_count": 55810,
     "open_issues_count": 14,
-    "forks_count": 13787
+    "forks_count": 13800
   },
   {
     "full_name": "BitBangingBytes/gr-smart_meters",
     "stargazers_count": 212,
     "open_issues_count": 1,
     "forks_count": 32
-  },
-  {
-    "full_name": "ilyakatz/data-migrate",
-    "stargazers_count": 1344,
-    "open_issues_count": 34,
-    "forks_count": 188
   }
 ]
