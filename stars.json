@@ -1,81 +1,81 @@
 [
   {
     "full_name": "heyform/heyform",
-    "stargazers_count": 4714,
-    "open_issues_count": 8,
-    "forks_count": 330
+    "stargazers_count": 4938,
+    "open_issues_count": 5,
+    "forks_count": 344
   },
   {
     "full_name": "OpenDevin/OpenDevin",
-    "stargazers_count": 19833,
-    "open_issues_count": 109,
-    "forks_count": 2050
+    "stargazers_count": 21015,
+    "open_issues_count": 119,
+    "forks_count": 2244
   },
   {
     "full_name": "rails/solid_queue",
-    "stargazers_count": 1450,
+    "stargazers_count": 1457,
     "open_issues_count": 30,
-    "forks_count": 69
+    "forks_count": 70
   },
   {
     "full_name": "basecamp/thruster",
-    "stargazers_count": 523,
+    "stargazers_count": 530,
     "open_issues_count": 8,
     "forks_count": 12
   },
   {
     "full_name": "stitionai/devika",
-    "stargazers_count": 14989,
-    "open_issues_count": 94,
-    "forks_count": 1853
+    "stargazers_count": 15397,
+    "open_issues_count": 111,
+    "forks_count": 1936
   },
   {
     "full_name": "zigzap/zap",
-    "stargazers_count": 1749,
+    "stargazers_count": 1757,
     "open_issues_count": 10,
     "forks_count": 60
   },
   {
     "full_name": "bytebase/bytebase",
-    "stargazers_count": 9875,
-    "open_issues_count": 58,
-    "forks_count": 639
+    "stargazers_count": 9900,
+    "open_issues_count": 60,
+    "forks_count": 641
   },
   {
     "full_name": "mikaelmello/inquire",
-    "stargazers_count": 1582,
+    "stargazers_count": 1585,
     "open_issues_count": 48,
-    "forks_count": 65
+    "forks_count": 66
   },
   {
     "full_name": "apptension/developer-handbook",
-    "stargazers_count": 5740,
+    "stargazers_count": 5746,
     "open_issues_count": 11,
     "forks_count": 649
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 12509,
-    "open_issues_count": 67,
-    "forks_count": 678
+    "stargazers_count": 12677,
+    "open_issues_count": 71,
+    "forks_count": 687
   },
   {
     "full_name": "cookiecutter/cookiecutter-django",
-    "stargazers_count": 11489,
-    "open_issues_count": 112,
-    "forks_count": 2787
+    "stargazers_count": 11500,
+    "open_issues_count": 117,
+    "forks_count": 2788
   },
   {
     "full_name": "Bearer/bearer",
-    "stargazers_count": 1707,
-    "open_issues_count": 16,
+    "stargazers_count": 1710,
+    "open_issues_count": 15,
     "forks_count": 78
   },
   {
     "full_name": "mhenrixon/sidekiq-unique-jobs",
-    "stargazers_count": 1412,
+    "stargazers_count": 1413,
     "open_issues_count": 53,
-    "forks_count": 271
+    "forks_count": 272
   },
   {
     "full_name": "shftco/rails-api-boilerplate",
@@ -87,7 +87,7 @@
     "full_name": "heapsource/active_model_otp",
     "stargazers_count": 746,
     "open_issues_count": 8,
-    "forks_count": 80
+    "forks_count": 81
   },
   {
     "full_name": "JasterV/chat-rooms-actix",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "DropbaseHQ/dropbase",
-    "stargazers_count": 559,
+    "stargazers_count": 560,
     "open_issues_count": 0,
     "forks_count": 6
   },
@@ -127,14 +127,14 @@
   },
   {
     "full_name": "jordan-cutler/path-to-senior-engineer-handbook",
-    "stargazers_count": 9156,
+    "stargazers_count": 9235,
     "open_issues_count": 1,
-    "forks_count": 871
+    "forks_count": 877
   },
   {
     "full_name": "cloudflare/cf-terraforming",
-    "stargazers_count": 839,
-    "open_issues_count": 40,
+    "stargazers_count": 844,
+    "open_issues_count": 37,
     "forks_count": 124
   },
   {
@@ -145,38 +145,38 @@
   },
   {
     "full_name": "gittuf/gittuf",
-    "stargazers_count": 316,
-    "open_issues_count": 51,
+    "stargazers_count": 317,
+    "open_issues_count": 53,
     "forks_count": 19
   },
   {
     "full_name": "ZachGoldberg/Startup-CTO-Handbook",
-    "stargazers_count": 9890,
+    "stargazers_count": 9897,
     "open_issues_count": 6,
-    "forks_count": 464
+    "forks_count": 466
   },
   {
     "full_name": "fleetbase/navigator-app",
     "stargazers_count": 25,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 14
   },
   {
     "full_name": "fleetbase/fleetbase",
-    "stargazers_count": 407,
+    "stargazers_count": 412,
     "open_issues_count": 4,
-    "forks_count": 135
+    "forks_count": 138
   },
   {
     "full_name": "danielgross/localpilot",
-    "stargazers_count": 3284,
+    "stargazers_count": 3287,
     "open_issues_count": 24,
     "forks_count": 137
   },
   {
     "full_name": "localsend/localsend",
-    "stargazers_count": 34275,
-    "open_issues_count": 328,
-    "forks_count": 1732
+    "stargazers_count": 34421,
+    "open_issues_count": 333,
+    "forks_count": 1746
   }
 ]
