@@ -7,15 +7,15 @@
   },
   {
     "full_name": "tmux-plugins/tmux-resurrect",
-    "stargazers_count": 10703,
+    "stargazers_count": 10715,
     "open_issues_count": 239,
-    "forks_count": 396
+    "forks_count": 397
   },
   {
     "full_name": "pluja/awesome-privacy",
-    "stargazers_count": 11782,
+    "stargazers_count": 11819,
     "open_issues_count": 142,
-    "forks_count": 502
+    "forks_count": 505
   },
   {
     "full_name": "signalwire/signalwire-ruby",
@@ -25,85 +25,85 @@
   },
   {
     "full_name": "signalwire/freeswitch",
-    "stargazers_count": 2979,
-    "open_issues_count": 919,
-    "forks_count": 1314
+    "stargazers_count": 2984,
+    "open_issues_count": 920,
+    "forks_count": 1317
   },
   {
     "full_name": "heyform/heyform",
-    "stargazers_count": 5441,
-    "open_issues_count": 4,
-    "forks_count": 380
+    "stargazers_count": 5554,
+    "open_issues_count": 2,
+    "forks_count": 384
   },
   {
     "full_name": "OpenDevin/OpenDevin",
-    "stargazers_count": 22402,
-    "open_issues_count": 90,
-    "forks_count": 2429
+    "stargazers_count": 22827,
+    "open_issues_count": 89,
+    "forks_count": 2474
   },
   {
     "full_name": "rails/solid_queue",
-    "stargazers_count": 1476,
+    "stargazers_count": 1488,
     "open_issues_count": 32,
     "forks_count": 72
   },
   {
     "full_name": "basecamp/thruster",
-    "stargazers_count": 560,
-    "open_issues_count": 5,
+    "stargazers_count": 565,
+    "open_issues_count": 7,
     "forks_count": 12
   },
   {
     "full_name": "stitionai/devika",
-    "stargazers_count": 15838,
-    "open_issues_count": 102,
-    "forks_count": 2012
+    "stargazers_count": 16049,
+    "open_issues_count": 99,
+    "forks_count": 2049
   },
   {
     "full_name": "zigzap/zap",
-    "stargazers_count": 1774,
-    "open_issues_count": 13,
-    "forks_count": 63
+    "stargazers_count": 1782,
+    "open_issues_count": 7,
+    "forks_count": 64
   },
   {
     "full_name": "bytebase/bytebase",
-    "stargazers_count": 9972,
+    "stargazers_count": 9993,
     "open_issues_count": 62,
-    "forks_count": 645
+    "forks_count": 644
   },
   {
     "full_name": "mikaelmello/inquire",
-    "stargazers_count": 1598,
-    "open_issues_count": 50,
+    "stargazers_count": 1612,
+    "open_issues_count": 51,
     "forks_count": 67
   },
   {
     "full_name": "apptension/developer-handbook",
-    "stargazers_count": 5751,
+    "stargazers_count": 5753,
     "open_issues_count": 11,
-    "forks_count": 652
+    "forks_count": 653
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 13595,
-    "open_issues_count": 75,
-    "forks_count": 746
+    "stargazers_count": 15285,
+    "open_issues_count": 83,
+    "forks_count": 898
   },
   {
     "full_name": "cookiecutter/cookiecutter-django",
-    "stargazers_count": 11525,
-    "open_issues_count": 111,
+    "stargazers_count": 11534,
+    "open_issues_count": 112,
     "forks_count": 2792
   },
   {
     "full_name": "Bearer/bearer",
-    "stargazers_count": 1726,
-    "open_issues_count": 17,
+    "stargazers_count": 1734,
+    "open_issues_count": 7,
     "forks_count": 78
   },
   {
     "full_name": "mhenrixon/sidekiq-unique-jobs",
-    "stargazers_count": 1414,
+    "stargazers_count": 1415,
     "open_issues_count": 54,
     "forks_count": 272
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "heapsource/active_model_otp",
-    "stargazers_count": 748,
+    "stargazers_count": 749,
     "open_issues_count": 8,
     "forks_count": 81
   },
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "notexactlyawe/abracadabra",
-    "stargazers_count": 263,
+    "stargazers_count": 264,
     "open_issues_count": 23,
     "forks_count": 37
   },
@@ -147,35 +147,35 @@
     "full_name": "DropbaseHQ/dropbase",
     "stargazers_count": 560,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "charlotte-ruby/impressionist",
-    "stargazers_count": 1522,
-    "open_issues_count": 79,
+    "stargazers_count": 1521,
+    "open_issues_count": 80,
     "forks_count": 310
   },
   {
     "full_name": "jordan-cutler/path-to-senior-engineer-handbook",
-    "stargazers_count": 9340,
+    "stargazers_count": 9368,
     "open_issues_count": 1,
-    "forks_count": 887
+    "forks_count": 890
   },
   {
     "full_name": "cloudflare/cf-terraforming",
-    "stargazers_count": 850,
+    "stargazers_count": 853,
     "open_issues_count": 37,
     "forks_count": 127
   },
   {
     "full_name": "bucardo/bucardo",
-    "stargazers_count": 715,
+    "stargazers_count": 716,
     "open_issues_count": 41,
     "forks_count": 99
   },
   {
     "full_name": "gittuf/gittuf",
-    "stargazers_count": 324,
+    "stargazers_count": 328,
     "open_issues_count": 55,
     "forks_count": 19
   }
