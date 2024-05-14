@@ -7,9 +7,9 @@
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 84289,
-    "open_issues_count": 14,
-    "forks_count": 9173
+    "stargazers_count": 84393,
+    "open_issues_count": 12,
+    "forks_count": 9179
   },
   {
     "full_name": "stefanprodan/AspNetCoreRateLimit",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "jasontaylordev/CleanArchitecture",
-    "stargazers_count": 15711,
-    "open_issues_count": 46,
-    "forks_count": 3365
+    "stargazers_count": 15743,
+    "open_issues_count": 47,
+    "forks_count": 3370
   },
   {
     "full_name": "myshell-ai/OpenVoice",
-    "stargazers_count": 24641,
-    "open_issues_count": 135,
-    "forks_count": 2288
+    "stargazers_count": 25070,
+    "open_issues_count": 138,
+    "forks_count": 2352
   },
   {
     "full_name": "danielsdeleo/deep_merge",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "tmux-plugins/tmux-resurrect",
-    "stargazers_count": 10772,
+    "stargazers_count": 10775,
     "open_issues_count": 241,
     "forks_count": 399
   },
   {
     "full_name": "pluja/awesome-privacy",
-    "stargazers_count": 11966,
-    "open_issues_count": 142,
-    "forks_count": 506
+    "stargazers_count": 11998,
+    "open_issues_count": 143,
+    "forks_count": 508
   },
   {
     "full_name": "signalwire/signalwire-ruby",
@@ -55,85 +55,85 @@
   },
   {
     "full_name": "signalwire/freeswitch",
-    "stargazers_count": 3163,
-    "open_issues_count": 932,
-    "forks_count": 1336
+    "stargazers_count": 3178,
+    "open_issues_count": 934,
+    "forks_count": 1345
   },
   {
     "full_name": "heyform/heyform",
-    "stargazers_count": 5780,
-    "open_issues_count": 6,
-    "forks_count": 394
+    "stargazers_count": 5814,
+    "open_issues_count": 4,
+    "forks_count": 395
   },
   {
     "full_name": "OpenDevin/OpenDevin",
-    "stargazers_count": 24697,
-    "open_issues_count": 141,
-    "forks_count": 2722
+    "stargazers_count": 25487,
+    "open_issues_count": 153,
+    "forks_count": 2789
   },
   {
     "full_name": "rails/solid_queue",
-    "stargazers_count": 1524,
-    "open_issues_count": 31,
-    "forks_count": 75
+    "stargazers_count": 1528,
+    "open_issues_count": 33,
+    "forks_count": 76
   },
   {
     "full_name": "basecamp/thruster",
-    "stargazers_count": 624,
-    "open_issues_count": 9,
-    "forks_count": 14
+    "stargazers_count": 634,
+    "open_issues_count": 10,
+    "forks_count": 15
   },
   {
     "full_name": "stitionai/devika",
-    "stargazers_count": 17062,
-    "open_issues_count": 116,
-    "forks_count": 2198
+    "stargazers_count": 17170,
+    "open_issues_count": 124,
+    "forks_count": 2213
   },
   {
     "full_name": "zigzap/zap",
-    "stargazers_count": 1828,
+    "stargazers_count": 1849,
     "open_issues_count": 7,
-    "forks_count": 64
+    "forks_count": 63
   },
   {
     "full_name": "bytebase/bytebase",
-    "stargazers_count": 10150,
-    "open_issues_count": 67,
-    "forks_count": 658
+    "stargazers_count": 10174,
+    "open_issues_count": 69,
+    "forks_count": 659
   },
   {
     "full_name": "mikaelmello/inquire",
-    "stargazers_count": 1636,
+    "stargazers_count": 1641,
     "open_issues_count": 53,
     "forks_count": 69
   },
   {
     "full_name": "apptension/developer-handbook",
-    "stargazers_count": 5768,
+    "stargazers_count": 5773,
     "open_issues_count": 11,
-    "forks_count": 651
+    "forks_count": 650
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 17945,
-    "open_issues_count": 108,
-    "forks_count": 1073
+    "stargazers_count": 18277,
+    "open_issues_count": 109,
+    "forks_count": 1100
   },
   {
     "full_name": "cookiecutter/cookiecutter-django",
-    "stargazers_count": 11594,
-    "open_issues_count": 121,
+    "stargazers_count": 11600,
+    "open_issues_count": 109,
     "forks_count": 2801
   },
   {
     "full_name": "Bearer/bearer",
-    "stargazers_count": 1760,
-    "open_issues_count": 10,
+    "stargazers_count": 1769,
+    "open_issues_count": 8,
     "forks_count": 81
   },
   {
     "full_name": "mhenrixon/sidekiq-unique-jobs",
-    "stargazers_count": 1420,
+    "stargazers_count": 1421,
     "open_issues_count": 55,
     "forks_count": 272
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "heapsource/active_model_otp",
-    "stargazers_count": 753,
+    "stargazers_count": 754,
     "open_issues_count": 8,
     "forks_count": 81
   },
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "notexactlyawe/abracadabra",
-    "stargazers_count": 265,
+    "stargazers_count": 266,
     "open_issues_count": 23,
     "forks_count": 37
   },
   {
     "full_name": "wmlele/devise-otp",
-    "stargazers_count": 152,
+    "stargazers_count": 154,
     "open_issues_count": 5,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "DropbaseHQ/dropbase",
-    "stargazers_count": 579,
+    "stargazers_count": 580,
     "open_issues_count": 0,
     "forks_count": 8
   }
