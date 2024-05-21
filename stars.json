@@ -1,39 +1,45 @@
 [
   {
-    "full_name": "Modos-Labs/Glider",
-    "stargazers_count": 1152,
+    "full_name": "knipknap/grpc-server-go",
+    "stargazers_count": 8,
     "open_issues_count": 0,
-    "forks_count": 24
+    "forks_count": 1
+  },
+  {
+    "full_name": "Modos-Labs/Glider",
+    "stargazers_count": 1287,
+    "open_issues_count": 0,
+    "forks_count": 25
   },
   {
     "full_name": "wednesday-solutions/flutter_template",
-    "stargazers_count": 259,
+    "stargazers_count": 260,
     "open_issues_count": 2,
     "forks_count": 51
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 84497,
-    "open_issues_count": 12,
-    "forks_count": 9187
+    "stargazers_count": 84575,
+    "open_issues_count": 13,
+    "forks_count": 9186
   },
   {
     "full_name": "stefanprodan/AspNetCoreRateLimit",
-    "stargazers_count": 3056,
+    "stargazers_count": 3059,
     "open_issues_count": 173,
-    "forks_count": 438
+    "forks_count": 439
   },
   {
     "full_name": "jasontaylordev/CleanArchitecture",
-    "stargazers_count": 15770,
-    "open_issues_count": 47,
-    "forks_count": 3378
+    "stargazers_count": 15815,
+    "open_issues_count": 48,
+    "forks_count": 3382
   },
   {
     "full_name": "myshell-ai/OpenVoice",
-    "stargazers_count": 25339,
-    "open_issues_count": 139,
-    "forks_count": 2372
+    "stargazers_count": 25624,
+    "open_issues_count": 141,
+    "forks_count": 2402
   },
   {
     "full_name": "danielsdeleo/deep_merge",
@@ -43,15 +49,15 @@
   },
   {
     "full_name": "tmux-plugins/tmux-resurrect",
-    "stargazers_count": 10782,
+    "stargazers_count": 10796,
     "open_issues_count": 242,
     "forks_count": 402
   },
   {
     "full_name": "pluja/awesome-privacy",
-    "stargazers_count": 12020,
+    "stargazers_count": 12047,
     "open_issues_count": 143,
-    "forks_count": 508
+    "forks_count": 512
   },
   {
     "full_name": "signalwire/signalwire-ruby",
@@ -61,80 +67,80 @@
   },
   {
     "full_name": "signalwire/freeswitch",
-    "stargazers_count": 3187,
-    "open_issues_count": 933,
-    "forks_count": 1345
+    "stargazers_count": 3193,
+    "open_issues_count": 935,
+    "forks_count": 1347
   },
   {
     "full_name": "heyform/heyform",
-    "stargazers_count": 5833,
-    "open_issues_count": 7,
-    "forks_count": 399
+    "stargazers_count": 5846,
+    "open_issues_count": 5,
+    "forks_count": 401
   },
   {
     "full_name": "OpenDevin/OpenDevin",
-    "stargazers_count": 25620,
-    "open_issues_count": 156,
-    "forks_count": 2826
+    "stargazers_count": 25852,
+    "open_issues_count": 153,
+    "forks_count": 2847
   },
   {
     "full_name": "rails/solid_queue",
-    "stargazers_count": 1535,
-    "open_issues_count": 35,
+    "stargazers_count": 1539,
+    "open_issues_count": 34,
     "forks_count": 77
   },
   {
     "full_name": "basecamp/thruster",
-    "stargazers_count": 639,
+    "stargazers_count": 642,
     "open_issues_count": 9,
     "forks_count": 16
   },
   {
     "full_name": "stitionai/devika",
-    "stargazers_count": 17211,
-    "open_issues_count": 119,
+    "stargazers_count": 17250,
+    "open_issues_count": 124,
     "forks_count": 2220
   },
   {
     "full_name": "zigzap/zap",
-    "stargazers_count": 1853,
-    "open_issues_count": 7,
-    "forks_count": 63
+    "stargazers_count": 1864,
+    "open_issues_count": 8,
+    "forks_count": 64
   },
   {
     "full_name": "bytebase/bytebase",
-    "stargazers_count": 10198,
-    "open_issues_count": 67,
-    "forks_count": 659
+    "stargazers_count": 10215,
+    "open_issues_count": 66,
+    "forks_count": 661
   },
   {
     "full_name": "mikaelmello/inquire",
-    "stargazers_count": 1647,
+    "stargazers_count": 1652,
     "open_issues_count": 53,
     "forks_count": 69
   },
   {
     "full_name": "apptension/developer-handbook",
-    "stargazers_count": 5776,
+    "stargazers_count": 5780,
     "open_issues_count": 11,
     "forks_count": 650
   },
   {
     "full_name": "HeyPuter/puter",
-    "stargazers_count": 18444,
-    "open_issues_count": 109,
-    "forks_count": 1114
+    "stargazers_count": 18639,
+    "open_issues_count": 111,
+    "forks_count": 1125
   },
   {
     "full_name": "cookiecutter/cookiecutter-django",
-    "stargazers_count": 11602,
+    "stargazers_count": 11607,
     "open_issues_count": 109,
-    "forks_count": 2804
+    "forks_count": 2806
   },
   {
     "full_name": "Bearer/bearer",
-    "stargazers_count": 1774,
-    "open_issues_count": 5,
+    "stargazers_count": 1776,
+    "open_issues_count": 6,
     "forks_count": 81
   },
   {
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "shftco/rails-api-boilerplate",
-    "stargazers_count": 72,
+    "stargazers_count": 73,
     "open_issues_count": 3,
     "forks_count": 8
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 267,
     "open_issues_count": 23,
     "forks_count": 37
-  },
-  {
-    "full_name": "wmlele/devise-otp",
-    "stargazers_count": 155,
-    "open_issues_count": 5,
-    "forks_count": 38
   }
 ]
