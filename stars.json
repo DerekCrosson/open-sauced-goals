@@ -1,7 +1,13 @@
 [
   {
+    "full_name": "carlweis/heroicon-rails",
+    "stargazers_count": 7,
+    "open_issues_count": 2,
+    "forks_count": 0
+  },
+  {
     "full_name": "geekq/workflow",
-    "stargazers_count": 1739,
+    "stargazers_count": 1740,
     "open_issues_count": 9,
     "forks_count": 206
   },
@@ -13,19 +19,19 @@
   },
   {
     "full_name": "aws-cloudformation/rain",
-    "stargazers_count": 743,
+    "stargazers_count": 744,
     "open_issues_count": 58,
     "forks_count": 69
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 24183,
-    "open_issues_count": 229,
-    "forks_count": 1228
+    "stargazers_count": 24769,
+    "open_issues_count": 250,
+    "forks_count": 1261
   },
   {
     "full_name": "cuber-cloud/cuber-gem",
-    "stargazers_count": 625,
+    "stargazers_count": 626,
     "open_issues_count": 9,
     "forks_count": 21
   },
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "Arwalk/zig-protobuf",
-    "stargazers_count": 178,
+    "stargazers_count": 179,
     "open_issues_count": 7,
-    "forks_count": 15
+    "forks_count": 17
   },
   {
     "full_name": "somleng/somleng-project",
@@ -55,39 +61,39 @@
   },
   {
     "full_name": "Modos-Labs/Glider",
-    "stargazers_count": 1488,
+    "stargazers_count": 1495,
     "open_issues_count": 0,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "wednesday-solutions/flutter_template",
-    "stargazers_count": 275,
+    "stargazers_count": 276,
     "open_issues_count": 2,
     "forks_count": 52
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 85228,
+    "stargazers_count": 85305,
     "open_issues_count": 14,
-    "forks_count": 9263
+    "forks_count": 9265
   },
   {
     "full_name": "stefanprodan/AspNetCoreRateLimit",
-    "stargazers_count": 3060,
+    "stargazers_count": 3062,
     "open_issues_count": 174,
     "forks_count": 440
   },
   {
     "full_name": "jasontaylordev/CleanArchitecture",
-    "stargazers_count": 15974,
+    "stargazers_count": 15994,
     "open_issues_count": 51,
-    "forks_count": 3415
+    "forks_count": 3420
   },
   {
     "full_name": "myshell-ai/OpenVoice",
-    "stargazers_count": 26684,
-    "open_issues_count": 167,
-    "forks_count": 2567
+    "stargazers_count": 26771,
+    "open_issues_count": 166,
+    "forks_count": 2577
   },
   {
     "full_name": "danielsdeleo/deep_merge",
@@ -97,15 +103,15 @@
   },
   {
     "full_name": "tmux-plugins/tmux-resurrect",
-    "stargazers_count": 10879,
+    "stargazers_count": 10892,
     "open_issues_count": 243,
     "forks_count": 406
   },
   {
     "full_name": "pluja/awesome-privacy",
-    "stargazers_count": 12210,
-    "open_issues_count": 144,
-    "forks_count": 520
+    "stargazers_count": 12252,
+    "open_issues_count": 142,
+    "forks_count": 522
   },
   {
     "full_name": "signalwire/signalwire-ruby",
@@ -115,68 +121,62 @@
   },
   {
     "full_name": "signalwire/freeswitch",
-    "stargazers_count": 3265,
-    "open_issues_count": 937,
-    "forks_count": 1359
+    "stargazers_count": 3276,
+    "open_issues_count": 939,
+    "forks_count": 1363
   },
   {
     "full_name": "heyform/heyform",
-    "stargazers_count": 5938,
+    "stargazers_count": 5948,
     "open_issues_count": 9,
-    "forks_count": 411
+    "forks_count": 410
   },
   {
     "full_name": "OpenDevin/OpenDevin",
-    "stargazers_count": 27240,
-    "open_issues_count": 179,
-    "forks_count": 3096
+    "stargazers_count": 27351,
+    "open_issues_count": 177,
+    "forks_count": 3113
   },
   {
     "full_name": "rails/solid_queue",
-    "stargazers_count": 1569,
-    "open_issues_count": 39,
-    "forks_count": 84
+    "stargazers_count": 1577,
+    "open_issues_count": 40,
+    "forks_count": 86
   },
   {
     "full_name": "basecamp/thruster",
-    "stargazers_count": 660,
-    "open_issues_count": 10,
-    "forks_count": 15
+    "stargazers_count": 661,
+    "open_issues_count": 12,
+    "forks_count": 16
   },
   {
     "full_name": "stitionai/devika",
-    "stargazers_count": 17636,
-    "open_issues_count": 143,
-    "forks_count": 2283
+    "stargazers_count": 17682,
+    "open_issues_count": 145,
+    "forks_count": 2293
   },
   {
     "full_name": "zigzap/zap",
-    "stargazers_count": 1924,
-    "open_issues_count": 12,
+    "stargazers_count": 1933,
+    "open_issues_count": 14,
     "forks_count": 69
   },
   {
     "full_name": "bytebase/bytebase",
-    "stargazers_count": 10357,
-    "open_issues_count": 70,
-    "forks_count": 667
+    "stargazers_count": 10379,
+    "open_issues_count": 73,
+    "forks_count": 670
   },
   {
     "full_name": "mikaelmello/inquire",
-    "stargazers_count": 1689,
-    "open_issues_count": 57,
-    "forks_count": 70
+    "stargazers_count": 1694,
+    "open_issues_count": 59,
+    "forks_count": 71
   },
   {
     "full_name": "apptension/developer-handbook",
-    "stargazers_count": 5801,
+    "stargazers_count": 5800,
     "open_issues_count": 11,
-    "forks_count": 650
-  },
-  {
-    "full_name": "HeyPuter/puter",
-    "stargazers_count": 20298,
-    "open_issues_count": 137,
-    "forks_count": 1249
+    "forks_count": 651
   }
 ]
