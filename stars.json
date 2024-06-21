@@ -19,20 +19,20 @@
   },
   {
     "full_name": "aws-cloudformation/rain",
-    "stargazers_count": 744,
-    "open_issues_count": 58,
+    "stargazers_count": 745,
+    "open_issues_count": 53,
     "forks_count": 69
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 24769,
-    "open_issues_count": 250,
-    "forks_count": 1261
+    "stargazers_count": 25133,
+    "open_issues_count": 260,
+    "forks_count": 1272
   },
   {
     "full_name": "cuber-cloud/cuber-gem",
-    "stargazers_count": 626,
-    "open_issues_count": 9,
+    "stargazers_count": 629,
+    "open_issues_count": 7,
     "forks_count": 21
   },
   {
@@ -61,39 +61,39 @@
   },
   {
     "full_name": "Modos-Labs/Glider",
-    "stargazers_count": 1495,
+    "stargazers_count": 1497,
     "open_issues_count": 0,
     "forks_count": 31
   },
   {
     "full_name": "wednesday-solutions/flutter_template",
-    "stargazers_count": 276,
+    "stargazers_count": 277,
     "open_issues_count": 2,
     "forks_count": 52
   },
   {
     "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 85305,
-    "open_issues_count": 14,
-    "forks_count": 9265
+    "stargazers_count": 85368,
+    "open_issues_count": 15,
+    "forks_count": 9272
   },
   {
     "full_name": "stefanprodan/AspNetCoreRateLimit",
     "stargazers_count": 3062,
-    "open_issues_count": 174,
+    "open_issues_count": 175,
     "forks_count": 440
   },
   {
     "full_name": "jasontaylordev/CleanArchitecture",
-    "stargazers_count": 15994,
-    "open_issues_count": 51,
-    "forks_count": 3420
+    "stargazers_count": 16013,
+    "open_issues_count": 52,
+    "forks_count": 3426
   },
   {
     "full_name": "myshell-ai/OpenVoice",
-    "stargazers_count": 26771,
-    "open_issues_count": 166,
-    "forks_count": 2577
+    "stargazers_count": 26841,
+    "open_issues_count": 167,
+    "forks_count": 2593
   },
   {
     "full_name": "danielsdeleo/deep_merge",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "tmux-plugins/tmux-resurrect",
-    "stargazers_count": 10892,
+    "stargazers_count": 10900,
     "open_issues_count": 243,
     "forks_count": 406
   },
   {
     "full_name": "pluja/awesome-privacy",
-    "stargazers_count": 12252,
+    "stargazers_count": 12278,
     "open_issues_count": 142,
-    "forks_count": 522
+    "forks_count": 523
   },
   {
     "full_name": "signalwire/signalwire-ruby",
@@ -121,62 +121,62 @@
   },
   {
     "full_name": "signalwire/freeswitch",
-    "stargazers_count": 3276,
-    "open_issues_count": 939,
-    "forks_count": 1363
+    "stargazers_count": 3285,
+    "open_issues_count": 942,
+    "forks_count": 1367
   },
   {
     "full_name": "heyform/heyform",
-    "stargazers_count": 5948,
+    "stargazers_count": 5963,
     "open_issues_count": 9,
-    "forks_count": 410
+    "forks_count": 412
   },
   {
     "full_name": "OpenDevin/OpenDevin",
-    "stargazers_count": 27351,
-    "open_issues_count": 177,
-    "forks_count": 3113
+    "stargazers_count": 27636,
+    "open_issues_count": 185,
+    "forks_count": 3147
   },
   {
     "full_name": "rails/solid_queue",
-    "stargazers_count": 1577,
+    "stargazers_count": 1583,
     "open_issues_count": 40,
     "forks_count": 86
   },
   {
     "full_name": "basecamp/thruster",
     "stargazers_count": 661,
-    "open_issues_count": 12,
+    "open_issues_count": 13,
     "forks_count": 16
   },
   {
     "full_name": "stitionai/devika",
-    "stargazers_count": 17682,
-    "open_issues_count": 145,
-    "forks_count": 2293
+    "stargazers_count": 17721,
+    "open_issues_count": 144,
+    "forks_count": 2298
   },
   {
     "full_name": "zigzap/zap",
-    "stargazers_count": 1933,
+    "stargazers_count": 1936,
     "open_issues_count": 14,
     "forks_count": 69
   },
   {
     "full_name": "bytebase/bytebase",
-    "stargazers_count": 10379,
-    "open_issues_count": 73,
+    "stargazers_count": 10403,
+    "open_issues_count": 72,
     "forks_count": 670
   },
   {
     "full_name": "mikaelmello/inquire",
-    "stargazers_count": 1694,
+    "stargazers_count": 1696,
     "open_issues_count": 59,
     "forks_count": 71
   },
   {
     "full_name": "apptension/developer-handbook",
-    "stargazers_count": 5800,
+    "stargazers_count": 5803,
     "open_issues_count": 11,
-    "forks_count": 651
+    "forks_count": 652
   }
 ]
