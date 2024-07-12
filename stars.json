@@ -1,21 +1,45 @@
 [
   {
+    "full_name": "maelstrom-software/maelstrom",
+    "stargazers_count": 326,
+    "open_issues_count": 127,
+    "forks_count": 7
+  },
+  {
+    "full_name": "bullfrogsec/bullfrog",
+    "stargazers_count": 42,
+    "open_issues_count": 4,
+    "forks_count": 2
+  },
+  {
+    "full_name": "abpframework/abp",
+    "stargazers_count": 12491,
+    "open_issues_count": 575,
+    "forks_count": 3358
+  },
+  {
+    "full_name": "yosiat/panko_serializer",
+    "stargazers_count": 561,
+    "open_issues_count": 30,
+    "forks_count": 35
+  },
+  {
     "full_name": "magnusvk/counter_culture",
-    "stargazers_count": 1919,
+    "stargazers_count": 1921,
     "open_issues_count": 11,
     "forks_count": 205
   },
   {
     "full_name": "socketry/async",
-    "stargazers_count": 2042,
-    "open_issues_count": 16,
+    "stargazers_count": 2044,
+    "open_issues_count": 17,
     "forks_count": 85
   },
   {
     "full_name": "plandex-ai/plandex",
-    "stargazers_count": 9860,
-    "open_issues_count": 32,
-    "forks_count": 707
+    "stargazers_count": 9941,
+    "open_issues_count": 25,
+    "forks_count": 713
   },
   {
     "full_name": "steveklabnik/request_store",
@@ -25,7 +49,7 @@
   },
   {
     "full_name": "fnando/browser",
-    "stargazers_count": 2436,
+    "stargazers_count": 2437,
     "open_issues_count": 12,
     "forks_count": 356
   },
@@ -37,19 +61,19 @@
   },
   {
     "full_name": "typicode/husky",
-    "stargazers_count": 31972,
-    "open_issues_count": 52,
+    "stargazers_count": 31986,
+    "open_issues_count": 51,
     "forks_count": 1004
   },
   {
     "full_name": "splitrb/split",
-    "stargazers_count": 2705,
+    "stargazers_count": 2704,
     "open_issues_count": 28,
     "forks_count": 365
   },
   {
     "full_name": "mailpace/templates",
-    "stargazers_count": 217,
+    "stargazers_count": 218,
     "open_issues_count": 0,
     "forks_count": 21
   },
@@ -61,38 +85,38 @@
   },
   {
     "full_name": "keygen-sh/request_migrations",
-    "stargazers_count": 102,
+    "stargazers_count": 103,
     "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "glasskube/glasskube",
-    "stargazers_count": 2313,
+    "stargazers_count": 2369,
     "open_issues_count": 78,
-    "forks_count": 136
+    "forks_count": 139
   },
   {
     "full_name": "light-ruby/light-services",
-    "stargazers_count": 62,
+    "stargazers_count": 64,
     "open_issues_count": 3,
     "forks_count": 2
   },
   {
     "full_name": "yammer/circuitbox",
-    "stargazers_count": 687,
+    "stargazers_count": 689,
     "open_issues_count": 3,
     "forks_count": 59
   },
   {
     "full_name": "14islands/r3f-scroll-rig",
-    "stargazers_count": 661,
-    "open_issues_count": 5,
+    "stargazers_count": 665,
+    "open_issues_count": 6,
     "forks_count": 32
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 2068,
-    "open_issues_count": 20,
+    "stargazers_count": 2169,
+    "open_issues_count": 13,
     "forks_count": 25
   },
   {
@@ -115,20 +139,20 @@
   },
   {
     "full_name": "aws-cloudformation/rain",
-    "stargazers_count": 750,
-    "open_issues_count": 62,
+    "stargazers_count": 752,
+    "open_issues_count": 54,
     "forks_count": 69
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 26466,
-    "open_issues_count": 308,
-    "forks_count": 1343
+    "stargazers_count": 26592,
+    "open_issues_count": 313,
+    "forks_count": 1349
   },
   {
     "full_name": "cuber-cloud/cuber-gem",
-    "stargazers_count": 634,
-    "open_issues_count": 7,
+    "stargazers_count": 636,
+    "open_issues_count": 8,
     "forks_count": 21
   },
   {
@@ -141,11 +165,11 @@
     "full_name": "Arwalk/zig-protobuf",
     "stargazers_count": 188,
     "open_issues_count": 9,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "somleng/somleng-project",
-    "stargazers_count": 46,
+    "stargazers_count": 47,
     "open_issues_count": 2,
     "forks_count": 13
   },
@@ -154,29 +178,5 @@
     "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "Modos-Labs/Glider",
-    "stargazers_count": 1515,
-    "open_issues_count": 0,
-    "forks_count": 31
-  },
-  {
-    "full_name": "wednesday-solutions/flutter_template",
-    "stargazers_count": 287,
-    "open_issues_count": 3,
-    "forks_count": 53
-  },
-  {
-    "full_name": "ripienaar/free-for-dev",
-    "stargazers_count": 85623,
-    "open_issues_count": 14,
-    "forks_count": 9306
-  },
-  {
-    "full_name": "stefanprodan/AspNetCoreRateLimit",
-    "stargazers_count": 3071,
-    "open_issues_count": 174,
-    "forks_count": 442
   }
 ]
