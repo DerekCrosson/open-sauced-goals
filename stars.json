@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "micke/valid_email2",
+    "stargazers_count": 620,
+    "open_issues_count": 6,
+    "forks_count": 99
+  },
+  {
     "full_name": "maelstrom-software/maelstrom",
-    "stargazers_count": 326,
-    "open_issues_count": 127,
-    "forks_count": 7
+    "stargazers_count": 366,
+    "open_issues_count": 130,
+    "forks_count": 8
   },
   {
     "full_name": "bullfrogsec/bullfrog",
-    "stargazers_count": 42,
-    "open_issues_count": 4,
+    "stargazers_count": 49,
+    "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "abpframework/abp",
-    "stargazers_count": 12491,
-    "open_issues_count": 575,
-    "forks_count": 3358
+    "stargazers_count": 12503,
+    "open_issues_count": 581,
+    "forks_count": 3361
   },
   {
     "full_name": "yosiat/panko_serializer",
@@ -25,21 +31,21 @@
   },
   {
     "full_name": "magnusvk/counter_culture",
-    "stargazers_count": 1921,
+    "stargazers_count": 1922,
     "open_issues_count": 11,
     "forks_count": 205
   },
   {
     "full_name": "socketry/async",
-    "stargazers_count": 2044,
-    "open_issues_count": 17,
+    "stargazers_count": 2046,
+    "open_issues_count": 15,
     "forks_count": 85
   },
   {
     "full_name": "plandex-ai/plandex",
-    "stargazers_count": 9941,
-    "open_issues_count": 25,
-    "forks_count": 713
+    "stargazers_count": 9973,
+    "open_issues_count": 28,
+    "forks_count": 715
   },
   {
     "full_name": "steveklabnik/request_store",
@@ -57,12 +63,12 @@
     "full_name": "fractaledmind/solid_errors",
     "stargazers_count": 243,
     "open_issues_count": 8,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "typicode/husky",
-    "stargazers_count": 31986,
-    "open_issues_count": 51,
+    "stargazers_count": 32001,
+    "open_issues_count": 48,
     "forks_count": 1004
   },
   {
@@ -91,14 +97,14 @@
   },
   {
     "full_name": "glasskube/glasskube",
-    "stargazers_count": 2369,
-    "open_issues_count": 78,
-    "forks_count": 139
+    "stargazers_count": 2417,
+    "open_issues_count": 80,
+    "forks_count": 140
   },
   {
     "full_name": "light-ruby/light-services",
-    "stargazers_count": 64,
-    "open_issues_count": 3,
+    "stargazers_count": 65,
+    "open_issues_count": 5,
     "forks_count": 2
   },
   {
@@ -109,19 +115,19 @@
   },
   {
     "full_name": "14islands/r3f-scroll-rig",
-    "stargazers_count": 665,
+    "stargazers_count": 670,
     "open_issues_count": 6,
     "forks_count": 32
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 2169,
-    "open_issues_count": 13,
+    "stargazers_count": 2234,
+    "open_issues_count": 12,
     "forks_count": 25
   },
   {
     "full_name": "carlweis/heroicon-rails",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 2,
     "forks_count": 0
   },
@@ -139,15 +145,15 @@
   },
   {
     "full_name": "aws-cloudformation/rain",
-    "stargazers_count": 752,
-    "open_issues_count": 54,
+    "stargazers_count": 756,
+    "open_issues_count": 53,
     "forks_count": 69
   },
   {
     "full_name": "coollabsio/coolify",
-    "stargazers_count": 26592,
-    "open_issues_count": 313,
-    "forks_count": 1349
+    "stargazers_count": 26745,
+    "open_issues_count": 317,
+    "forks_count": 1361
   },
   {
     "full_name": "cuber-cloud/cuber-gem",
@@ -165,18 +171,12 @@
     "full_name": "Arwalk/zig-protobuf",
     "stargazers_count": 188,
     "open_issues_count": 9,
-    "forks_count": 19
+    "forks_count": 20
   },
   {
     "full_name": "somleng/somleng-project",
     "stargazers_count": 47,
     "open_issues_count": 2,
     "forks_count": 13
-  },
-  {
-    "full_name": "knipknap/grpc-server-go",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]
