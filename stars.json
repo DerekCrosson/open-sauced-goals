@@ -1,37 +1,49 @@
 [
   {
+    "full_name": "fatkodima/online_migrations",
+    "stargazers_count": 596,
+    "open_issues_count": 0,
+    "forks_count": 17
+  },
+  {
+    "full_name": "chaps-io/gush",
+    "stargazers_count": 1039,
+    "open_issues_count": 19,
+    "forks_count": 103
+  },
+  {
     "full_name": "mnemnion/ohsnap",
-    "stargazers_count": 31,
+    "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "ActsAsParanoid/acts_as_paranoid",
     "stargazers_count": 1453,
-    "open_issues_count": 43,
+    "open_issues_count": 44,
     "forks_count": 190
   },
   {
     "full_name": "ixti/sidekiq-throttled",
-    "stargazers_count": 684,
+    "stargazers_count": 687,
     "open_issues_count": 16,
     "forks_count": 75
   },
   {
     "full_name": "sunny/actor",
     "stargazers_count": 682,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 29
   },
   {
     "full_name": "rubycdp/vessel",
-    "stargazers_count": 624,
+    "stargazers_count": 625,
     "open_issues_count": 2,
     "forks_count": 11
   },
   {
     "full_name": "postgresml/korvus",
-    "stargazers_count": 1171,
+    "stargazers_count": 1178,
     "open_issues_count": 4,
     "forks_count": 23
   },
@@ -43,27 +55,27 @@
   },
   {
     "full_name": "micke/valid_email2",
-    "stargazers_count": 639,
+    "stargazers_count": 640,
     "open_issues_count": 6,
     "forks_count": 99
   },
   {
     "full_name": "maelstrom-software/maelstrom",
-    "stargazers_count": 395,
-    "open_issues_count": 150,
+    "stargazers_count": 420,
+    "open_issues_count": 130,
     "forks_count": 9
   },
   {
     "full_name": "bullfrogsec/bullfrog",
-    "stargazers_count": 63,
+    "stargazers_count": 64,
     "open_issues_count": 8,
     "forks_count": 2
   },
   {
     "full_name": "abpframework/abp",
-    "stargazers_count": 12584,
-    "open_issues_count": 587,
-    "forks_count": 3375
+    "stargazers_count": 12591,
+    "open_issues_count": 588,
+    "forks_count": 3377
   },
   {
     "full_name": "yosiat/panko_serializer",
@@ -73,27 +85,27 @@
   },
   {
     "full_name": "magnusvk/counter_culture",
-    "stargazers_count": 1922,
+    "stargazers_count": 1923,
     "open_issues_count": 11,
     "forks_count": 205
   },
   {
     "full_name": "socketry/async",
-    "stargazers_count": 2064,
+    "stargazers_count": 2065,
     "open_issues_count": 15,
     "forks_count": 86
   },
   {
     "full_name": "plandex-ai/plandex",
-    "stargazers_count": 10089,
+    "stargazers_count": 10114,
     "open_issues_count": 28,
-    "forks_count": 706
+    "forks_count": 707
   },
   {
     "full_name": "steveklabnik/request_store",
     "stargazers_count": 1464,
     "open_issues_count": 9,
-    "forks_count": 88
+    "forks_count": 87
   },
   {
     "full_name": "fnando/browser",
@@ -103,21 +115,21 @@
   },
   {
     "full_name": "fractaledmind/solid_errors",
-    "stargazers_count": 250,
+    "stargazers_count": 251,
     "open_issues_count": 9,
     "forks_count": 14
   },
   {
     "full_name": "typicode/husky",
-    "stargazers_count": 32074,
-    "open_issues_count": 38,
-    "forks_count": 1006
+    "stargazers_count": 32082,
+    "open_issues_count": 41,
+    "forks_count": 1009
   },
   {
     "full_name": "splitrb/split",
     "stargazers_count": 2704,
     "open_issues_count": 28,
-    "forks_count": 365
+    "forks_count": 364
   },
   {
     "full_name": "mailpace/templates",
@@ -139,44 +151,32 @@
   },
   {
     "full_name": "glasskube/glasskube",
-    "stargazers_count": 2518,
-    "open_issues_count": 74,
-    "forks_count": 151
+    "stargazers_count": 2539,
+    "open_issues_count": 67,
+    "forks_count": 152
   },
   {
     "full_name": "light-ruby/light-services",
     "stargazers_count": 66,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 2
   },
   {
     "full_name": "yammer/circuitbox",
-    "stargazers_count": 690,
+    "stargazers_count": 693,
     "open_issues_count": 3,
     "forks_count": 59
   },
   {
     "full_name": "14islands/r3f-scroll-rig",
-    "stargazers_count": 680,
+    "stargazers_count": 681,
     "open_issues_count": 5,
     "forks_count": 33
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 2391,
+    "stargazers_count": 2423,
     "open_issues_count": 16,
     "forks_count": 27
-  },
-  {
-    "full_name": "carlweis/heroicon-rails",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "geekq/workflow",
-    "stargazers_count": 1745,
-    "open_issues_count": 9,
-    "forks_count": 207
   }
 ]
