@@ -1,14 +1,14 @@
 [
   {
     "full_name": "fatkodima/online_migrations",
-    "stargazers_count": 596,
+    "stargazers_count": 597,
     "open_issues_count": 0,
     "forks_count": 17
   },
   {
     "full_name": "chaps-io/gush",
     "stargazers_count": 1039,
-    "open_issues_count": 19,
+    "open_issues_count": 17,
     "forks_count": 103
   },
   {
@@ -25,57 +25,57 @@
   },
   {
     "full_name": "ixti/sidekiq-throttled",
-    "stargazers_count": 688,
+    "stargazers_count": 689,
     "open_issues_count": 16,
     "forks_count": 75
   },
   {
     "full_name": "sunny/actor",
-    "stargazers_count": 683,
+    "stargazers_count": 684,
     "open_issues_count": 6,
     "forks_count": 29
   },
   {
     "full_name": "rubycdp/vessel",
-    "stargazers_count": 625,
+    "stargazers_count": 627,
     "open_issues_count": 2,
     "forks_count": 11
   },
   {
     "full_name": "postgresml/korvus",
-    "stargazers_count": 1181,
+    "stargazers_count": 1191,
     "open_issues_count": 4,
     "forks_count": 23
   },
   {
     "full_name": "simukappu/activity_notification",
-    "stargazers_count": 482,
+    "stargazers_count": 492,
     "open_issues_count": 11,
     "forks_count": 79
   },
   {
     "full_name": "micke/valid_email2",
-    "stargazers_count": 641,
+    "stargazers_count": 642,
     "open_issues_count": 6,
     "forks_count": 99
   },
   {
     "full_name": "maelstrom-software/maelstrom",
-    "stargazers_count": 439,
-    "open_issues_count": 130,
+    "stargazers_count": 440,
+    "open_issues_count": 127,
     "forks_count": 9
   },
   {
     "full_name": "bullfrogsec/bullfrog",
-    "stargazers_count": 65,
-    "open_issues_count": 9,
+    "stargazers_count": 66,
+    "open_issues_count": 2,
     "forks_count": 2
   },
   {
     "full_name": "abpframework/abp",
-    "stargazers_count": 12609,
-    "open_issues_count": 590,
-    "forks_count": 3381
+    "stargazers_count": 12625,
+    "open_issues_count": 597,
+    "forks_count": 3382
   },
   {
     "full_name": "yosiat/panko_serializer",
@@ -85,33 +85,33 @@
   },
   {
     "full_name": "magnusvk/counter_culture",
-    "stargazers_count": 1924,
+    "stargazers_count": 1925,
     "open_issues_count": 11,
     "forks_count": 205
   },
   {
     "full_name": "socketry/async",
-    "stargazers_count": 2067,
+    "stargazers_count": 2068,
     "open_issues_count": 15,
     "forks_count": 86
   },
   {
     "full_name": "plandex-ai/plandex",
-    "stargazers_count": 10170,
-    "open_issues_count": 30,
-    "forks_count": 708
+    "stargazers_count": 10198,
+    "open_issues_count": 28,
+    "forks_count": 710
   },
   {
     "full_name": "steveklabnik/request_store",
-    "stargazers_count": 1465,
+    "stargazers_count": 1466,
     "open_issues_count": 9,
     "forks_count": 87
   },
   {
     "full_name": "fnando/browser",
-    "stargazers_count": 2440,
-    "open_issues_count": 12,
-    "forks_count": 357
+    "stargazers_count": 2441,
+    "open_issues_count": 13,
+    "forks_count": 358
   },
   {
     "full_name": "fractaledmind/solid_errors",
@@ -121,19 +121,19 @@
   },
   {
     "full_name": "typicode/husky",
-    "stargazers_count": 32110,
+    "stargazers_count": 32122,
     "open_issues_count": 42,
-    "forks_count": 1014
+    "forks_count": 1016
   },
   {
     "full_name": "splitrb/split",
-    "stargazers_count": 2705,
+    "stargazers_count": 2706,
     "open_issues_count": 28,
     "forks_count": 365
   },
   {
     "full_name": "mailpace/templates",
-    "stargazers_count": 219,
+    "stargazers_count": 220,
     "open_issues_count": 0,
     "forks_count": 21
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "glasskube/glasskube",
-    "stargazers_count": 2557,
-    "open_issues_count": 65,
-    "forks_count": 152
+    "stargazers_count": 2582,
+    "open_issues_count": 76,
+    "forks_count": 153
   },
   {
     "full_name": "light-ruby/light-services",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "14islands/r3f-scroll-rig",
-    "stargazers_count": 682,
+    "stargazers_count": 685,
     "open_issues_count": 6,
     "forks_count": 34
   },
   {
     "full_name": "dotenvx/dotenvx",
-    "stargazers_count": 2441,
+    "stargazers_count": 2458,
     "open_issues_count": 16,
-    "forks_count": 27
+    "forks_count": 28
   }
 ]
