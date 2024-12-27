@@ -1,7 +1,7 @@
 [
   {
     "full_name": "veeqo/activejob-uniqueness",
-    "stargazers_count": 279,
+    "stargazers_count": 280,
     "open_issues_count": 13,
     "forks_count": 27
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "mnemnion/ohsnap",
-    "stargazers_count": 43,
+    "stargazers_count": 44,
     "open_issues_count": 1,
     "forks_count": 1
   },
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "postgresml/korvus",
-    "stargazers_count": 1299,
+    "stargazers_count": 1301,
     "open_issues_count": 7,
     "forks_count": 26
   },
@@ -81,11 +81,11 @@
     "full_name": "micke/valid_email2",
     "stargazers_count": 710,
     "open_issues_count": 4,
-    "forks_count": 107
+    "forks_count": 106
   },
   {
     "full_name": "maelstrom-software/maelstrom",
-    "stargazers_count": 603,
+    "stargazers_count": 604,
     "open_issues_count": 134,
     "forks_count": 11
   },
@@ -97,31 +97,31 @@
   },
   {
     "full_name": "abpframework/abp",
-    "stargazers_count": 13072,
-    "open_issues_count": 693,
-    "forks_count": 3470
+    "stargazers_count": 13080,
+    "open_issues_count": 692,
+    "forks_count": 3471
   },
   {
     "full_name": "yosiat/panko_serializer",
     "stargazers_count": 594,
-    "open_issues_count": 31,
+    "open_issues_count": 32,
     "forks_count": 36
   },
   {
     "full_name": "magnusvk/counter_culture",
-    "stargazers_count": 1971,
+    "stargazers_count": 1973,
     "open_issues_count": 11,
     "forks_count": 210
   },
   {
     "full_name": "socketry/async",
-    "stargazers_count": 2177,
+    "stargazers_count": 2180,
     "open_issues_count": 18,
     "forks_count": 91
   },
   {
     "full_name": "plandex-ai/plandex",
-    "stargazers_count": 10908,
+    "stargazers_count": 10916,
     "open_issues_count": 39,
     "forks_count": 755
   },
@@ -135,7 +135,7 @@
     "full_name": "fnando/browser",
     "stargazers_count": 2460,
     "open_issues_count": 13,
-    "forks_count": 365
+    "forks_count": 364
   },
   {
     "full_name": "fractaledmind/solid_errors",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "typicode/husky",
-    "stargazers_count": 32823,
+    "stargazers_count": 32838,
     "open_issues_count": 59,
     "forks_count": 1037
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "glasskube/glasskube",
-    "stargazers_count": 3073,
-    "open_issues_count": 52,
+    "stargazers_count": 3082,
+    "open_issues_count": 53,
     "forks_count": 182
   }
 ]
