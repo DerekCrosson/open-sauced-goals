@@ -1,13 +1,19 @@
 [
   {
+    "full_name": "looker-open-source/looker-sdk-ruby",
+    "stargazers_count": 15,
+    "open_issues_count": 1,
+    "forks_count": 13
+  },
+  {
     "full_name": "fern-api/fern",
-    "stargazers_count": 2797,
-    "open_issues_count": 219,
-    "forks_count": 167
+    "stargazers_count": 2799,
+    "open_issues_count": 210,
+    "forks_count": 168
   },
   {
     "full_name": "zombocom/derailed_benchmarks",
-    "stargazers_count": 2996,
+    "stargazers_count": 2999,
     "open_issues_count": 11,
     "forks_count": 145
   },
@@ -67,7 +73,7 @@
   },
   {
     "full_name": "sunny/actor",
-    "stargazers_count": 734,
+    "stargazers_count": 733,
     "open_issues_count": 4,
     "forks_count": 29
   },
@@ -79,7 +85,7 @@
   },
   {
     "full_name": "postgresml/korvus",
-    "stargazers_count": 1313,
+    "stargazers_count": 1315,
     "open_issues_count": 5,
     "forks_count": 27
   },
@@ -109,9 +115,9 @@
   },
   {
     "full_name": "abpframework/abp",
-    "stargazers_count": 13131,
-    "open_issues_count": 699,
-    "forks_count": 3484
+    "stargazers_count": 13139,
+    "open_issues_count": 701,
+    "forks_count": 3487
   },
   {
     "full_name": "yosiat/panko_serializer",
@@ -121,25 +127,25 @@
   },
   {
     "full_name": "magnusvk/counter_culture",
-    "stargazers_count": 1980,
+    "stargazers_count": 1983,
     "open_issues_count": 11,
     "forks_count": 210
   },
   {
     "full_name": "socketry/async",
-    "stargazers_count": 2199,
-    "open_issues_count": 19,
+    "stargazers_count": 2204,
+    "open_issues_count": 21,
     "forks_count": 92
   },
   {
     "full_name": "plandex-ai/plandex",
-    "stargazers_count": 10999,
+    "stargazers_count": 11012,
     "open_issues_count": 39,
     "forks_count": 762
   },
   {
     "full_name": "steveklabnik/request_store",
-    "stargazers_count": 1476,
+    "stargazers_count": 1477,
     "open_issues_count": 9,
     "forks_count": 88
   },
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "typicode/husky",
-    "stargazers_count": 32979,
-    "open_issues_count": 61,
+    "stargazers_count": 33001,
+    "open_issues_count": 62,
     "forks_count": 1041
   },
   {
     "full_name": "splitrb/split",
-    "stargazers_count": 2704,
+    "stargazers_count": 2702,
     "open_issues_count": 29,
     "forks_count": 366
   },
   {
     "full_name": "mailpace/templates",
-    "stargazers_count": 239,
+    "stargazers_count": 240,
     "open_issues_count": 0,
     "forks_count": 20
-  },
-  {
-    "full_name": "WebGents/open_street_map",
-    "stargazers_count": 90,
-    "open_issues_count": 0,
-    "forks_count": 5
   }
 ]
