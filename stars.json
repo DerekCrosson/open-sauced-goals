@@ -2,30 +2,30 @@
   {
     "full_name": "googleapis/google-cloud-ruby",
     "stargazers_count": 1355,
-    "open_issues_count": 89,
-    "forks_count": 555
+    "open_issues_count": 90,
+    "forks_count": 556
   },
   {
     "full_name": "active-hash/active_hash",
-    "stargazers_count": 1243,
+    "stargazers_count": 1246,
     "open_issues_count": 29,
     "forks_count": 180
   },
   {
     "full_name": "looker-open-source/looker-sdk-ruby",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 1,
     "forks_count": 13
   },
   {
     "full_name": "fern-api/fern",
-    "stargazers_count": 2856,
-    "open_issues_count": 263,
-    "forks_count": 177
+    "stargazers_count": 2860,
+    "open_issues_count": 275,
+    "forks_count": 178
   },
   {
     "full_name": "zombocom/derailed_benchmarks",
-    "stargazers_count": 3006,
+    "stargazers_count": 3008,
     "open_issues_count": 12,
     "forks_count": 145
   },
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "GeorgeKaraszi/ActiveRecordExtended",
-    "stargazers_count": 1332,
-    "open_issues_count": 7,
+    "stargazers_count": 1334,
+    "open_issues_count": 6,
     "forks_count": 44
   },
   {
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "sunny/actor",
-    "stargazers_count": 735,
+    "stargazers_count": 736,
     "open_issues_count": 4,
     "forks_count": 28
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "postgresml/korvus",
-    "stargazers_count": 1331,
+    "stargazers_count": 1332,
     "open_issues_count": 5,
     "forks_count": 27
   },
@@ -109,14 +109,14 @@
   },
   {
     "full_name": "micke/valid_email2",
-    "stargazers_count": 727,
+    "stargazers_count": 729,
     "open_issues_count": 5,
     "forks_count": 113
   },
   {
     "full_name": "maelstrom-software/maelstrom",
-    "stargazers_count": 635,
-    "open_issues_count": 171,
+    "stargazers_count": 636,
+    "open_issues_count": 169,
     "forks_count": 11
   },
   {
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "abpframework/abp",
-    "stargazers_count": 13226,
-    "open_issues_count": 688,
-    "forks_count": 3504
+    "stargazers_count": 13238,
+    "open_issues_count": 691,
+    "forks_count": 3505
   },
   {
     "full_name": "yosiat/panko_serializer",
@@ -139,19 +139,19 @@
   },
   {
     "full_name": "magnusvk/counter_culture",
-    "stargazers_count": 1991,
+    "stargazers_count": 1992,
     "open_issues_count": 11,
     "forks_count": 210
   },
   {
     "full_name": "socketry/async",
-    "stargazers_count": 2214,
-    "open_issues_count": 20,
+    "stargazers_count": 2216,
+    "open_issues_count": 21,
     "forks_count": 94
   },
   {
     "full_name": "plandex-ai/plandex",
-    "stargazers_count": 11127,
+    "stargazers_count": 11138,
     "open_issues_count": 40,
     "forks_count": 767
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "typicode/husky",
-    "stargazers_count": 33140,
-    "open_issues_count": 73,
+    "stargazers_count": 33162,
+    "open_issues_count": 75,
     "forks_count": 1045
   }
 ]
