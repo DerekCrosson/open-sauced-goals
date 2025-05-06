@@ -1,9 +1,9 @@
 [
   {
     "full_name": "MoonshotAI/Kimi-Audio",
-    "stargazers_count": 3199,
-    "open_issues_count": 50,
-    "forks_count": 175
+    "stargazers_count": 3339,
+    "open_issues_count": 54,
+    "forks_count": 192
   },
   {
     "full_name": "lukeharwood11/openai-proxz",
@@ -13,19 +13,19 @@
   },
   {
     "full_name": "awslabs/mcp",
-    "stargazers_count": 2647,
-    "open_issues_count": 34,
-    "forks_count": 173
+    "stargazers_count": 2740,
+    "open_issues_count": 37,
+    "forks_count": 189
   },
   {
     "full_name": "googleapis/google-cloud-ruby",
-    "stargazers_count": 1364,
-    "open_issues_count": 89,
+    "stargazers_count": 1365,
+    "open_issues_count": 110,
     "forks_count": 557
   },
   {
     "full_name": "active-hash/active_hash",
-    "stargazers_count": 1271,
+    "stargazers_count": 1272,
     "open_issues_count": 28,
     "forks_count": 180
   },
@@ -37,13 +37,13 @@
   },
   {
     "full_name": "fern-api/fern",
-    "stargazers_count": 3014,
-    "open_issues_count": 297,
-    "forks_count": 207
+    "stargazers_count": 3018,
+    "open_issues_count": 306,
+    "forks_count": 209
   },
   {
     "full_name": "zombocom/derailed_benchmarks",
-    "stargazers_count": 3016,
+    "stargazers_count": 3017,
     "open_issues_count": 12,
     "forks_count": 142
   },
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "GeorgeKaraszi/ActiveRecordExtended",
-    "stargazers_count": 1362,
+    "stargazers_count": 1363,
     "open_issues_count": 6,
     "forks_count": 44
   },
   {
     "full_name": "fatkodima/online_migrations",
-    "stargazers_count": 665,
+    "stargazers_count": 668,
     "open_issues_count": 2,
     "forks_count": 19
   },
   {
     "full_name": "chaps-io/gush",
-    "stargazers_count": 1079,
+    "stargazers_count": 1080,
     "open_issues_count": 15,
-    "forks_count": 110
+    "forks_count": 109
   },
   {
     "full_name": "mnemnion/ohsnap",
@@ -91,14 +91,14 @@
   },
   {
     "full_name": "ActsAsParanoid/acts_as_paranoid",
-    "stargazers_count": 1486,
+    "stargazers_count": 1487,
     "open_issues_count": 45,
     "forks_count": 196
   },
   {
     "full_name": "ixti/sidekiq-throttled",
     "stargazers_count": 743,
-    "open_issues_count": 23,
+    "open_issues_count": 21,
     "forks_count": 82
   },
   {
@@ -145,8 +145,8 @@
   },
   {
     "full_name": "abpframework/abp",
-    "stargazers_count": 13431,
-    "open_issues_count": 638,
+    "stargazers_count": 13446,
+    "open_issues_count": 640,
     "forks_count": 3545
   },
   {
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "socketry/async",
-    "stargazers_count": 2245,
-    "open_issues_count": 23,
+    "stargazers_count": 2246,
+    "open_issues_count": 22,
     "forks_count": 96
   },
   {
     "full_name": "plandex-ai/plandex",
-    "stargazers_count": 13069,
-    "open_issues_count": 24,
-    "forks_count": 859
+    "stargazers_count": 13145,
+    "open_issues_count": 22,
+    "forks_count": 868
   },
   {
     "full_name": "steveklabnik/request_store",
