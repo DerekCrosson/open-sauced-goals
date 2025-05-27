@@ -7,7 +7,7 @@
   },
   {
     "full_name": "radioactive-labs/chrono_forge",
-    "stargazers_count": 41,
+    "stargazers_count": 43,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "MoonshotAI/Kimi-Audio",
-    "stargazers_count": 3653,
-    "open_issues_count": 74,
-    "forks_count": 230
+    "stargazers_count": 3678,
+    "open_issues_count": 77,
+    "forks_count": 234
   },
   {
     "full_name": "lukeharwood11/openai-proxz",
@@ -31,14 +31,14 @@
   },
   {
     "full_name": "awslabs/mcp",
-    "stargazers_count": 3202,
-    "open_issues_count": 63,
-    "forks_count": 281
+    "stargazers_count": 3283,
+    "open_issues_count": 68,
+    "forks_count": 305
   },
   {
     "full_name": "googleapis/google-cloud-ruby",
-    "stargazers_count": 1367,
-    "open_issues_count": 63,
+    "stargazers_count": 1368,
+    "open_issues_count": 101,
     "forks_count": 559
   },
   {
@@ -55,13 +55,13 @@
   },
   {
     "full_name": "fern-api/fern",
-    "stargazers_count": 3073,
-    "open_issues_count": 317,
-    "forks_count": 213
+    "stargazers_count": 3077,
+    "open_issues_count": 318,
+    "forks_count": 215
   },
   {
     "full_name": "zombocom/derailed_benchmarks",
-    "stargazers_count": 3018,
+    "stargazers_count": 3019,
     "open_issues_count": 12,
     "forks_count": 142
   },
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "GeorgeKaraszi/ActiveRecordExtended",
-    "stargazers_count": 1371,
+    "stargazers_count": 1373,
     "open_issues_count": 6,
     "forks_count": 44
   },
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "ixti/sidekiq-throttled",
-    "stargazers_count": 743,
+    "stargazers_count": 744,
     "open_issues_count": 22,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "sunny/actor",
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "postgresml/korvus",
-    "stargazers_count": 1362,
+    "stargazers_count": 1364,
     "open_issues_count": 7,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "simukappu/activity_notification",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "maelstrom-software/maelstrom",
-    "stargazers_count": 675,
+    "stargazers_count": 678,
     "open_issues_count": 186,
     "forks_count": 11
   },
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "abpframework/abp",
-    "stargazers_count": 13507,
-    "open_issues_count": 427,
+    "stargazers_count": 13513,
+    "open_issues_count": 421,
     "forks_count": 3557
   },
   {
     "full_name": "yosiat/panko_serializer",
     "stargazers_count": 605,
-    "open_issues_count": 32,
+    "open_issues_count": 31,
     "forks_count": 37
   },
   {
     "full_name": "magnusvk/counter_culture",
-    "stargazers_count": 2041,
+    "stargazers_count": 2043,
     "open_issues_count": 11,
     "forks_count": 214
   }
