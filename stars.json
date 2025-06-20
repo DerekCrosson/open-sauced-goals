@@ -1,15 +1,15 @@
 [
   {
     "full_name": "OlympiaAI/raix",
-    "stargazers_count": 201,
+    "stargazers_count": 204,
     "open_issues_count": 4,
     "forks_count": 21
   },
   {
     "full_name": "Shopify/bootsnap",
-    "stargazers_count": 2701,
+    "stargazers_count": 2702,
     "open_issues_count": 7,
-    "forks_count": 188
+    "forks_count": 189
   },
   {
     "full_name": "radioactive-labs/chrono_forge",
@@ -19,15 +19,15 @@
   },
   {
     "full_name": "dry-rb/dry-validation",
-    "stargazers_count": 1373,
+    "stargazers_count": 1374,
     "open_issues_count": 25,
     "forks_count": 191
   },
   {
     "full_name": "MoonshotAI/Kimi-Audio",
-    "stargazers_count": 3796,
-    "open_issues_count": 85,
-    "forks_count": 244
+    "stargazers_count": 3817,
+    "open_issues_count": 86,
+    "forks_count": 247
   },
   {
     "full_name": "lukeharwood11/openai-proxz",
@@ -37,14 +37,14 @@
   },
   {
     "full_name": "awslabs/mcp",
-    "stargazers_count": 3945,
-    "open_issues_count": 99,
-    "forks_count": 449
+    "stargazers_count": 4034,
+    "open_issues_count": 106,
+    "forks_count": 465
   },
   {
     "full_name": "googleapis/google-cloud-ruby",
-    "stargazers_count": 1372,
-    "open_issues_count": 68,
+    "stargazers_count": 1373,
+    "open_issues_count": 71,
     "forks_count": 560
   },
   {
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "fern-api/fern",
-    "stargazers_count": 3124,
-    "open_issues_count": 322,
-    "forks_count": 225
+    "stargazers_count": 3130,
+    "open_issues_count": 326,
+    "forks_count": 227
   },
   {
     "full_name": "zombocom/derailed_benchmarks",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "Shopify/ruvy",
-    "stargazers_count": 304,
+    "stargazers_count": 305,
     "open_issues_count": 1,
     "forks_count": 6
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "ixti/sidekiq-throttled",
-    "stargazers_count": 745,
+    "stargazers_count": 746,
     "open_issues_count": 23,
     "forks_count": 84
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "abpframework/abp",
-    "stargazers_count": 13554,
-    "open_issues_count": 424,
-    "forks_count": 3563
+    "stargazers_count": 13559,
+    "open_issues_count": 425,
+    "forks_count": 3567
   },
   {
     "full_name": "yosiat/panko_serializer",
-    "stargazers_count": 605,
+    "stargazers_count": 606,
     "open_issues_count": 31,
     "forks_count": 38
   }
