@@ -1,27 +1,27 @@
 [
   {
     "full_name": "parruda/claude-swarm",
-    "stargazers_count": 360,
-    "open_issues_count": 16,
-    "forks_count": 24
+    "stargazers_count": 413,
+    "open_issues_count": 12,
+    "forks_count": 28
   },
   {
     "full_name": "state-machines/state_machines-activerecord",
     "stargazers_count": 409,
     "open_issues_count": 11,
-    "forks_count": 84
+    "forks_count": 83
   },
   {
     "full_name": "OlympiaAI/raix",
-    "stargazers_count": 220,
-    "open_issues_count": 5,
+    "stargazers_count": 224,
+    "open_issues_count": 6,
     "forks_count": 21
   },
   {
     "full_name": "Shopify/bootsnap",
     "stargazers_count": 2702,
     "open_issues_count": 7,
-    "forks_count": 190
+    "forks_count": 191
   },
   {
     "full_name": "radioactive-labs/chrono_forge",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "dry-rb/dry-validation",
-    "stargazers_count": 1374,
+    "stargazers_count": 1375,
     "open_issues_count": 25,
     "forks_count": 191
   },
   {
     "full_name": "MoonshotAI/Kimi-Audio",
-    "stargazers_count": 3891,
-    "open_issues_count": 88,
-    "forks_count": 260
+    "stargazers_count": 3908,
+    "open_issues_count": 90,
+    "forks_count": 261
   },
   {
     "full_name": "lukeharwood11/openai-proxz",
@@ -49,19 +49,19 @@
   },
   {
     "full_name": "awslabs/mcp",
-    "stargazers_count": 4295,
-    "open_issues_count": 132,
-    "forks_count": 510
+    "stargazers_count": 4364,
+    "open_issues_count": 143,
+    "forks_count": 525
   },
   {
     "full_name": "googleapis/google-cloud-ruby",
-    "stargazers_count": 1375,
-    "open_issues_count": 67,
+    "stargazers_count": 1374,
+    "open_issues_count": 71,
     "forks_count": 560
   },
   {
     "full_name": "active-hash/active_hash",
-    "stargazers_count": 1285,
+    "stargazers_count": 1286,
     "open_issues_count": 27,
     "forks_count": 183
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "fern-api/fern",
-    "stargazers_count": 3161,
-    "open_issues_count": 299,
-    "forks_count": 228
+    "stargazers_count": 3165,
+    "open_issues_count": 295,
+    "forks_count": 229
   },
   {
     "full_name": "zombocom/derailed_benchmarks",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "ixti/sidekiq-throttled",
-    "stargazers_count": 747,
+    "stargazers_count": 748,
     "open_issues_count": 22,
     "forks_count": 84
   },
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "maelstrom-software/maelstrom",
-    "stargazers_count": 683,
+    "stargazers_count": 684,
     "open_issues_count": 186,
     "forks_count": 11
   },
