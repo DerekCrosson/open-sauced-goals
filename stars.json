@@ -1,8 +1,8 @@
 [
   {
     "full_name": "parruda/claude-swarm",
-    "stargazers_count": 732,
-    "open_issues_count": 15,
+    "stargazers_count": 779,
+    "open_issues_count": 16,
     "forks_count": 47
   },
   {
@@ -13,7 +13,7 @@
   },
   {
     "full_name": "OlympiaAI/raix",
-    "stargazers_count": 244,
+    "stargazers_count": 245,
     "open_issues_count": 5,
     "forks_count": 24
   },
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "MoonshotAI/Kimi-Audio",
-    "stargazers_count": 4045,
-    "open_issues_count": 91,
-    "forks_count": 275
+    "stargazers_count": 4067,
+    "open_issues_count": 93,
+    "forks_count": 282
   },
   {
     "full_name": "lukeharwood11/openai-proxz",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "awslabs/mcp",
-    "stargazers_count": 4869,
-    "open_issues_count": 166,
-    "forks_count": 617
+    "stargazers_count": 4956,
+    "open_issues_count": 174,
+    "forks_count": 640
   },
   {
     "full_name": "googleapis/google-cloud-ruby",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "active-hash/active_hash",
-    "stargazers_count": 1290,
+    "stargazers_count": 1291,
     "open_issues_count": 28,
     "forks_count": 184
   },
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "fern-api/fern",
-    "stargazers_count": 3202,
-    "open_issues_count": 307,
-    "forks_count": 237
+    "stargazers_count": 3206,
+    "open_issues_count": 301,
+    "forks_count": 238
   },
   {
     "full_name": "zombocom/derailed_benchmarks",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "GeorgeKaraszi/ActiveRecordExtended",
-    "stargazers_count": 1381,
+    "stargazers_count": 1384,
     "open_issues_count": 8,
     "forks_count": 45
   },
@@ -116,7 +116,7 @@
   {
     "full_name": "chaps-io/gush",
     "stargazers_count": 1084,
-    "open_issues_count": 15,
+    "open_issues_count": 16,
     "forks_count": 109
   },
   {
@@ -169,7 +169,7 @@
   },
   {
     "full_name": "maelstrom-software/maelstrom",
-    "stargazers_count": 687,
+    "stargazers_count": 688,
     "open_issues_count": 186,
     "forks_count": 11
   },
