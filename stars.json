@@ -7,9 +7,9 @@
   },
   {
     "full_name": "parruda/claude-swarm",
-    "stargazers_count": 1114,
-    "open_issues_count": 29,
-    "forks_count": 77
+    "stargazers_count": 1127,
+    "open_issues_count": 27,
+    "forks_count": 78
   },
   {
     "full_name": "state-machines/state_machines-activerecord",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "rails/bootsnap",
-    "stargazers_count": 2707,
+    "stargazers_count": 2708,
     "open_issues_count": 8,
     "forks_count": 192
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "MoonshotAI/Kimi-Audio",
-    "stargazers_count": 4207,
-    "open_issues_count": 103,
-    "forks_count": 296
+    "stargazers_count": 4213,
+    "open_issues_count": 104,
+    "forks_count": 299
   },
   {
     "full_name": "lukeharwood11/openai-proxz",
@@ -55,14 +55,14 @@
   },
   {
     "full_name": "awslabs/mcp",
-    "stargazers_count": 6156,
-    "open_issues_count": 190,
-    "forks_count": 820
+    "stargazers_count": 6208,
+    "open_issues_count": 183,
+    "forks_count": 827
   },
   {
     "full_name": "googleapis/google-cloud-ruby",
-    "stargazers_count": 1391,
-    "open_issues_count": 57,
+    "stargazers_count": 1390,
+    "open_issues_count": 55,
     "forks_count": 564
   },
   {
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "fern-api/fern",
-    "stargazers_count": 3287,
-    "open_issues_count": 325,
-    "forks_count": 243
+    "stargazers_count": 3296,
+    "open_issues_count": 324,
+    "forks_count": 244
   },
   {
     "full_name": "zombocom/derailed_benchmarks",
@@ -104,12 +104,12 @@
   {
     "full_name": "Shopify/ruvy",
     "stargazers_count": 310,
-    "open_issues_count": 5,
+    "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "GeorgeKaraszi/ActiveRecordExtended",
-    "stargazers_count": 1397,
+    "stargazers_count": 1400,
     "open_issues_count": 9,
     "forks_count": 45
   },
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "ActsAsParanoid/acts_as_paranoid",
-    "stargazers_count": 1495,
+    "stargazers_count": 1498,
     "open_issues_count": 45,
     "forks_count": 197
   },
   {
     "full_name": "ixti/sidekiq-throttled",
-    "stargazers_count": 757,
+    "stargazers_count": 758,
     "open_issues_count": 25,
     "forks_count": 86
   },
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "postgresml/korvus",
-    "stargazers_count": 1398,
+    "stargazers_count": 1399,
     "open_issues_count": 7,
     "forks_count": 40
   },
