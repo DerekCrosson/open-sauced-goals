@@ -7,9 +7,9 @@
   },
   {
     "full_name": "parruda/claude-swarm",
-    "stargazers_count": 1127,
+    "stargazers_count": 1143,
     "open_issues_count": 27,
-    "forks_count": 78
+    "forks_count": 81
   },
   {
     "full_name": "state-machines/state_machines-activerecord",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "OlympiaAI/raix",
-    "stargazers_count": 260,
+    "stargazers_count": 261,
     "open_issues_count": 10,
     "forks_count": 26
   },
@@ -43,44 +43,44 @@
   },
   {
     "full_name": "MoonshotAI/Kimi-Audio",
-    "stargazers_count": 4213,
+    "stargazers_count": 4222,
     "open_issues_count": 104,
-    "forks_count": 299
+    "forks_count": 300
   },
   {
     "full_name": "lukeharwood11/openai-proxz",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "awslabs/mcp",
-    "stargazers_count": 6208,
-    "open_issues_count": 183,
-    "forks_count": 827
+    "stargazers_count": 6255,
+    "open_issues_count": 181,
+    "forks_count": 833
   },
   {
     "full_name": "googleapis/google-cloud-ruby",
-    "stargazers_count": 1390,
-    "open_issues_count": 55,
+    "stargazers_count": 1391,
+    "open_issues_count": 54,
     "forks_count": 564
   },
   {
     "full_name": "active-hash/active_hash",
-    "stargazers_count": 1306,
+    "stargazers_count": 1307,
     "open_issues_count": 26,
     "forks_count": 186
   },
   {
     "full_name": "looker-open-source/looker-sdk-ruby",
     "stargazers_count": 16,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 12
   },
   {
     "full_name": "fern-api/fern",
-    "stargazers_count": 3296,
-    "open_issues_count": 324,
+    "stargazers_count": 3305,
+    "open_issues_count": 323,
     "forks_count": 244
   },
   {
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "Shopify/ruvy",
-    "stargazers_count": 310,
-    "open_issues_count": 1,
+    "stargazers_count": 311,
+    "open_issues_count": 0,
     "forks_count": 8
   },
   {
     "full_name": "GeorgeKaraszi/ActiveRecordExtended",
-    "stargazers_count": 1400,
+    "stargazers_count": 1401,
     "open_issues_count": 9,
     "forks_count": 45
   },
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "chaps-io/gush",
-    "stargazers_count": 1089,
+    "stargazers_count": 1090,
     "open_issues_count": 19,
     "forks_count": 110
   },
@@ -133,20 +133,20 @@
   },
   {
     "full_name": "ActsAsParanoid/acts_as_paranoid",
-    "stargazers_count": 1498,
+    "stargazers_count": 1500,
     "open_issues_count": 45,
     "forks_count": 197
   },
   {
     "full_name": "ixti/sidekiq-throttled",
-    "stargazers_count": 758,
+    "stargazers_count": 761,
     "open_issues_count": 25,
     "forks_count": 86
   },
   {
     "full_name": "sunny/actor",
     "stargazers_count": 742,
-    "open_issues_count": 4,
+    "open_issues_count": 2,
     "forks_count": 30
   },
   {
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "postgresml/korvus",
-    "stargazers_count": 1399,
+    "stargazers_count": 1401,
     "open_issues_count": 7,
     "forks_count": 40
   },
