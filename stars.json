@@ -7,9 +7,9 @@
   },
   {
     "full_name": "parruda/claude-swarm",
-    "stargazers_count": 1204,
+    "stargazers_count": 1229,
     "open_issues_count": 29,
-    "forks_count": 92
+    "forks_count": 94
   },
   {
     "full_name": "state-machines/state_machines-activerecord",
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "rails/bootsnap",
-    "stargazers_count": 2711,
+    "stargazers_count": 2712,
     "open_issues_count": 8,
     "forks_count": 192
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "MoonshotAI/Kimi-Audio",
-    "stargazers_count": 4241,
-    "open_issues_count": 106,
-    "forks_count": 301
+    "stargazers_count": 4251,
+    "open_issues_count": 107,
+    "forks_count": 302
   },
   {
     "full_name": "lukeharwood11/openai-proxz",
@@ -55,13 +55,13 @@
   },
   {
     "full_name": "awslabs/mcp",
-    "stargazers_count": 6385,
-    "open_issues_count": 209,
-    "forks_count": 882
+    "stargazers_count": 6438,
+    "open_issues_count": 220,
+    "forks_count": 896
   },
   {
     "full_name": "googleapis/google-cloud-ruby",
-    "stargazers_count": 1392,
+    "stargazers_count": 1393,
     "open_issues_count": 52,
     "forks_count": 564
   },
@@ -80,8 +80,8 @@
   {
     "full_name": "fern-api/fern",
     "stargazers_count": 3315,
-    "open_issues_count": 323,
-    "forks_count": 245
+    "open_issues_count": 325,
+    "forks_count": 246
   },
   {
     "full_name": "zombocom/derailed_benchmarks",
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "Shopify/ruvy",
-    "stargazers_count": 313,
+    "stargazers_count": 314,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "fatkodima/online_migrations",
-    "stargazers_count": 701,
+    "stargazers_count": 700,
     "open_issues_count": 2,
     "forks_count": 19
   },
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "ixti/sidekiq-throttled",
-    "stargazers_count": 762,
+    "stargazers_count": 763,
     "open_issues_count": 25,
     "forks_count": 86
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "postgresml/korvus",
-    "stargazers_count": 1421,
-    "open_issues_count": 7,
-    "forks_count": 41
+    "stargazers_count": 1446,
+    "open_issues_count": 8,
+    "forks_count": 47
   },
   {
     "full_name": "simukappu/activity_notification",
