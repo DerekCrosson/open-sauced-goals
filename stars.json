@@ -13,8 +13,8 @@
   },
   {
     "full_name": "Shopify/maintenance_tasks",
-    "stargazers_count": 1194,
-    "open_issues_count": 11,
+    "stargazers_count": 1196,
+    "open_issues_count": 9,
     "forks_count": 100
   },
   {
@@ -25,19 +25,19 @@
   },
   {
     "full_name": "parruda/claude-swarm",
-    "stargazers_count": 1296,
-    "open_issues_count": 30,
+    "stargazers_count": 1308,
+    "open_issues_count": 31,
     "forks_count": 98
   },
   {
     "full_name": "state-machines/state_machines-activerecord",
-    "stargazers_count": 413,
+    "stargazers_count": 414,
     "open_issues_count": 8,
     "forks_count": 83
   },
   {
     "full_name": "OlympiaAI/raix",
-    "stargazers_count": 273,
+    "stargazers_count": 274,
     "open_issues_count": 10,
     "forks_count": 28
   },
@@ -45,7 +45,7 @@
     "full_name": "rails/bootsnap",
     "stargazers_count": 2714,
     "open_issues_count": 7,
-    "forks_count": 192
+    "forks_count": 193
   },
   {
     "full_name": "radioactive-labs/chrono_forge",
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "dry-rb/dry-validation",
-    "stargazers_count": 1388,
+    "stargazers_count": 1390,
     "open_issues_count": 25,
     "forks_count": 190
   },
   {
     "full_name": "MoonshotAI/Kimi-Audio",
-    "stargazers_count": 4287,
+    "stargazers_count": 4294,
     "open_issues_count": 110,
-    "forks_count": 307
+    "forks_count": 306
   },
   {
     "full_name": "lukeharwood11/openai-proxz",
@@ -73,33 +73,33 @@
   },
   {
     "full_name": "awslabs/mcp",
-    "stargazers_count": 6680,
-    "open_issues_count": 228,
-    "forks_count": 970
+    "stargazers_count": 6725,
+    "open_issues_count": 225,
+    "forks_count": 977
   },
   {
     "full_name": "googleapis/google-cloud-ruby",
     "stargazers_count": 1395,
-    "open_issues_count": 55,
-    "forks_count": 565
+    "open_issues_count": 61,
+    "forks_count": 566
   },
   {
     "full_name": "active-hash/active_hash",
-    "stargazers_count": 1312,
+    "stargazers_count": 1313,
     "open_issues_count": 26,
     "forks_count": 186
   },
   {
     "full_name": "looker-open-source/looker-sdk-ruby",
     "stargazers_count": 16,
-    "open_issues_count": 1,
+    "open_issues_count": 3,
     "forks_count": 12
   },
   {
     "full_name": "fern-api/fern",
-    "stargazers_count": 3351,
-    "open_issues_count": 326,
-    "forks_count": 257
+    "stargazers_count": 3357,
+    "open_issues_count": 325,
+    "forks_count": 258
   },
   {
     "full_name": "zombocom/derailed_benchmarks",
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "GeorgeKaraszi/ActiveRecordExtended",
-    "stargazers_count": 1410,
+    "stargazers_count": 1423,
     "open_issues_count": 9,
     "forks_count": 45
   },
   {
     "full_name": "fatkodima/online_migrations",
-    "stargazers_count": 701,
-    "open_issues_count": 2,
+    "stargazers_count": 703,
+    "open_issues_count": 1,
     "forks_count": 20
   },
   {
     "full_name": "chaps-io/gush",
-    "stargazers_count": 1091,
+    "stargazers_count": 1092,
     "open_issues_count": 19,
     "forks_count": 110
   },
@@ -158,18 +158,18 @@
   {
     "full_name": "ixti/sidekiq-throttled",
     "stargazers_count": 767,
-    "open_issues_count": 23,
+    "open_issues_count": 22,
     "forks_count": 86
   },
   {
     "full_name": "sunny/actor",
-    "stargazers_count": 758,
+    "stargazers_count": 760,
     "open_issues_count": 2,
     "forks_count": 30
   },
   {
     "full_name": "rubycdp/vessel",
-    "stargazers_count": 672,
+    "stargazers_count": 673,
     "open_issues_count": 3,
     "forks_count": 14
   },
