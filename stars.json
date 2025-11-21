@@ -1,39 +1,39 @@
 [
   {
     "full_name": "shrinerb/shrine",
-    "stargazers_count": 3256,
+    "stargazers_count": 3257,
     "open_issues_count": 17,
     "forks_count": 276
   },
   {
     "full_name": "bluefireteam/dashbook",
-    "stargazers_count": 412,
-    "open_issues_count": 9,
-    "forks_count": 47
+    "stargazers_count": 413,
+    "open_issues_count": 10,
+    "forks_count": 48
   },
   {
     "full_name": "spinel-coop/rv",
-    "stargazers_count": 1484,
-    "open_issues_count": 12,
-    "forks_count": 34
+    "stargazers_count": 1487,
+    "open_issues_count": 13,
+    "forks_count": 35
   },
   {
     "full_name": "chaskiq/chaskiq",
-    "stargazers_count": 3449,
+    "stargazers_count": 3448,
     "open_issues_count": 79,
     "forks_count": 490
   },
   {
     "full_name": "powersync-ja/powersync-service",
-    "stargazers_count": 252,
-    "open_issues_count": 15,
+    "stargazers_count": 255,
+    "open_issues_count": 18,
     "forks_count": 28
   },
   {
     "full_name": "hashie/hashie",
     "stargazers_count": 3018,
     "open_issues_count": 40,
-    "forks_count": 316
+    "forks_count": 315
   },
   {
     "full_name": "activescaffold/active_scaffold",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "gregnavis/active_record_doctor",
-    "stargazers_count": 1900,
+    "stargazers_count": 1901,
     "open_issues_count": 26,
     "forks_count": 63
   },
   {
     "full_name": "Shopify/maintenance_tasks",
-    "stargazers_count": 1211,
+    "stargazers_count": 1216,
     "open_issues_count": 6,
-    "forks_count": 101
+    "forks_count": 102
   },
   {
     "full_name": "rails/rails-perftest",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "parruda/swarm",
-    "stargazers_count": 1470,
-    "open_issues_count": 9,
-    "forks_count": 109
+    "stargazers_count": 1475,
+    "open_issues_count": 7,
+    "forks_count": 110
   },
   {
     "full_name": "state-machines/state_machines-activerecord",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "OlympiaAI/raix",
-    "stargazers_count": 276,
+    "stargazers_count": 277,
     "open_issues_count": 8,
     "forks_count": 28
   },
@@ -103,26 +103,26 @@
   },
   {
     "full_name": "MoonshotAI/Kimi-Audio",
-    "stargazers_count": 4357,
+    "stargazers_count": 4363,
     "open_issues_count": 112,
     "forks_count": 315
   },
   {
     "full_name": "lukeharwood11/openai-proxz",
-    "stargazers_count": 15,
+    "stargazers_count": 16,
     "open_issues_count": 5,
     "forks_count": 2
   },
   {
     "full_name": "awslabs/mcp",
-    "stargazers_count": 7397,
-    "open_issues_count": 219,
-    "forks_count": 1089
+    "stargazers_count": 7432,
+    "open_issues_count": 217,
+    "forks_count": 1103
   },
   {
     "full_name": "googleapis/google-cloud-ruby",
-    "stargazers_count": 1401,
-    "open_issues_count": 83,
+    "stargazers_count": 1402,
+    "open_issues_count": 56,
     "forks_count": 566
   },
   {
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "fern-api/fern",
-    "stargazers_count": 3410,
-    "open_issues_count": 418,
+    "stargazers_count": 3413,
+    "open_issues_count": 424,
     "forks_count": 268
   },
   {
@@ -153,7 +153,7 @@
     "full_name": "veeqo/activejob-uniqueness",
     "stargazers_count": 298,
     "open_issues_count": 18,
-    "forks_count": 32
+    "forks_count": 33
   },
   {
     "full_name": "Mjolnir-Software/dynoscale_ruby",
