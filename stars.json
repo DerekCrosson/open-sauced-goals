@@ -1,13 +1,13 @@
 [
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 16910,
+    "stargazers_count": 16944,
     "open_issues_count": 179,
-    "forks_count": 839
+    "forks_count": 843
   },
   {
     "full_name": "Qovery/Replibyte",
-    "stargazers_count": 4385,
+    "stargazers_count": 4386,
     "open_issues_count": 119,
     "forks_count": 137
   },
@@ -19,19 +19,19 @@
   },
   {
     "full_name": "dropbox/zxcvbn",
-    "stargazers_count": 15888,
+    "stargazers_count": 15893,
     "open_issues_count": 141,
-    "forks_count": 1004
+    "forks_count": 1003
   },
   {
     "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 25333,
-    "open_issues_count": 37,
-    "forks_count": 1745
+    "stargazers_count": 25396,
+    "open_issues_count": 38,
+    "forks_count": 1746
   },
   {
     "full_name": "basecamp/activerecord-tenanted",
-    "stargazers_count": 551,
+    "stargazers_count": 558,
     "open_issues_count": 23,
     "forks_count": 24
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "charkost/prosopite",
-    "stargazers_count": 1848,
-    "open_issues_count": 25,
-    "forks_count": 56
+    "stargazers_count": 1850,
+    "open_issues_count": 27,
+    "forks_count": 57
   },
   {
     "full_name": "thoughtbot/appraisal",
@@ -61,44 +61,44 @@
   },
   {
     "full_name": "cloudflare/moltworker",
-    "stargazers_count": 9532,
+    "stargazers_count": 9585,
     "open_issues_count": 121,
-    "forks_count": 1724
+    "forks_count": 1738
   },
   {
     "full_name": "laws-africa/peachjam",
     "stargazers_count": 5,
-    "open_issues_count": 128,
+    "open_issues_count": 126,
     "forks_count": 3
   },
   {
     "full_name": "lucasgelfond/zerobrew",
-    "stargazers_count": 6666,
-    "open_issues_count": 20,
+    "stargazers_count": 6732,
+    "open_issues_count": 30,
     "forks_count": 153
   },
   {
     "full_name": "openclaw/openclaw",
-    "stargazers_count": 291986,
-    "open_issues_count": 11856,
-    "forks_count": 55311
+    "stargazers_count": 308335,
+    "open_issues_count": 12788,
+    "forks_count": 58435
   },
   {
     "full_name": "ex4-to-mq4-2023/ex4-to-mq4-2023",
     "stargazers_count": 4,
     "open_issues_count": 2,
-    "forks_count": 3
+    "forks_count": 4
   },
   {
     "full_name": "Arcanum-Sec/sec-context",
-    "stargazers_count": 532,
+    "stargazers_count": 542,
     "open_issues_count": 4,
-    "forks_count": 92
+    "forks_count": 91
   },
   {
     "full_name": "rails/solid_cache",
     "stargazers_count": 1008,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 81
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "rails/solid_cable",
-    "stargazers_count": 328,
+    "stargazers_count": 327,
     "open_issues_count": 2,
     "forks_count": 25
   },
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "google/flatbuffers",
-    "stargazers_count": 25638,
-    "open_issues_count": 149,
-    "forks_count": 3516
+    "stargazers_count": 25664,
+    "open_issues_count": 148,
+    "forks_count": 3520
   },
   {
     "full_name": "shrinerb/shrine",
-    "stargazers_count": 3270,
+    "stargazers_count": 3273,
     "open_issues_count": 15,
     "forks_count": 276
   },
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "spinel-coop/rv",
-    "stargazers_count": 1636,
-    "open_issues_count": 30,
+    "stargazers_count": 1641,
+    "open_issues_count": 29,
     "forks_count": 42
   },
   {
     "full_name": "chaskiq/chaskiq",
-    "stargazers_count": 3502,
+    "stargazers_count": 3501,
     "open_issues_count": 82,
-    "forks_count": 496
+    "forks_count": 497
   },
   {
     "full_name": "powersync-ja/powersync-service",
-    "stargazers_count": 318,
-    "open_issues_count": 26,
-    "forks_count": 41
+    "stargazers_count": 319,
+    "open_issues_count": 24,
+    "forks_count": 42
   },
   {
     "full_name": "hashie/hashie",
@@ -177,6 +177,6 @@
     "full_name": "gregnavis/active_record_doctor",
     "stargazers_count": 1908,
     "open_issues_count": 26,
-    "forks_count": 63
+    "forks_count": 64
   }
 ]
