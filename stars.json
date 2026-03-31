@@ -2,19 +2,19 @@
   {
     "full_name": "andrewbakercloudscale/terraclaim",
     "stargazers_count": 6,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "maquina-app/rails-claude-code",
-    "stargazers_count": 35,
+    "stargazers_count": 37,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "maquina-app/rails-mcp-server",
     "stargazers_count": 524,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 33
   },
   {
@@ -25,45 +25,45 @@
   },
   {
     "full_name": "maquina-app/maquina_generators",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "Openpanel-dev/openpanel",
-    "stargazers_count": 5566,
-    "open_issues_count": 53,
-    "forks_count": 334
+    "stargazers_count": 5574,
+    "open_issues_count": 54,
+    "forks_count": 335
   },
   {
     "full_name": "fystack/mpcium",
-    "stargazers_count": 143,
-    "open_issues_count": 24,
+    "stargazers_count": 145,
+    "open_issues_count": 22,
     "forks_count": 39
   },
   {
     "full_name": "mattpocock/skills",
-    "stargazers_count": 10361,
-    "open_issues_count": 4,
-    "forks_count": 845
+    "stargazers_count": 11016,
+    "open_issues_count": 5,
+    "forks_count": 910
   },
   {
     "full_name": "NVIDIA/NemoClaw",
-    "stargazers_count": 17098,
-    "open_issues_count": 450,
-    "forks_count": 1924
+    "stargazers_count": 17834,
+    "open_issues_count": 443,
+    "forks_count": 2054
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 17076,
+    "stargazers_count": 17116,
     "open_issues_count": 176,
-    "forks_count": 855
+    "forks_count": 858
   },
   {
     "full_name": "Qovery/Replibyte",
-    "stargazers_count": 4388,
+    "stargazers_count": 4386,
     "open_issues_count": 119,
-    "forks_count": 137
+    "forks_count": 136
   },
   {
     "full_name": "magicdude4eva/iterm-oh-my-zsh-powerlevel10k",
@@ -73,19 +73,19 @@
   },
   {
     "full_name": "dropbox/zxcvbn",
-    "stargazers_count": 15915,
+    "stargazers_count": 15918,
     "open_issues_count": 142,
-    "forks_count": 1003
+    "forks_count": 1002
   },
   {
     "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 25570,
-    "open_issues_count": 35,
-    "forks_count": 1754
+    "stargazers_count": 25628,
+    "open_issues_count": 39,
+    "forks_count": 1755
   },
   {
     "full_name": "basecamp/activerecord-tenanted",
-    "stargazers_count": 570,
+    "stargazers_count": 572,
     "open_issues_count": 23,
     "forks_count": 24
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "charkost/prosopite",
-    "stargazers_count": 1854,
+    "stargazers_count": 1857,
     "open_issues_count": 27,
     "forks_count": 57
   },
@@ -115,27 +115,27 @@
   },
   {
     "full_name": "cloudflare/moltworker",
-    "stargazers_count": 9742,
-    "open_issues_count": 130,
-    "forks_count": 1765
+    "stargazers_count": 9769,
+    "open_issues_count": 85,
+    "forks_count": 1771
   },
   {
     "full_name": "laws-africa/peachjam",
     "stargazers_count": 7,
-    "open_issues_count": 92,
+    "open_issues_count": 95,
     "forks_count": 3
   },
   {
     "full_name": "lucasgelfond/zerobrew",
-    "stargazers_count": 6994,
-    "open_issues_count": 24,
+    "stargazers_count": 7040,
+    "open_issues_count": 25,
     "forks_count": 159
   },
   {
     "full_name": "openclaw/openclaw",
-    "stargazers_count": 337619,
-    "open_issues_count": 15827,
-    "forks_count": 66228
+    "stargazers_count": 342071,
+    "open_issues_count": 16708,
+    "forks_count": 67551
   },
   {
     "full_name": "ex4-to-mq4-2023/ex4-to-mq4-2023",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "Arcanum-Sec/sec-context",
-    "stargazers_count": 553,
+    "stargazers_count": 559,
     "open_issues_count": 5,
     "forks_count": 94
   },
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "rails/solid_cable",
-    "stargazers_count": 330,
+    "stargazers_count": 331,
     "open_issues_count": 1,
     "forks_count": 25
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "google/flatbuffers",
-    "stargazers_count": 25722,
-    "open_issues_count": 155,
-    "forks_count": 3525
+    "stargazers_count": 25730,
+    "open_issues_count": 163,
+    "forks_count": 3528
   }
 ]
