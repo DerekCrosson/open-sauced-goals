@@ -7,15 +7,15 @@
   },
   {
     "full_name": "maquina-app/rails-claude-code",
-    "stargazers_count": 37,
+    "stargazers_count": 38,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "maquina-app/rails-mcp-server",
-    "stargazers_count": 524,
+    "stargazers_count": 525,
     "open_issues_count": 3,
-    "forks_count": 33
+    "forks_count": 32
   },
   {
     "full_name": "maquina-app/maquina_components",
@@ -31,39 +31,39 @@
   },
   {
     "full_name": "Openpanel-dev/openpanel",
-    "stargazers_count": 5574,
+    "stargazers_count": 5581,
     "open_issues_count": 54,
-    "forks_count": 335
+    "forks_count": 337
   },
   {
     "full_name": "fystack/mpcium",
-    "stargazers_count": 145,
+    "stargazers_count": 147,
     "open_issues_count": 22,
     "forks_count": 39
   },
   {
     "full_name": "mattpocock/skills",
-    "stargazers_count": 11016,
+    "stargazers_count": 11447,
     "open_issues_count": 5,
-    "forks_count": 910
+    "forks_count": 953
   },
   {
     "full_name": "NVIDIA/NemoClaw",
-    "stargazers_count": 17834,
-    "open_issues_count": 443,
-    "forks_count": 2054
+    "stargazers_count": 18250,
+    "open_issues_count": 499,
+    "forks_count": 2154
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 17116,
-    "open_issues_count": 176,
-    "forks_count": 858
+    "stargazers_count": 17146,
+    "open_issues_count": 182,
+    "forks_count": 856
   },
   {
     "full_name": "Qovery/Replibyte",
-    "stargazers_count": 4386,
+    "stargazers_count": 4385,
     "open_issues_count": 119,
-    "forks_count": 136
+    "forks_count": 137
   },
   {
     "full_name": "magicdude4eva/iterm-oh-my-zsh-powerlevel10k",
@@ -73,26 +73,26 @@
   },
   {
     "full_name": "dropbox/zxcvbn",
-    "stargazers_count": 15918,
+    "stargazers_count": 15921,
     "open_issues_count": 142,
-    "forks_count": 1002
+    "forks_count": 1001
   },
   {
     "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 25628,
-    "open_issues_count": 39,
-    "forks_count": 1755
+    "stargazers_count": 25684,
+    "open_issues_count": 40,
+    "forks_count": 1758
   },
   {
     "full_name": "basecamp/activerecord-tenanted",
     "stargazers_count": 572,
     "open_issues_count": 23,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "LucasMontorio/rspec-time-guard",
-    "stargazers_count": 16,
-    "open_issues_count": 3,
+    "stargazers_count": 17,
+    "open_issues_count": 0,
     "forks_count": 3
   },
   {
@@ -110,32 +110,32 @@
   {
     "full_name": "tmm1/stackprof",
     "stargazers_count": 2182,
-    "open_issues_count": 58,
+    "open_issues_count": 57,
     "forks_count": 137
   },
   {
     "full_name": "cloudflare/moltworker",
-    "stargazers_count": 9769,
-    "open_issues_count": 85,
-    "forks_count": 1771
+    "stargazers_count": 9786,
+    "open_issues_count": 86,
+    "forks_count": 1779
   },
   {
     "full_name": "laws-africa/peachjam",
     "stargazers_count": 7,
-    "open_issues_count": 95,
+    "open_issues_count": 89,
     "forks_count": 3
   },
   {
     "full_name": "lucasgelfond/zerobrew",
-    "stargazers_count": 7040,
-    "open_issues_count": 25,
-    "forks_count": 159
+    "stargazers_count": 7060,
+    "open_issues_count": 31,
+    "forks_count": 162
   },
   {
     "full_name": "openclaw/openclaw",
-    "stargazers_count": 342071,
-    "open_issues_count": 16708,
-    "forks_count": 67551
+    "stargazers_count": 346264,
+    "open_issues_count": 17294,
+    "forks_count": 68929
   },
   {
     "full_name": "ex4-to-mq4-2023/ex4-to-mq4-2023",
@@ -145,14 +145,14 @@
   },
   {
     "full_name": "Arcanum-Sec/sec-context",
-    "stargazers_count": 559,
+    "stargazers_count": 562,
     "open_issues_count": 5,
     "forks_count": 94
   },
   {
     "full_name": "rails/solid_cache",
-    "stargazers_count": 1015,
-    "open_issues_count": 11,
+    "stargazers_count": 1016,
+    "open_issues_count": 12,
     "forks_count": 83
   },
   {
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "rails/solid_cable",
-    "stargazers_count": 331,
+    "stargazers_count": 333,
     "open_issues_count": 1,
     "forks_count": 25
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "google/flatbuffers",
-    "stargazers_count": 25730,
-    "open_issues_count": 163,
-    "forks_count": 3528
+    "stargazers_count": 25740,
+    "open_issues_count": 161,
+    "forks_count": 3530
   }
 ]
