@@ -1,7 +1,31 @@
 [
   {
+    "full_name": "westonganger/paper_trail-association_tracking",
+    "stargazers_count": 154,
+    "open_issues_count": 5,
+    "forks_count": 39
+  },
+  {
+    "full_name": "bensheldon/activerecord-has_some_of_many",
+    "stargazers_count": 310,
+    "open_issues_count": 2,
+    "forks_count": 2
+  },
+  {
+    "full_name": "egonSchiele/contracts.ruby",
+    "stargazers_count": 1458,
+    "open_issues_count": 51,
+    "forks_count": 82
+  },
+  {
+    "full_name": "enova/sidekiq-rate-limiter",
+    "stargazers_count": 207,
+    "open_issues_count": 12,
+    "forks_count": 42
+  },
+  {
     "full_name": "lookbook-hq/lookbook",
-    "stargazers_count": 1069,
+    "stargazers_count": 1070,
     "open_issues_count": 22,
     "forks_count": 112
   },
@@ -31,9 +55,9 @@
   },
   {
     "full_name": "tailscale/tailscale-rs",
-    "stargazers_count": 693,
-    "open_issues_count": 49,
-    "forks_count": 27
+    "stargazers_count": 707,
+    "open_issues_count": 51,
+    "forks_count": 28
   },
   {
     "full_name": "gocardless/statesman",
@@ -43,7 +67,7 @@
   },
   {
     "full_name": "v1r3n/dinesh-gilfoyle",
-    "stargazers_count": 180,
+    "stargazers_count": 181,
     "open_issues_count": 0,
     "forks_count": 15
   },
@@ -55,9 +79,9 @@
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 77136,
-    "open_issues_count": 951,
-    "forks_count": 2795
+    "stargazers_count": 77274,
+    "open_issues_count": 957,
+    "forks_count": 2804
   },
   {
     "full_name": "state-machines/state_machines",
@@ -73,9 +97,9 @@
   },
   {
     "full_name": "santifer/career-ops",
-    "stargazers_count": 40372,
-    "open_issues_count": 135,
-    "forks_count": 8345
+    "stargazers_count": 41354,
+    "open_issues_count": 150,
+    "forks_count": 8573
   },
   {
     "full_name": "andrewbakercloudscale/terraclaim",
@@ -91,9 +115,9 @@
   },
   {
     "full_name": "maquina-app/rails-mcp-server",
-    "stargazers_count": 541,
+    "stargazers_count": 543,
     "open_issues_count": 7,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "maquina-app/maquina_components",
@@ -109,37 +133,37 @@
   },
   {
     "full_name": "Openpanel-dev/openpanel",
-    "stargazers_count": 5678,
+    "stargazers_count": 5693,
     "open_issues_count": 44,
-    "forks_count": 350
+    "forks_count": 351
   },
   {
     "full_name": "fystack/mpcium",
-    "stargazers_count": 154,
+    "stargazers_count": 157,
     "open_issues_count": 20,
-    "forks_count": 41
+    "forks_count": 43
   },
   {
     "full_name": "mattpocock/skills",
-    "stargazers_count": 31511,
-    "open_issues_count": 28,
-    "forks_count": 2476
+    "stargazers_count": 50073,
+    "open_issues_count": 5,
+    "forks_count": 4113
   },
   {
     "full_name": "NVIDIA/NemoClaw",
-    "stargazers_count": 19872,
-    "open_issues_count": 423,
-    "forks_count": 2514
+    "stargazers_count": 20000,
+    "open_issues_count": 420,
+    "forks_count": 2547
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 17376,
+    "stargazers_count": 17412,
     "open_issues_count": 174,
-    "forks_count": 880
+    "forks_count": 883
   },
   {
     "full_name": "Qovery/Replibyte",
-    "stargazers_count": 4390,
+    "stargazers_count": 4394,
     "open_issues_count": 119,
     "forks_count": 137
   },
@@ -151,32 +175,8 @@
   },
   {
     "full_name": "dropbox/zxcvbn",
-    "stargazers_count": 15950,
+    "stargazers_count": 15951,
     "open_issues_count": 142,
     "forks_count": 999
-  },
-  {
-    "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 26086,
-    "open_issues_count": 56,
-    "forks_count": 1779
-  },
-  {
-    "full_name": "basecamp/activerecord-tenanted",
-    "stargazers_count": 585,
-    "open_issues_count": 23,
-    "forks_count": 26
-  },
-  {
-    "full_name": "LucasMontorio/rspec-time-guard",
-    "stargazers_count": 17,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "charkost/prosopite",
-    "stargazers_count": 1869,
-    "open_issues_count": 28,
-    "forks_count": 58
   }
 ]
