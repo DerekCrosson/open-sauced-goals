@@ -49,15 +49,15 @@
   },
   {
     "full_name": "ice-cube-ruby/ice_cube",
-    "stargazers_count": 2467,
+    "stargazers_count": 2468,
     "open_issues_count": 61,
     "forks_count": 356
   },
   {
     "full_name": "tailscale/tailscale-rs",
-    "stargazers_count": 714,
-    "open_issues_count": 52,
-    "forks_count": 29
+    "stargazers_count": 716,
+    "open_issues_count": 53,
+    "forks_count": 32
   },
   {
     "full_name": "gocardless/statesman",
@@ -67,7 +67,7 @@
   },
   {
     "full_name": "v1r3n/dinesh-gilfoyle",
-    "stargazers_count": 182,
+    "stargazers_count": 184,
     "open_issues_count": 0,
     "forks_count": 15
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 77420,
-    "open_issues_count": 954,
-    "forks_count": 2810
+    "stargazers_count": 77605,
+    "open_issues_count": 958,
+    "forks_count": 2817
   },
   {
     "full_name": "state-machines/state_machines",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "santifer/career-ops",
-    "stargazers_count": 42527,
-    "open_issues_count": 171,
-    "forks_count": 8858
+    "stargazers_count": 43393,
+    "open_issues_count": 183,
+    "forks_count": 9082
   },
   {
     "full_name": "andrewbakercloudscale/terraclaim",
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "maquina-app/rails-mcp-server",
-    "stargazers_count": 544,
+    "stargazers_count": 548,
     "open_issues_count": 7,
     "forks_count": 34
   },
   {
     "full_name": "maquina-app/maquina_components",
-    "stargazers_count": 135,
+    "stargazers_count": 136,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -133,50 +133,50 @@
   },
   {
     "full_name": "Openpanel-dev/openpanel",
-    "stargazers_count": 5697,
-    "open_issues_count": 46,
-    "forks_count": 352
+    "stargazers_count": 5712,
+    "open_issues_count": 40,
+    "forks_count": 354
   },
   {
     "full_name": "fystack/mpcium",
-    "stargazers_count": 159,
+    "stargazers_count": 160,
     "open_issues_count": 20,
     "forks_count": 44
   },
   {
     "full_name": "mattpocock/skills",
-    "stargazers_count": 59317,
-    "open_issues_count": 13,
-    "forks_count": 5109
+    "stargazers_count": 65216,
+    "open_issues_count": 24,
+    "forks_count": 5620
   },
   {
     "full_name": "NVIDIA/NemoClaw",
-    "stargazers_count": 20090,
-    "open_issues_count": 401,
-    "forks_count": 2566
+    "stargazers_count": 20200,
+    "open_issues_count": 359,
+    "forks_count": 2595
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 17445,
-    "open_issues_count": 178,
-    "forks_count": 887
+    "stargazers_count": 17486,
+    "open_issues_count": 175,
+    "forks_count": 890
   },
   {
     "full_name": "Qovery/Replibyte",
-    "stargazers_count": 4394,
+    "stargazers_count": 4395,
     "open_issues_count": 118,
     "forks_count": 138
   },
   {
     "full_name": "magicdude4eva/iterm-oh-my-zsh-powerlevel10k",
-    "stargazers_count": 131,
+    "stargazers_count": 132,
     "open_issues_count": 0,
     "forks_count": 19
   },
   {
     "full_name": "dropbox/zxcvbn",
-    "stargazers_count": 15951,
+    "stargazers_count": 15956,
     "open_issues_count": 142,
-    "forks_count": 999
+    "forks_count": 998
   }
 ]
