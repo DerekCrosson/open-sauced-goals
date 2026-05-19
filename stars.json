@@ -1,19 +1,19 @@
 [
   {
     "full_name": "anthropics/claude-for-legal",
-    "stargazers_count": 4181,
-    "open_issues_count": 15,
-    "forks_count": 610
+    "stargazers_count": 7158,
+    "open_issues_count": 36,
+    "forks_count": 1060
   },
   {
     "full_name": "JuliusBrussee/caveman",
-    "stargazers_count": 60368,
-    "open_issues_count": 198,
-    "forks_count": 3346
+    "stargazers_count": 61927,
+    "open_issues_count": 207,
+    "forks_count": 3455
   },
   {
     "full_name": "westonganger/paper_trail-association_tracking",
-    "stargazers_count": 154,
+    "stargazers_count": 155,
     "open_issues_count": 5,
     "forks_count": 39
   },
@@ -25,7 +25,7 @@
   },
   {
     "full_name": "egonSchiele/contracts.ruby",
-    "stargazers_count": 1458,
+    "stargazers_count": 1457,
     "open_issues_count": 51,
     "forks_count": 82
   },
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "lookbook-hq/lookbook",
-    "stargazers_count": 1075,
+    "stargazers_count": 1078,
     "open_issues_count": 23,
     "forks_count": 113
   },
@@ -67,19 +67,19 @@
   },
   {
     "full_name": "tailscale/tailscale-rs",
-    "stargazers_count": 754,
+    "stargazers_count": 763,
     "open_issues_count": 54,
-    "forks_count": 35
+    "forks_count": 37
   },
   {
     "full_name": "gocardless/statesman",
-    "stargazers_count": 1896,
+    "stargazers_count": 1898,
     "open_issues_count": 16,
     "forks_count": 158
   },
   {
     "full_name": "v1r3n/dinesh-gilfoyle",
-    "stargazers_count": 184,
+    "stargazers_count": 186,
     "open_issues_count": 0,
     "forks_count": 15
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 77950,
-    "open_issues_count": 961,
-    "forks_count": 2834
+    "stargazers_count": 78107,
+    "open_issues_count": 963,
+    "forks_count": 2838
   },
   {
     "full_name": "state-machines/state_machines",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "santifer/career-ops",
-    "stargazers_count": 44763,
-    "open_issues_count": 198,
-    "forks_count": 9398
+    "stargazers_count": 45713,
+    "open_issues_count": 144,
+    "forks_count": 9579
   },
   {
     "full_name": "andrewbakercloudscale/terraclaim",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "maquina-app/maquina_components",
-    "stargazers_count": 136,
+    "stargazers_count": 137,
     "open_issues_count": 0,
     "forks_count": 7
   },
@@ -145,33 +145,33 @@
   },
   {
     "full_name": "Openpanel-dev/openpanel",
-    "stargazers_count": 5750,
-    "open_issues_count": 43,
-    "forks_count": 360
+    "stargazers_count": 5766,
+    "open_issues_count": 46,
+    "forks_count": 363
   },
   {
     "full_name": "fystack/mpcium",
-    "stargazers_count": 164,
+    "stargazers_count": 169,
     "open_issues_count": 21,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "mattpocock/skills",
-    "stargazers_count": 82973,
-    "open_issues_count": 28,
-    "forks_count": 7182
+    "stargazers_count": 92435,
+    "open_issues_count": 39,
+    "forks_count": 8117
   },
   {
     "full_name": "NVIDIA/NemoClaw",
-    "stargazers_count": 20417,
-    "open_issues_count": 362,
-    "forks_count": 2665
+    "stargazers_count": 20517,
+    "open_issues_count": 418,
+    "forks_count": 2691
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 17547,
-    "open_issues_count": 174,
-    "forks_count": 896
+    "stargazers_count": 17594,
+    "open_issues_count": 176,
+    "forks_count": 903
   },
   {
     "full_name": "Qovery/Replibyte",
