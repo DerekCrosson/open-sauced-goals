@@ -13,9 +13,9 @@
   },
   {
     "full_name": "tinyhumansai/openhuman",
-    "stargazers_count": 30345,
-    "open_issues_count": 99,
-    "forks_count": 2898
+    "stargazers_count": 30818,
+    "open_issues_count": 107,
+    "forks_count": 2977
   },
   {
     "full_name": "adamwiggins/clockwork",
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "Shopify/job-iteration",
-    "stargazers_count": 1300,
-    "open_issues_count": 50,
+    "stargazers_count": 1301,
+    "open_issues_count": 49,
     "forks_count": 57
   },
   {
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "anthropics/claude-for-legal",
-    "stargazers_count": 7968,
-    "open_issues_count": 50,
-    "forks_count": 1420
+    "stargazers_count": 8058,
+    "open_issues_count": 56,
+    "forks_count": 1459
   },
   {
     "full_name": "JuliusBrussee/caveman",
-    "stargazers_count": 67548,
-    "open_issues_count": 265,
-    "forks_count": 3803
+    "stargazers_count": 68972,
+    "open_issues_count": 273,
+    "forks_count": 3880
   },
   {
     "full_name": "westonganger/paper_trail-association_tracking",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "lookbook-hq/lookbook",
-    "stargazers_count": 1078,
+    "stargazers_count": 1079,
     "open_issues_count": 23,
     "forks_count": 114
   },
@@ -97,19 +97,19 @@
   },
   {
     "full_name": "ice-cube-ruby/ice_cube",
-    "stargazers_count": 2469,
+    "stargazers_count": 2470,
     "open_issues_count": 58,
-    "forks_count": 356
+    "forks_count": 357
   },
   {
     "full_name": "tailscale/tailscale-rs",
-    "stargazers_count": 791,
-    "open_issues_count": 58,
+    "stargazers_count": 803,
+    "open_issues_count": 57,
     "forks_count": 40
   },
   {
     "full_name": "gocardless/statesman",
-    "stargazers_count": 1900,
+    "stargazers_count": 1901,
     "open_issues_count": 16,
     "forks_count": 158
   },
@@ -122,14 +122,14 @@
   {
     "full_name": "mattbrictson/bundle_update_interactive",
     "stargazers_count": 241,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 6
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 78736,
-    "open_issues_count": 980,
-    "forks_count": 2855
+    "stargazers_count": 78946,
+    "open_issues_count": 981,
+    "forks_count": 2860
   },
   {
     "full_name": "state-machines/state_machines",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "santifer/career-ops",
-    "stargazers_count": 48246,
-    "open_issues_count": 133,
-    "forks_count": 10026
+    "stargazers_count": 48751,
+    "open_issues_count": 132,
+    "forks_count": 10123
   },
   {
     "full_name": "andrewbakercloudscale/terraclaim",
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "maquina-app/rails-mcp-server",
-    "stargazers_count": 555,
-    "open_issues_count": 7,
-    "forks_count": 34
+    "stargazers_count": 557,
+    "open_issues_count": 8,
+    "forks_count": 35
   },
   {
     "full_name": "maquina-app/maquina_components",
     "stargazers_count": 137,
     "open_issues_count": 0,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "maquina-app/maquina_generators",
