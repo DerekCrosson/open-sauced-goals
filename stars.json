@@ -1,32 +1,32 @@
 [
   {
     "full_name": "rxi/microui",
-    "stargazers_count": 6443,
+    "stargazers_count": 6469,
     "open_issues_count": 38,
-    "forks_count": 398
+    "forks_count": 399
   },
   {
     "full_name": "EpicGames/lore",
-    "stargazers_count": 5775,
-    "open_issues_count": 48,
-    "forks_count": 232
+    "stargazers_count": 6251,
+    "open_issues_count": 55,
+    "forks_count": 257
   },
   {
     "full_name": "HelixDB/helix-db",
-    "stargazers_count": 5454,
-    "open_issues_count": 10,
-    "forks_count": 307
+    "stargazers_count": 5499,
+    "open_issues_count": 9,
+    "forks_count": 306
   },
   {
     "full_name": "philipl/pifs",
-    "stargazers_count": 7492,
+    "stargazers_count": 7497,
     "open_issues_count": 60,
-    "forks_count": 299
+    "forks_count": 301
   },
   {
     "full_name": "guerillagardeningkzn-design/sa-fuel-api",
     "stargazers_count": 15,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 2
   },
   {
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "tinyhumansai/openhuman",
-    "stargazers_count": 32826,
-    "open_issues_count": 133,
-    "forks_count": 3184
+    "stargazers_count": 32972,
+    "open_issues_count": 129,
+    "forks_count": 3204
   },
   {
     "full_name": "adamwiggins/clockwork",
@@ -57,7 +57,7 @@
     "full_name": "Shopify/job-iteration",
     "stargazers_count": 1302,
     "open_issues_count": 52,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "westonganger/active_snapshot",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "anthropics/claude-for-legal",
-    "stargazers_count": 8440,
+    "stargazers_count": 8503,
     "open_issues_count": 56,
-    "forks_count": 1579
+    "forks_count": 1595
   },
   {
     "full_name": "JuliusBrussee/caveman",
-    "stargazers_count": 75929,
-    "open_issues_count": 308,
-    "forks_count": 4301
+    "stargazers_count": 76987,
+    "open_issues_count": 320,
+    "forks_count": 4357
   },
   {
     "full_name": "westonganger/paper_trail-association_tracking",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "bensheldon/activerecord-has_some_of_many",
-    "stargazers_count": 310,
+    "stargazers_count": 311,
     "open_issues_count": 2,
     "forks_count": 2
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "lookbook-hq/lookbook",
-    "stargazers_count": 1082,
+    "stargazers_count": 1083,
     "open_issues_count": 25,
     "forks_count": 118
   },
@@ -133,9 +133,9 @@
   },
   {
     "full_name": "tailscale/tailscale-rs",
-    "stargazers_count": 1029,
+    "stargazers_count": 1032,
     "open_issues_count": 60,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "gocardless/statesman",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "v1r3n/dinesh-gilfoyle",
-    "stargazers_count": 187,
+    "stargazers_count": 188,
     "open_issues_count": 1,
     "forks_count": 15
   },
@@ -157,13 +157,13 @@
   },
   {
     "full_name": "jesseduffield/lazygit",
-    "stargazers_count": 79539,
-    "open_issues_count": 998,
-    "forks_count": 2877
+    "stargazers_count": 79673,
+    "open_issues_count": 993,
+    "forks_count": 2883
   },
   {
     "full_name": "state-machines/state_machines",
-    "stargazers_count": 870,
+    "stargazers_count": 871,
     "open_issues_count": 1,
     "forks_count": 98
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "santifer/career-ops",
-    "stargazers_count": 55272,
-    "open_issues_count": 184,
-    "forks_count": 10933
+    "stargazers_count": 55784,
+    "open_issues_count": 147,
+    "forks_count": 11011
   }
 ]
