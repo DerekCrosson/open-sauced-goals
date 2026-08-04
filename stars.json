@@ -1,19 +1,19 @@
 [
   {
     "full_name": "speeduino/speeduino",
-    "stargazers_count": 1753,
-    "open_issues_count": 220,
+    "stargazers_count": 1759,
+    "open_issues_count": 221,
     "forks_count": 649
   },
   {
     "full_name": "damtrx/IS200-EmuBlack-WireHarness",
-    "stargazers_count": 8,
+    "stargazers_count": 9,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "damtrx/Real-Dash-CAN-Stream-XML-for-EMU-Black",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "malisper/pgrust",
-    "stargazers_count": 3921,
-    "open_issues_count": 3,
-    "forks_count": 149
+    "stargazers_count": 3983,
+    "open_issues_count": 6,
+    "forks_count": 151
   },
   {
     "full_name": "ritza-co/tldraw-agent-draw-demo",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "paullarionov/claude-certified-architect",
-    "stargazers_count": 4228,
-    "open_issues_count": 1,
-    "forks_count": 960
+    "stargazers_count": 4285,
+    "open_issues_count": 0,
+    "forks_count": 976
   },
   {
     "full_name": "collectiveidea/interactor",
-    "stargazers_count": 3458,
+    "stargazers_count": 3459,
     "open_issues_count": 28,
     "forks_count": 212
   },
@@ -73,25 +73,25 @@
   },
   {
     "full_name": "rxi/microui",
-    "stargazers_count": 6727,
+    "stargazers_count": 6752,
     "open_issues_count": 37,
     "forks_count": 414
   },
   {
     "full_name": "EpicGames/lore",
-    "stargazers_count": 8239,
-    "open_issues_count": 104,
-    "forks_count": 387
+    "stargazers_count": 8283,
+    "open_issues_count": 107,
+    "forks_count": 392
   },
   {
     "full_name": "HelixDB/helix-db",
-    "stargazers_count": 5689,
-    "open_issues_count": 10,
+    "stargazers_count": 5697,
+    "open_issues_count": 9,
     "forks_count": 318
   },
   {
     "full_name": "philipl/pifs",
-    "stargazers_count": 7526,
+    "stargazers_count": 7527,
     "open_issues_count": 60,
     "forks_count": 297
   },
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "brunofacca/active-record-query-trace",
-    "stargazers_count": 1007,
+    "stargazers_count": 1008,
     "open_issues_count": 0,
     "forks_count": 74
   },
   {
     "full_name": "tinyhumansai/openhuman",
-    "stargazers_count": 35719,
-    "open_issues_count": 159,
-    "forks_count": 3527
+    "stargazers_count": 35920,
+    "open_issues_count": 149,
+    "forks_count": 3562
   },
   {
     "full_name": "adamwiggins/clockwork",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "anthropics/claude-for-legal",
-    "stargazers_count": 8955,
-    "open_issues_count": 59,
-    "forks_count": 1718
+    "stargazers_count": 8996,
+    "open_issues_count": 64,
+    "forks_count": 1735
   },
   {
     "full_name": "JuliusBrussee/caveman",
-    "stargazers_count": 94697,
-    "open_issues_count": 442,
-    "forks_count": 5420
+    "stargazers_count": 95576,
+    "open_issues_count": 457,
+    "forks_count": 5486
   },
   {
     "full_name": "westonganger/paper_trail-association_tracking",
