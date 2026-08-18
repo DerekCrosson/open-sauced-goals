@@ -1,13 +1,13 @@
 [
   {
     "full_name": "Lucas015/crypto-signal-lab",
-    "stargazers_count": 9,
+    "stargazers_count": 15,
     "open_issues_count": 6,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "speeduino/speeduino",
-    "stargazers_count": 1764,
+    "stargazers_count": 1770,
     "open_issues_count": 208,
     "forks_count": 652
   },
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "malisper/pgrust",
-    "stargazers_count": 4395,
-    "open_issues_count": 12,
-    "forks_count": 165
+    "stargazers_count": 4545,
+    "open_issues_count": 13,
+    "forks_count": 168
   },
   {
     "full_name": "ritza-co/tldraw-agent-draw-demo",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "paullarionov/claude-certified-architect",
-    "stargazers_count": 4449,
+    "stargazers_count": 4496,
     "open_issues_count": 2,
-    "forks_count": 1012
+    "forks_count": 1031
   },
   {
     "full_name": "collectiveidea/interactor",
@@ -79,27 +79,27 @@
   },
   {
     "full_name": "rxi/microui",
-    "stargazers_count": 6789,
+    "stargazers_count": 6797,
     "open_issues_count": 36,
     "forks_count": 419
   },
   {
     "full_name": "EpicGames/lore",
-    "stargazers_count": 8385,
-    "open_issues_count": 101,
-    "forks_count": 396
+    "stargazers_count": 8410,
+    "open_issues_count": 104,
+    "forks_count": 402
   },
   {
     "full_name": "HelixDB/helix-db",
-    "stargazers_count": 5729,
-    "open_issues_count": 7,
-    "forks_count": 322
+    "stargazers_count": 5754,
+    "open_issues_count": 22,
+    "forks_count": 327
   },
   {
     "full_name": "philipl/pifs",
-    "stargazers_count": 7528,
+    "stargazers_count": 7527,
     "open_issues_count": 60,
-    "forks_count": 297
+    "forks_count": 298
   },
   {
     "full_name": "guerillagardeningkzn-design/sa-fuel-api",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "tinyhumansai/openhuman",
-    "stargazers_count": 36276,
-    "open_issues_count": 202,
-    "forks_count": 3612
+    "stargazers_count": 36335,
+    "open_issues_count": 211,
+    "forks_count": 3619
   },
   {
     "full_name": "adamwiggins/clockwork",
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "Shopify/job-iteration",
-    "stargazers_count": 1311,
+    "stargazers_count": 1312,
     "open_issues_count": 50,
     "forks_count": 60
   },
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "anthropics/claude-for-legal",
-    "stargazers_count": 9094,
-    "open_issues_count": 65,
-    "forks_count": 1766
+    "stargazers_count": 9152,
+    "open_issues_count": 66,
+    "forks_count": 1785
   },
   {
     "full_name": "JuliusBrussee/caveman",
-    "stargazers_count": 98049,
-    "open_issues_count": 481,
-    "forks_count": 5667
+    "stargazers_count": 98773,
+    "open_issues_count": 487,
+    "forks_count": 5720
   },
   {
     "full_name": "westonganger/paper_trail-association_tracking",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "enova/sidekiq-rate-limiter",
-    "stargazers_count": 209,
+    "stargazers_count": 208,
     "open_issues_count": 12,
     "forks_count": 42
   }
