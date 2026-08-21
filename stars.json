@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "designer2k2/EMUcan",
+    "stargazers_count": 44,
+    "open_issues_count": 1,
+    "forks_count": 12
+  },
+  {
     "full_name": "Lucas015/crypto-signal-lab",
     "stargazers_count": 15,
     "open_issues_count": 6,
@@ -7,9 +13,9 @@
   },
   {
     "full_name": "speeduino/speeduino",
-    "stargazers_count": 1770,
-    "open_issues_count": 208,
-    "forks_count": 652
+    "stargazers_count": 1774,
+    "open_issues_count": 209,
+    "forks_count": 651
   },
   {
     "full_name": "damtrx/IS200-EmuBlack-WireHarness",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "malisper/pgrust",
-    "stargazers_count": 4545,
-    "open_issues_count": 13,
-    "forks_count": 168
+    "stargazers_count": 4607,
+    "open_issues_count": 19,
+    "forks_count": 173
   },
   {
     "full_name": "ritza-co/tldraw-agent-draw-demo",
@@ -49,13 +55,13 @@
   },
   {
     "full_name": "paullarionov/claude-certified-architect",
-    "stargazers_count": 4496,
-    "open_issues_count": 2,
-    "forks_count": 1031
+    "stargazers_count": 4546,
+    "open_issues_count": 0,
+    "forks_count": 1039
   },
   {
     "full_name": "collectiveidea/interactor",
-    "stargazers_count": 3460,
+    "stargazers_count": 3459,
     "open_issues_count": 28,
     "forks_count": 211
   },
@@ -79,21 +85,21 @@
   },
   {
     "full_name": "rxi/microui",
-    "stargazers_count": 6797,
+    "stargazers_count": 6803,
     "open_issues_count": 36,
-    "forks_count": 419
+    "forks_count": 420
   },
   {
     "full_name": "EpicGames/lore",
-    "stargazers_count": 8410,
+    "stargazers_count": 8444,
     "open_issues_count": 104,
-    "forks_count": 402
+    "forks_count": 406
   },
   {
     "full_name": "HelixDB/helix-db",
-    "stargazers_count": 5754,
-    "open_issues_count": 22,
-    "forks_count": 327
+    "stargazers_count": 5821,
+    "open_issues_count": 17,
+    "forks_count": 335
   },
   {
     "full_name": "philipl/pifs",
@@ -115,15 +121,15 @@
   },
   {
     "full_name": "brunofacca/active-record-query-trace",
-    "stargazers_count": 1008,
+    "stargazers_count": 1007,
     "open_issues_count": 0,
     "forks_count": 74
   },
   {
     "full_name": "tinyhumansai/openhuman",
-    "stargazers_count": 36335,
-    "open_issues_count": 211,
-    "forks_count": 3619
+    "stargazers_count": 36419,
+    "open_issues_count": 246,
+    "forks_count": 3640
   },
   {
     "full_name": "adamwiggins/clockwork",
@@ -133,7 +139,7 @@
   },
   {
     "full_name": "Shopify/job-iteration",
-    "stargazers_count": 1312,
+    "stargazers_count": 1313,
     "open_issues_count": 50,
     "forks_count": 60
   },
@@ -145,15 +151,15 @@
   },
   {
     "full_name": "anthropics/claude-for-legal",
-    "stargazers_count": 9152,
+    "stargazers_count": 9207,
     "open_issues_count": 66,
-    "forks_count": 1785
+    "forks_count": 1795
   },
   {
     "full_name": "JuliusBrussee/caveman",
-    "stargazers_count": 98773,
-    "open_issues_count": 487,
-    "forks_count": 5720
+    "stargazers_count": 99687,
+    "open_issues_count": 357,
+    "forks_count": 5771
   },
   {
     "full_name": "westonganger/paper_trail-association_tracking",
@@ -172,11 +178,5 @@
     "stargazers_count": 1457,
     "open_issues_count": 51,
     "forks_count": 82
-  },
-  {
-    "full_name": "enova/sidekiq-rate-limiter",
-    "stargazers_count": 208,
-    "open_issues_count": 12,
-    "forks_count": 42
   }
 ]
