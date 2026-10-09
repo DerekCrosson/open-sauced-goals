@@ -13,8 +13,8 @@
   },
   {
     "full_name": "speeduino/speeduino",
-    "stargazers_count": 1802,
-    "open_issues_count": 200,
+    "stargazers_count": 1806,
+    "open_issues_count": 201,
     "forks_count": 656
   },
   {
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "malisper/pgrust",
-    "stargazers_count": 5231,
+    "stargazers_count": 5245,
     "open_issues_count": 28,
     "forks_count": 200
   },
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "paullarionov/claude-certified-architect",
-    "stargazers_count": 4965,
+    "stargazers_count": 4993,
     "open_issues_count": 0,
-    "forks_count": 1173
+    "forks_count": 1179
   },
   {
     "full_name": "collectiveidea/interactor",
@@ -85,25 +85,25 @@
   },
   {
     "full_name": "rxi/microui",
-    "stargazers_count": 6865,
+    "stargazers_count": 6867,
     "open_issues_count": 36,
     "forks_count": 423
   },
   {
     "full_name": "EpicGames/lore",
-    "stargazers_count": 8873,
+    "stargazers_count": 8894,
     "open_issues_count": 115,
-    "forks_count": 450
+    "forks_count": 453
   },
   {
     "full_name": "HelixDB/helix-db",
-    "stargazers_count": 6113,
-    "open_issues_count": 16,
-    "forks_count": 375
+    "stargazers_count": 6124,
+    "open_issues_count": 18,
+    "forks_count": 376
   },
   {
     "full_name": "philipl/pifs",
-    "stargazers_count": 7531,
+    "stargazers_count": 7532,
     "open_issues_count": 60,
     "forks_count": 298
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "tinyhumansai/openhuman",
-    "stargazers_count": 40947,
-    "open_issues_count": 285,
-    "forks_count": 4045
+    "stargazers_count": 41707,
+    "open_issues_count": 303,
+    "forks_count": 4102
   },
   {
     "full_name": "adamwiggins/clockwork",
@@ -141,7 +141,7 @@
     "full_name": "Shopify/job-iteration",
     "stargazers_count": 1316,
     "open_issues_count": 51,
-    "forks_count": 61
+    "forks_count": 62
   },
   {
     "full_name": "westonganger/active_snapshot",
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "anthropics/claude-for-legal",
-    "stargazers_count": 9606,
+    "stargazers_count": 9629,
     "open_issues_count": 80,
-    "forks_count": 1873
+    "forks_count": 1878
   },
   {
     "full_name": "JuliusBrussee/caveman",
-    "stargazers_count": 110063,
-    "open_issues_count": 121,
-    "forks_count": 6369
+    "stargazers_count": 110636,
+    "open_issues_count": 50,
+    "forks_count": 6408
   },
   {
     "full_name": "westonganger/paper_trail-association_tracking",
