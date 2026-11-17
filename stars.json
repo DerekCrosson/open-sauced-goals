@@ -1,9 +1,9 @@
 [
   {
     "full_name": "jessfraz/beep-boop",
-    "stargazers_count": 132,
+    "stargazers_count": 134,
     "open_issues_count": 5,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "openwork-africa/ai2",
@@ -13,19 +13,19 @@
   },
   {
     "full_name": "u-gems/u-case",
-    "stargazers_count": 553,
+    "stargazers_count": 554,
     "open_issues_count": 6,
     "forks_count": 31
   },
   {
     "full_name": "NVIDIA/auto-ontology",
-    "stargazers_count": 12373,
-    "open_issues_count": 121,
-    "forks_count": 1017
+    "stargazers_count": 13454,
+    "open_issues_count": 119,
+    "forks_count": 1142
   },
   {
     "full_name": "designer2k2/EMUcan",
-    "stargazers_count": 47,
+    "stargazers_count": 48,
     "open_issues_count": 1,
     "forks_count": 13
   },
@@ -38,7 +38,7 @@
   {
     "full_name": "speeduino/speeduino",
     "stargazers_count": 1829,
-    "open_issues_count": 201,
+    "open_issues_count": 199,
     "forks_count": 663
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "valtsu23/DIY-Emu-Black-Dash",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "malisper/pgrust",
-    "stargazers_count": 5796,
-    "open_issues_count": 60,
-    "forks_count": 225
+    "stargazers_count": 5832,
+    "open_issues_count": 62,
+    "forks_count": 229
   },
   {
     "full_name": "ritza-co/tldraw-agent-draw-demo",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "paullarionov/claude-certified-architect",
-    "stargazers_count": 5238,
-    "open_issues_count": 3,
-    "forks_count": 1245
+    "stargazers_count": 5272,
+    "open_issues_count": 4,
+    "forks_count": 1255
   },
   {
     "full_name": "collectiveidea/interactor",
@@ -98,7 +98,7 @@
   {
     "full_name": "eclectic-coding/query_owl",
     "stargazers_count": 1,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 0
   },
   {
@@ -109,25 +109,25 @@
   },
   {
     "full_name": "rxi/microui",
-    "stargazers_count": 6951,
+    "stargazers_count": 6960,
     "open_issues_count": 36,
-    "forks_count": 425
+    "forks_count": 428
   },
   {
     "full_name": "EpicGames/lore",
-    "stargazers_count": 9141,
-    "open_issues_count": 137,
-    "forks_count": 488
+    "stargazers_count": 9162,
+    "open_issues_count": 141,
+    "forks_count": 489
   },
   {
     "full_name": "HelixDB/helix-db",
-    "stargazers_count": 6284,
-    "open_issues_count": 18,
-    "forks_count": 396
+    "stargazers_count": 6297,
+    "open_issues_count": 23,
+    "forks_count": 403
   },
   {
     "full_name": "philipl/pifs",
-    "stargazers_count": 7539,
+    "stargazers_count": 7541,
     "open_issues_count": 60,
     "forks_count": 299
   },
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "tinyhumansai/openhuman",
-    "stargazers_count": 42676,
-    "open_issues_count": 360,
-    "forks_count": 4217
+    "stargazers_count": 42724,
+    "open_issues_count": 311,
+    "forks_count": 4221
   },
   {
     "full_name": "adamwiggins/clockwork",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "Shopify/job-iteration",
-    "stargazers_count": 1317,
+    "stargazers_count": 1316,
     "open_issues_count": 50,
     "forks_count": 65
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "anthropics/claude-for-legal",
-    "stargazers_count": 9993,
-    "open_issues_count": 97,
-    "forks_count": 1962
+    "stargazers_count": 10027,
+    "open_issues_count": 103,
+    "forks_count": 1972
   }
 ]
