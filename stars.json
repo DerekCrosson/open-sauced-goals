@@ -1,57 +1,87 @@
 [
   {
+    "full_name": "progrium/minipg",
+    "stargazers_count": 228,
+    "open_issues_count": 1,
+    "forks_count": 6
+  },
+  {
+    "full_name": "jlruedab/clifr",
+    "stargazers_count": 24,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "DioxusLabs/dioxus",
+    "stargazers_count": 39946,
+    "open_issues_count": 945,
+    "forks_count": 1997
+  },
+  {
+    "full_name": "sickn33/agentic-awesome-skills",
+    "stargazers_count": 50427,
+    "open_issues_count": 7,
+    "forks_count": 7314
+  },
+  {
+    "full_name": "Raslin777/mgu-private-apps",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "aws/aws-emulator",
-    "stargazers_count": 10022,
-    "open_issues_count": 582,
-    "forks_count": 495
+    "stargazers_count": 10182,
+    "open_issues_count": 631,
+    "forks_count": 509
   },
   {
     "full_name": "zizmorcore/zizmor",
-    "stargazers_count": 7139,
-    "open_issues_count": 180,
-    "forks_count": 289
-  },
-  {
-    "full_name": "gulivan/worker755",
-    "stargazers_count": 233,
-    "open_issues_count": 0,
-    "forks_count": 8
-  },
-  {
-    "full_name": "bilawalsidhu/gods-eye-view",
-    "stargazers_count": 66577,
-    "open_issues_count": 440,
-    "forks_count": 13179
-  },
-  {
-    "full_name": "wailsapp/wails",
-    "stargazers_count": 37187,
-    "open_issues_count": 418,
-    "forks_count": 1942
-  },
-  {
-    "full_name": "coldteadotai/pr-lens",
-    "stargazers_count": 2440,
-    "open_issues_count": 6,
-    "forks_count": 103
-  },
-  {
-    "full_name": "cauliflowermossgrape/idrive7-apps",
-    "stargazers_count": 789,
-    "open_issues_count": 32,
-    "forks_count": 174
-  },
-  {
-    "full_name": "hashgraph-online/hol-guard",
-    "stargazers_count": 1121,
-    "open_issues_count": 79,
+    "stargazers_count": 7185,
+    "open_issues_count": 181,
     "forks_count": 291
   },
   {
+    "full_name": "gulivan/worker755",
+    "stargazers_count": 248,
+    "open_issues_count": 0,
+    "forks_count": 11
+  },
+  {
+    "full_name": "bilawalsidhu/gods-eye-view",
+    "stargazers_count": 67112,
+    "open_issues_count": 436,
+    "forks_count": 13307
+  },
+  {
+    "full_name": "wailsapp/wails",
+    "stargazers_count": 37217,
+    "open_issues_count": 424,
+    "forks_count": 1944
+  },
+  {
+    "full_name": "coldteadotai/pr-lens",
+    "stargazers_count": 2451,
+    "open_issues_count": 6,
+    "forks_count": 102
+  },
+  {
+    "full_name": "cauliflowermossgrape/idrive7-apps",
+    "stargazers_count": 811,
+    "open_issues_count": 5,
+    "forks_count": 176
+  },
+  {
+    "full_name": "hashgraph-online/hol-guard",
+    "stargazers_count": 1128,
+    "open_issues_count": 80,
+    "forks_count": 293
+  },
+  {
     "full_name": "BaaRai/ARTEX",
-    "stargazers_count": 18443,
-    "open_issues_count": 32,
-    "forks_count": 6876
+    "stargazers_count": 22764,
+    "open_issues_count": 40,
+    "forks_count": 8478
   },
   {
     "full_name": "Ri4dH/failtrace",
@@ -61,20 +91,20 @@
   },
   {
     "full_name": "aryamandarda/tamserve",
-    "stargazers_count": 282,
+    "stargazers_count": 291,
     "open_issues_count": 0,
     "forks_count": 15
   },
   {
     "full_name": "iamd3vil/blobasaur",
-    "stargazers_count": 430,
-    "open_issues_count": 12,
-    "forks_count": 48
+    "stargazers_count": 484,
+    "open_issues_count": 7,
+    "forks_count": 56
   },
   {
     "full_name": "jessfraz/beep-boop",
-    "stargazers_count": 133,
-    "open_issues_count": 1,
+    "stargazers_count": 152,
+    "open_issues_count": 2,
     "forks_count": 12
   },
   {
@@ -91,9 +121,9 @@
   },
   {
     "full_name": "NVIDIA/auto-ontology",
-    "stargazers_count": 14738,
-    "open_issues_count": 168,
-    "forks_count": 1330
+    "stargazers_count": 15218,
+    "open_issues_count": 193,
+    "forks_count": 1380
   },
   {
     "full_name": "designer2k2/EMUcan",
@@ -109,9 +139,9 @@
   },
   {
     "full_name": "speeduino/speeduino",
-    "stargazers_count": 1832,
-    "open_issues_count": 207,
-    "forks_count": 669
+    "stargazers_count": 1833,
+    "open_issues_count": 203,
+    "forks_count": 670
   },
   {
     "full_name": "damtrx/IS200-EmuBlack-WireHarness",
@@ -139,44 +169,14 @@
   },
   {
     "full_name": "malisper/pgrust",
-    "stargazers_count": 6034,
-    "open_issues_count": 69,
-    "forks_count": 247
+    "stargazers_count": 6102,
+    "open_issues_count": 70,
+    "forks_count": 249
   },
   {
     "full_name": "ritza-co/tldraw-agent-draw-demo",
     "stargazers_count": 27,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "paullarionov/claude-certified-architect",
-    "stargazers_count": 5315,
-    "open_issues_count": 4,
-    "forks_count": 1262
-  },
-  {
-    "full_name": "collectiveidea/interactor",
-    "stargazers_count": 3456,
-    "open_issues_count": 28,
-    "forks_count": 210
-  },
-  {
-    "full_name": "CharlesDerek/crustacian",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "eclectic-coding/query_owl",
-    "stargazers_count": 1,
-    "open_issues_count": 2,
-    "forks_count": 0
-  },
-  {
-    "full_name": "briansmith80/claude-code-hooks",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
